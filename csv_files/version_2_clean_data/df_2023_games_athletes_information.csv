@@ -1,0 +1,81 @@
+competitorId,competitorName,firstName,lastName,gender,countryOfOriginName,regionName,affiliateId,affiliateName,age,height,weight,overallRank,overallScore,year,competition
+665223.0,Michal Wesolowski,Michal,Wesolowski,M,Poland,Europe,29893.0,CrossFit Strong House,30.0,184 cm,98 kg,,0.0,2023,games
+81616.0,Björgvin Karl Guðmundsson,Björgvin Karl,Guðmundsson,M,Iceland,Europe,4860.0,CrossFit Hengill,30.0,178 cm,190 lb,,0.0,2023,games
+234569.0,David Shorunke,David,Shorunke,M,United Kingdom,Europe,29213.0,High Performance CrossFit,33.0,189 cm,103 kg,,0.0,2023,games
+1762608.0,Morteza Sedaghat,Morteza,Sedaghat,M,Iran,Asia,,,28.0,172 cm,89 kg,,0.0,2023,games
+250172.0,Bronislaw Olenkowicz,Bronislaw,Olenkowicz,M,Poland,Europe,29893.0,CrossFit Strong House,34.0,182 cm,99 kg,,0.0,2023,games
+680734.0,Henrik Haapalainen,Henrik,Haapalainen,M,Finland,Europe,7050.0,CrossFit Basement,28.0,185 cm,94 kg,,0.0,2023,games
+925870.0,Moritz Fiebig,Moritz,Fiebig,M,Germany,Europe,32297.0,CrossFit Sankt Pauli,28.0,179 cm,95 kg,,0.0,2023,games
+1059467.0,Lazar Đukić,Lazar,Đukić,M,Serbia,Europe,20389.0,Nero CrossFit,27.0,182 cm,93 kg,,0.0,2023,games
+672425.0,Arthur Semenov,Arthur,Semenov,M,,Asia,31907.0,EA CrossFit,30.0,189 cm,99 kg,,0.0,2023,games
+1657300.0,Fabian Beneito,Fabian,Beneito,M,Spain,Europe,17272.0,CrossFit Zarautz,27.0,178 cm,90 kg,,0.0,2023,games
+472642.0,Uldis Upenieks,Uldis,Upenieks,M,Latvia,Europe,,,25.0,174 cm,85 kg,,0.0,2023,games
+173837.0,Jonne Koski,Jonne,Koski,M,Finland,Europe,7526.0,CrossFit 10K,28.0,171 cm,190 lb,,0.0,2023,games
+926366.0,Jelle Hoste,Jelle,Hoste,M,Belgium,Europe,14886.0,CrossFit Kortrijk,28.0,190 cm,98 kg,,0.0,2023,games
+2064040.0,Kalyan Souza,Kalyan,Souza,M,Brazil,South America,17913.0,CrossFit Al Ain,22.0,184 cm,92 kg,,0.0,2023,games
+843041.0,Nick Mathew,Nick,Mathew,M,United States,North America West,14452.0,CrossFit Minnetonka,29.0,69 in,200 lb,,0.0,2023,games
+811708.0,Justin Medeiros,Justin,Medeiros,M,United States,North America West,1792.0,CrossFit Fort Vancouver,24.0,69 in,195 lb,,0.0,2023,games
+107101.0,Brent Fikowski,Brent,Fikowski,M,Canada,North America West,,,32.0,74 in,220 lb,,0.0,2023,games
+2725.0,Noah Ohlsen,Noah,Ohlsen,M,United States,North America East,2509.0,Peak 360 CrossFit,32.0,67 in,190 lb,,0.0,2023,games
+1718365.0,Cole Greashaber,Cole,Greashaber,M,United States,North America West,1232.0,CrossFit Lee's Summit (LS),23.0,72 in,212 lb,,0.0,2023,games
+479759.0,Bayley Martin,Bayley,Martin,M,New Zealand,Oceania,15606.0,CrossFit Selwyn,23.0,174 cm,82 kg,,0.0,2023,games
+74320.0,Samuel Kwant,Samuel,Kwant,M,United States,North America West,,,27.0,71 in,206 lb,,0.0,2023,games
+469626.0,Chandler Smith,Chandler,Smith,M,United States,North America West,600.0,CrossFit Invictus,30.0,68 in,195 lb,,0.0,2023,games
+258151.0,Jake Douglas,Jake,Douglas,M,Australia,Oceania,9586.0,Snake CrossFit,32.0,172 cm,202 lb,,0.0,2023,games
+901503.0,Kaique Cerveny,Kaique,Cerveny,M,Brazil,South America,32095.0,CrossFit Lago Sul,25.0,1 cm,96 kg,,0.0,2023,games
+153625.0,Cole Sager,Cole,Sager,M,United States,North America West,967.0,CrossFit Spokane Valley,32.0,71 in,200 lb,,0.0,2023,games
+156156.0,Jay Crouch,Jay,Crouch,M,Australia,Oceania,1348.0,Reebok CrossFit Frankston,24.0,175 cm,85 kg,,0.0,2023,games
+158264.0,Patrick Vellner,Patrick,Vellner,M,Canada,North America West,1918.0,CrossFit Nanaimo,33.0,71 in,195 lb,,0.0,2023,games
+676693.0,Colten Mertens,Colten,Mertens,M,United States,North America West,1324.0,CrossFit Kilo,25.0,64 in,180 lb,,0.0,2023,games
+1020449.0,Jayson Hopper,Jayson,Hopper,M,United States,North America East,15471.0,CrossFit Crash,25.0,73 in,220 lb,,0.0,2023,games
+327636.0,Samuel Cournoyer,Samuel,Cournoyer,M,Canada,North America East,28908.0,CrossFit ADM Chambly,27.0,180 cm,205 lb,,0.0,2023,games
+120333.0,Jason Smith,Jason,Smith,M,South Africa,Africa,22771.0,CrossFit Sunninghill,39.0,185 cm,195 lb,,0.0,2023,games
+867741.0,Jack Farlow,Jack,Farlow,M,Canada,North America East,21726.0,CrossFit PSC,21.0,73 in,210 lb,,0.0,2023,games
+671093.0,Dallin Pepper,Dallin,Pepper,M,United States,North America East,1893.0,CrossFit Naples,21.0,72 in,215 lb,,0.0,2023,games
+469656.0,Jeffrey Adler,Jeffrey,Adler,M,Canada,North America East,18059.0,CrossFit Wonderland,29.0,69 in,197 lb,,0.0,2023,games
+1546147.0,Luke Parker,Luke,Parker,M,United States,North America East,3220.0,CrossFit Mayhem,29.0,71 in,205 lb,,0.0,2023,games
+180541.0,Alex Vigneault,Alex,Vigneault,M,Canada,North America East,,,31.0,71 in,205 lb,,0.0,2023,games
+975774.0,Roman Khrennikov,Roman,Khrennikov,M,United States,North America East,3220.0,CrossFit Mayhem,28.0,182 cm,103 kg,,0.0,2023,games
+900251.0,James Sprague,James,Sprague,M,United States,North America East,1893.0,CrossFit Naples,21.0,74 in,210 lb,,0.0,2023,games
+35627.0,Will Moorad,Will,Moorad,M,United States,North America East,19593.0,CrossFit East Nashville,34.0,69 in,190 lb,,0.0,2023,games
+162712.0,Spencer Panchik,Spencer,Panchik,M,United States,North America East,7991.0,CrossFit Mentality,27.0,68 in,190 lb,,0.0,2023,games
+1544576.0,Seher Kaya,Seher,Kaya,F,Turkey,Asia,372.0,CrossFit Oslo,25.0,161 cm,64 kg,,0.0,2023,games
+18588.0,Annie Thorisdottir,Annie,Thorisdottir,F,Iceland,Europe,2025.0,CrossFit Reykjavík,33.0,170 cm,152 lb,,0.0,2023,games
+887297.0,Emma Tall,Emma,Tall,F,Sweden,Europe,29213.0,High Performance CrossFit,31.0,168 cm,68 kg,,0.0,2023,games
+698210.0,Karin Freyová,Karin,Freyová,F,Slovakia,Europe,22093.0,Alpha Prime CrossFit,28.0,170 cm,72 kg,,0.0,2023,games
+1983424.0,Elisa Fuliano,Elisa,Fuliano,F,Italy,Europe,16895.0,CrossFit Altessano,27.0,157 cm,60 kg,,0.0,2023,games
+764556.0,Gabriela Migała,Gabriela,Migała,F,Poland,Europe,7709.0,CrossFit 72D,24.0,170 cm,75 kg,,0.0,2023,games
+953791.0,Shahad Budebs,Shahad,Budebs,F,United Arab Emirates,Asia,31536.0,CrossFit Moon,28.0,160 cm,60 kg,,0.0,2023,games
+485344.0,Rebecka Vitesson,Rebecka,Vitesson,F,Sweden,Europe,859.0,CrossFit Butcher's Lab,29.0,173 cm,65 kg,,0.0,2023,games
+831149.0,Matilde Garnes,Matilde,Garnes,F,Norway,Europe,372.0,CrossFit Oslo,27.0,174 cm,70 kg,,0.0,2023,games
+998366.0,Ella Wunger,Ella,Wunger,F,Sweden,Europe,12162.0,C23 CrossFit,25.0,170 cm,70 kg,,0.0,2023,games
+686626.0,Manon Angonese,Manon,Angonese,F,Belgium,Europe,,,30.0,163 cm,69 kg,,0.0,2023,games
+591912.0,Laura Horvath,Laura,Horvath,F,Hungary,Europe,22540.0,CrossFit Glasshouse,26.0,170 cm,70 kg,,0.0,2023,games
+239442.0,Emma McQuaid,Emma,McQuaid,F,Ireland,Europe,29324.0,Crooked Lake CrossFit,33.0,165 cm,67 kg,,0.0,2023,games
+221169.0,Victoria Campos,Victoria,Campos,F,Brazil,South America,3220.0,CrossFit Mayhem,30.0,161 cm,140 lb,,0.0,2023,games
+585046.0,Baylee Rayl,Baylee,Rayl,F,United States,North America West,,,27.0,67 in,135 lb,,0.0,2023,games
+747027.0,Kelly Baker,Kelly,Baker,F,United States,North America West,26399.0,CrossFit Greater Heights,31.0,64 in,150 lb,,0.0,2023,games
+2012971.0,Alexia Williams,Alexia,Williams,F,Argentina,South America,31497.0,WTC CrossFit,24.0,169 cm,70 kg,,0.0,2023,games
+1232297.0,Alex Gazan,Alex,Gazan,F,United States,North America West,6103.0,Rhino CrossFit,21.0,66 in,150 lb,,0.0,2023,games
+349097.0,Danielle Brandon,Danielle,Brandon,F,United States,North America East,1893.0,CrossFit Naples,27.0,170 cm,150 lb,,0.0,2023,games
+2077209.0,Abigail Domit,Abigail,Domit,F,United States,North America West,770.0,Lone Star CrossFit,25.0,67 in,147 lb,,0.0,2023,games
+484380.0,Emily Rolfe,Emily,Rolfe,F,Canada,North America West,22956.0,CrossFit Sea Level,34.0,170 cm,152 lb,,0.0,2023,games
+1269411.0,Olivia Kerstetter,Olivia,Kerstetter,F,United States,North America West,3623.0,Solution 1 CrossFit,17.0,65 in,160 lb,,0.0,2023,games
+55121.0,Katrin Tanja Davidsdottir,Katrin Tanja,Davidsdottir,F,United States,North America West,616.0,CrossFit Coeur d'Alene,30.0,169 cm,152 lb,,0.0,2023,games
+132258.0,Arielle Loewen,Arielle,Loewen,F,United States,North America West,,,29.0,63 in,150 lb,,0.0,2023,games
+1240398.0,Emily de Rooy,Emily,de Rooy,F,Australia,Oceania,3235.0,CrossFit Townsville,22.0,174 cm,75 kg,,0.0,2023,games
+1119323.0,Ellie Turner,Ellie,Turner,F,Australia,Oceania,1792.0,CrossFit Fort Vancouver,25.0,167 cm,72 kg,,0.0,2023,games
+656004.0,Christine Kolenbrander,Christine,Kolenbrander,F,United States,North America West,29609.0,CrossFit 417,31.0,66 in,154 lb,,0.0,2023,games
+264512.0,Jamie Simmonds,Jamie,Simmonds,F,New Zealand,Oceania,10868.0,CrossFit Yas,32.0,163 cm,135 lb,,0.0,2023,games
+592472.0,Bethany Flores,Bethany,Flores,F,United States,North America West,29075.0,Next Level CrossFit,29.0,64 in,144 lb,,0.0,2023,games
+893554.0,Michelle Basnett,Michelle,Basnett,F,South Africa,Africa,931.0,CrossFit Charlotte,26.0,64 in,152 lb,,0.0,2023,games
+252691.0,Feeroozeh Saghafi,Feeroozeh,Saghafi,F,United States,North America East,1893.0,CrossFit Naples,28.0,61 in,133 lb,,0.0,2023,games
+1931423.0,Emma Lawson,Emma,Lawson,F,Canada,North America East,21726.0,CrossFit PSC,18.0,65 in,140 lb,,0.0,2023,games
+1190381.0,Paige Powers,Paige,Powers,F,United States,North America East,3220.0,CrossFit Mayhem,20.0,64 in,155 lb,,0.0,2023,games
+530860.0,Shelby Neal,Shelby,Neal,F,United States,North America East,10851.0,12th State CrossFit,23.0,62 in,150 lb,,0.0,2023,games
+531598.0,Paige Semenza,Paige,Semenza,F,United States,North America East,4938.0,CrossFit Vertex,31.0,63 in,147 lb,,0.0,2023,games
+872275.0,Caroline Stanley,Caroline,Stanley,F,United States,North America East,3617.0,College Hill CrossFit,23.0,63 in,145 lb,,0.0,2023,games
+174547.0,Amanda Barnhart,Amanda,Barnhart,F,United States,North America East,14583.0,CrossFit High Gear,31.0,67 in,160 lb,,0.0,2023,games
+121033.0,Sydney Wells,Sydney,Wells,F,United States,North America East,19593.0,CrossFit East Nashville,28.0,66 in,151 lb,,0.0,2023,games
+503582.0,Alexis Raptis,Alexis,Raptis,F,United States,North America East,25335.0,TTT CrossFit,24.0,65 in,155 lb,,0.0,2023,games
+1547449.0,Emma Cary,Emma,Cary,F,United States,North America East,1893.0,CrossFit Naples,19.0,64 in,140 lb,,0.0,2023,games

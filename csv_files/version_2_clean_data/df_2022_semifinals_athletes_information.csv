@@ -1,0 +1,634 @@
+competitorId,competitorName,firstName,lastName,gender,countryOfOriginName,regionName,affiliateId,affiliateName,age,height,weight,overallRank,overallScore,year,competition
+811708.0,Justin Medeiros,Justin,Medeiros,M,United States,North America,1792.0,CrossFit Fort Vancouver,23.0,69 in,195 lb,1.0,540.0,2022,semifinals
+1020449.0,Jayson Hopper,Jayson,Hopper,M,United States,North America,15471.0,CrossFit Crash,24.0,73 in,220 lb,2.0,468.0,2022,semifinals
+1718365.0,Cole Greashaber,Cole,Greashaber,M,United States,North America,1232.0,CrossFit Lee's Summit (LS),22.0,72 in,212 lb,3.0,457.0,2022,semifinals
+897110.0,Tudor Magda,Tudor,Magda,M,United States,North America,22721.0,Lion Brave CrossFit,19.0,70 in,200 lb,4.0,418.0,2022,semifinals
+35627.0,Will Moorad,Will,Moorad,M,United States,North America,19593.0,CrossFit East Nashville,33.0,69 in,190 lb,5.0,403.0,2022,semifinals
+900251.0,James Sprague,James,Sprague,M,United States,North America,1893.0,CrossFit Naples,20.0,74 in,210 lb,6.0,402.0,2022,semifinals
+681073.0,Griffin Roelle,Griffin,Roelle,M,United States,North America,8533.0,CrossFit Dwala,30.0,70 in,205 lb,7.0,381.0,2022,semifinals
+313457.0,Jacob Pfaff,Jacob,Pfaff,M,United States,North America,22787.0,CrossFit Noble Defender,30.0,67 in,215 lb,8.0,372.0,2022,semifinals
+1454081.0,Matt Poulin,Matt,Poulin,M,United States,North America,1526.0,CrossFit Complete,26.0,70 in,195 lb,9.0,355.0,2022,semifinals
+1271103.0,Evan Rogers,Evan,Rogers,M,United States,North America,17881.0,Camel City CrossFit,28.0,71 in,185 lb,10.0,351.0,2022,semifinals
+534247.0,Scott Tetlow,Scott,Tetlow,M,United States,North America,1313.0,Finish Strong CrossFit,29.0,63 in,175 lb,11.0,337.0,2022,semifinals
+916348.0,Rafael Sancen,Rafael,Sancen,M,Mexico,North America,18647.0,Richard Russell CrossFit,27.0,72 in,190 lb,12.0,331.0,2022,semifinals
+43761.0,Ben Smith,Ben,Smith,M,United States,North America,4933.0,CrossFit Krypton,32.0,71 in,195 lb,13.0,282.0,2022,semifinals
+505544.0,Hal Fisher,Hal,Fisher,M,United States,North America,4917.0,CrossFit Trivium,25.0,69 in,193 lb,14.0,277.0,2022,semifinals
+325873.0,Garrett Clark,Garrett,Clark,M,United States,North America,1835.0,Three Kings CrossFit,23.0,69 in,195 lb,15.0,272.0,2022,semifinals
+473970.0,Brian Huynh,Brian,Huynh,M,United States,North America,14281.0,CrossFit Franco's,28.0,69 in,180 lb,16.0,270.0,2022,semifinals
+99564.0,Alec Smith,Alec,Smith,M,United States,North America,4933.0,CrossFit Krypton,29.0,71 in,185 lb,17.0,263.0,2022,semifinals
+402035.0,Mark Hutchinson,Mark,Hutchinson,M,United States,North America,20398.0,TriForce CrossFit,34.0,71 in,218 lb,18.0,255.0,2022,semifinals
+1169278.0,Mathias Porter,Mathias,Porter,M,United States,North America,4933.0,CrossFit Krypton,26.0,71 in,205 lb,19.0,246.0,2022,semifinals
+1045503.0,Spencer Arey,Spencer,Arey,M,United States,North America,220.0,CrossFit Vitality,23.0,69 in,170 lb,20.0,237.0,2022,semifinals
+367955.0,Mike Evans,Mike,Evans,M,United States,North America,11854.0,CrossFit XD,25.0,70 in,195 lb,21.0,227.0,2022,semifinals
+1031875.0,Roldan Goldbaum,Roldan,Goldbaum,M,Mexico,North America,21264.0,Strong Suit CrossFit,22.0,170 cm,90 kg,22.0,211.0,2022,semifinals
+117991.0,Dex Hopkins,Dex,Hopkins,M,United States,North America,18076.0,CrossFit Tupelo,33.0,74 in,210 lb,23.0,192.0,2022,semifinals
+449514.0,Mike McDonald,Mike,McDonald,M,United States,North America,15471.0,CrossFit Crash,31.0,72 in,195 lb,24.0,186.0,2022,semifinals
+34435.0,Tristan Maiorano,Tristan,Maiorano,M,United States,North America,16077.0,Ocean State CrossFit,27.0,71 in,195 lb,25.0,177.0,2022,semifinals
+478734.0,Raymond Romanick,Raymond,Romanick,M,United States,North America,18632.0,CrossFit Bethesda,28.0,71 in,195 lb,26.0,148.0,2022,semifinals
+487845.0,Vicente Azua Jr,Vicente,Azua Jr,M,United States,North America,708.0,IMT CrossFit,30.0,69 in,190 lb,27.0,147.0,2022,semifinals
+1209621.0,Daniel Sterling,Daniel,Sterling,M,United States,North America,2376.0,CrossFit Wando,21.0,5 in,192 lb,28.0,135.0,2022,semifinals
+34796.0,Scott Panchik,Scott,Panchik,M,United States,North America,7991.0,CrossFit Mentality,34.0,69 in,187 lb,29.0,213.0,2022,semifinals
+932990.0,Taylor Self,Taylor,Self,M,United States,North America,931.0,CrossFit Charlotte,26.0,70 in,195 lb,30.0,0.0,2022,semifinals
+671666.0,Haley Adams,Haley,Adams,F,United States,North America,3220.0,CrossFit Mayhem,21.0,67 in,140 lb,1.0,502.0,2022,semifinals
+503582.0,Alexis Raptis,Alexis,Raptis,F,United States,North America,25335.0,TTT CrossFit,23.0,65 in,155 lb,2.0,496.0,2022,semifinals
+531598.0,Paige Semenza,Paige,Semenza,F,United States,North America,4938.0,CrossFit Vertex,30.0,63 in,143 lb,3.0,484.0,2022,semifinals
+310687.0,Kristi Eramo O'Connell,Kristi Eramo,O'Connell,F,United States,North America,16832.0,CrossFit Polaris,33.0,62 in,132 lb,4.0,476.0,2022,semifinals
+656004.0,Christine Kolenbrander,Christine,Kolenbrander,F,United States,North America,29609.0,CrossFit 417,30.0,66 in,157 lb,5.0,469.0,2022,semifinals
+132258.0,Arielle Loewen,Arielle,Loewen,F,United States,North America,,,28.0,63 in,145 lb,6.0,431.0,2022,semifinals
+920973.0,Gabby McClelland,Gabby,McClelland,F,United States,North America,11612.0,CrossFit Decimate,24.0,68 in,175 lb,7.0,429.0,2022,semifinals
+280780.0,Kristine Best,Kristine,Best,F,United States,North America,6348.0,CrossFit Undivided,32.0,63 in,138 lb,8.0,400.0,2022,semifinals
+615284.0,Meredith Swindle,Meredith,Swindle,F,United States,North America,5697.0,Coyote CrossFit,30.0,68 in,155 lb,9.0,380.0,2022,semifinals
+1306393.0,Olivia Sulek,Olivia,Sulek,F,United States,North America,1257.0,CrossFit Cornerstone,18.0,65 in,,10.0,376.0,2022,semifinals
+1344968.0,Katie Calyore,Katie,Calyore,F,United States,North America,22543.0,Golden Goose CrossFit,29.0,66 in,138 lb,11.0,367.0,2022,semifinals
+448384.0,Sequoia Barrera,Sequoia,Barrera,F,United States,North America,5005.0,CrossFit Yucca Valley,22.0,69 in,160 lb,12.0,334.0,2022,semifinals
+511014.0,Tayler Sykes,Tayler,Sykes,F,United States,North America,21359.0,CrossFit 970,27.0,68 in,163 lb,13.0,297.0,2022,semifinals
+1151619.0,Emily White,Emily,White,F,United States,North America,6057.0,The Pack CrossFit,28.0,69 in,170 lb,14.0,292.0,2022,semifinals
+1220054.0,Paulina Haro,Paulina,Haro,F,Mexico,North America,27684.0,Happy Place CrossFit,18.0,156 cm,63 kg,15.0,270.0,2022,semifinals
+2077209.0,Abigail Domit,Abigail,Domit,F,United States,North America,770.0,Lone Star CrossFit,24.0,68 in,147 lb,16.0,269.0,2022,semifinals
+160026.0,Colette Casey,Colette,Casey,F,United States,North America,23318.0,Andover CrossFit,36.0,64 in,145 lb,17.0,255.0,2022,semifinals
+520294.0,Faith Stewart,Faith,Stewart,F,United States,North America,,,27.0,63 in,135 lb,18.0,254.0,2022,semifinals
+900568.0,Madison McElhaney,Madison,McElhaney,F,United States,North America,1130.0,Paradiso CrossFit,30.0,5 in,160 lb,19.0,245.0,2022,semifinals
+11865.0,Madi Jones,Madi,Jones,F,United States,North America,862.0,CrossFit NOC,27.0,66 in,147 lb,20.0,240.0,2022,semifinals
+802300.0,Roran Scott,Roran,Scott,F,United States,North America,1876.0,CrossFit Boynton Beach,26.0,61 in,143 lb,21.0,237.0,2022,semifinals
+479593.0,Ellia Miller,Ellia,Miller,F,United States,North America,13888.0,Cobra Command CrossFit,30.0,64 in,155 lb,22.0,224.0,2022,semifinals
+1366555.0,Natalie Thompson,Natalie,Thompson,F,United States,North America,2856.0,CrossFit Kemah,28.0,68 in,155 lb,23.0,188.0,2022,semifinals
+237811.0,Allison Ralfs,Allison,Ralfs,F,United States,North America,25335.0,TTT CrossFit,29.0,68 in,165 lb,24.0,186.0,2022,semifinals
+78663.0,Hollye Henderson,Hollye,Henderson,F,United States,North America,14778.0,CrossFit JXN,33.0,64 in,132 lb,25.0,177.0,2022,semifinals
+1453224.0,Cody Veteto,Cody,Veteto,F,United States,North America,16717.0,CrossFit SL Fitness,29.0,5 in,2 lb,26.0,167.0,2022,semifinals
+1972314.0,Karis Demi,Karis,Demi,F,United States,North America,3234.0,CrossFit Explode,20.0,64 in,140 lb,27.0,132.0,2022,semifinals
+928806.0,Kelsey Schulte,Kelsey,Schulte,F,United States,North America,12586.0,CrossFit Fireside,19.0,65 in,150 lb,28.0,99.0,2022,semifinals
+387788.0,Annalise Moore,Annalise,Moore,F,United States,North America,1313.0,Finish Strong CrossFit,20.0,64 in,142 lb,29.0,60.0,2022,semifinals
+1059467.0,Lazar Đukić,Lazar,Đukić,M,Serbia,Europe,11487.0,CrossFit NS,26.0,182 cm,93 kg,1.0,544.0,2022,semifinals
+81616.0,Björgvin Karl Guðmundsson,Björgvin Karl,Guðmundsson,M,Iceland,Europe,4860.0,CrossFit Hengill,29.0,178 cm,190 lb,2.0,512.0,2022,semifinals
+472642.0,Uldis Upenieks,Uldis,Upenieks,M,Latvia,Europe,,,24.0,174 cm,85 kg,3.0,451.0,2022,semifinals
+925870.0,Moritz Fiebig,Moritz,Fiebig,M,Germany,Europe,,,27.0,179 cm,95 kg,4.0,449.0,2022,semifinals
+929317.0,Enrico Zenoni,Enrico,Zenoni,M,Italy,Europe,10294.0,CrossFit Adamantio,24.0,178 cm,86 kg,5.0,448.0,2022,semifinals
+888668.0,Luka Đukić,Luka,Đukić,M,Serbia,Europe,11487.0,CrossFit NS,23.0,181 cm,92 kg,6.0,435.0,2022,semifinals
+698182.0,Adrian Mundwiler,Adrian,Mundwiler,M,Switzerland,Europe,,,29.0,172 cm,86 kg,7.0,420.0,2022,semifinals
+1657300.0,Fabian Beneito,Fabian,Beneito,M,Spain,Europe,17272.0,CrossFit Zarautz,26.0,178 cm,90 kg,8.0,381.0,2022,semifinals
+1408660.0,Luka Vunjak,Luka,Vunjak,M,Serbia,Europe,22177.0,CrossFit Minus,22.0,173 cm,85 kg,9.0,374.0,2022,semifinals
+495781.0,Haraldur Holgersson,Haraldur,Holgersson,M,Iceland,Europe,4607.0,CrossFit XY,23.0,178 cm,186 lb,10.0,369.0,2022,semifinals
+923468.0,Tiago Luzes,Tiago,Luzes,M,Portugal,Europe,15863.0,CrossFit Odivelas,25.0,183 cm,91 kg,11.0,328.0,2022,semifinals
+461734.0,Michael Smith,Michael,Smith,M,Ireland,Europe,29324.0,Crooked Lake CrossFit,30.0,183 cm,210 lb,12.0,306.0,2022,semifinals
+773001.0,Iurii Marincenco,Iurii,Marincenco,M,Italy,Europe,24159.0,CrossFit Felsina,26.0,178 cm,88 kg,13.0,299.0,2022,semifinals
+675164.0,Nikita Yundov,Nikita,Yundov,M,,Europe,8844.0,CrossFit Raid,29.0,178 cm,90 kg,14.0,293.0,2022,semifinals
+771441.0,Calum Clements,Calum,Clements,M,Spain,Europe,23668.0,CrossFit Denia,25.0,185 cm,95 kg,15.0,285.0,2022,semifinals
+6346.0,Sam Stewart,Sam,Stewart,M,Ireland,Europe,14124.0,CrossFit C2F,25.0,69 in,87 kg,16.0,280.0,2022,semifinals
+230757.0,Casper Gammelmark,Casper,Gammelmark,M,Denmark,Europe,18682.0,CrossFit Roskilde,31.0,185 cm,93 kg,17.0,277.0,2022,semifinals
+1214445.0,Matúš Kočar,Matúš,Kočar,M,Slovakia,Europe,,,20.0,171 cm,79 kg,18.0,250.0,2022,semifinals
+935580.0,Victor Ljungdal,Victor,Ljungdal,M,Sweden,Europe,26251.0,Mölndal SUPERB CrossFit,26.0,172 cm,85 kg,19.0,241.0,2022,semifinals
+238338.0,Kevin Jurs,Kevin,Jurs,M,Estonia,Europe,16836.0,Tallinn CrossFit,28.0,180 cm,100 kg,20.0,240.0,2022,semifinals
+1827157.0,Mats Cibis,Mats,Cibis,M,Germany,Europe,859.0,CrossFit Butcher's Lab,26.0,176 cm,87 kg,21.0,193.0,2022,semifinals
+452063.0,Augusto Gesso,Augusto,Gesso,M,Italy,Europe,20231.0,CrossFit Albenga,29.0,178 cm,90 kg,22.0,191.0,2022,semifinals
+408198.0,David Mata,David,Mata,M,Spain,Europe,29416.0,Train Like Fight CrossFit,31.0,182 cm,90 kg,23.0,176.0,2022,semifinals
+1399749.0,Dami Martínez,Dami,Martínez,M,Spain,Europe,19523.0,CrossFit 4 Friends,29.0,169 cm,86 kg,24.0,163.0,2022,semifinals
+676163.0,Fernando Martin,Fernando,Martin,M,Spain,Europe,22797.0,Las Tablas CrossFit,32.0,184 cm,91 kg,25.0,139.0,2022,semifinals
+1291218.0,Philip Lundqvist,Philip,Lundqvist,M,Sweden,Europe,27853.0,Garaget CrossFit,24.0,178 cm,85 kg,26.0,138.0,2022,semifinals
+22729.0,Jonas Mueller,Jonas,Mueller,M,Switzerland,Europe,,,31.0,170 cm,78 kg,27.0,105.0,2022,semifinals
+209758.0,Piotr Mielczarek,Piotr,Mielczarek,M,Poland,Europe,25802.0,CrossFit Silesia,34.0,184 cm,92 kg,28.0,48.0,2022,semifinals
+913681.0,Lucas Heuzé,Lucas,Heuzé,M,France,Europe,27239.0,CrossFit Genas,27.0,179 cm,88 kg,29.0,180.0,2022,semifinals
+831455.0,Topias Romo,Topias,Romo,M,Finland,Europe,9524.0,CrossFit Pieksamaki,28.0,174 cm,86 kg,30.0,121.0,2022,semifinals
+591912.0,Laura Horvath,Laura,Horvath,F,Hungary,Europe,22540.0,CrossFit Glasshouse,25.0,170 cm,70 kg,1.0,560.0,2022,semifinals
+698210.0,Karin Freyová,Karin,Freyová,F,Slovakia,Europe,22093.0,Alpha Prime CrossFit,27.0,170 cm,72 kg,2.0,504.0,2022,semifinals
+764556.0,Gabriela Migała,Gabriela,Migała,F,Poland,Europe,12162.0,C23 CrossFit,23.0,170 cm,75 kg,3.0,496.0,2022,semifinals
+831149.0,Matilde Garnes,Matilde,Garnes,F,Norway,Europe,22538.0,CrossFit Trondheim,26.0,174 cm,70 kg,4.0,492.0,2022,semifinals
+1458106.0,Lucy Campbell,Lucy,Campbell,F,United Kingdom,Europe,1954.0,CrossFit Nottingham,26.0,168 cm,73 kg,5.0,484.0,2022,semifinals
+8859.0,Ragnheiður Sara Sigmundsdottir,Ragnheiður Sara,Sigmundsdottir,F,Iceland,Europe,25335.0,TTT CrossFit,29.0,173 cm,69 kg,6.0,428.0,2022,semifinals
+762495.0,Elena Carratala Sanahuja,Elena,Carratala Sanahuja,F,Spain,Europe,19523.0,CrossFit 4 Friends,28.0,164 cm,63 kg,7.0,428.0,2022,semifinals
+1518913.0,Oihana Moya,Oihana,Moya,F,Spain,Europe,17272.0,CrossFit Zarautz,26.0,165 cm,68 kg,8.0,366.0,2022,semifinals
+272273.0,Mia Hesketh,Mia,Hesketh,F,Sweden,Europe,15601.0,CrossFit Walleye,32.0,168 cm,67 kg,9.0,363.0,2022,semifinals
+951375.0,Claudia Gluck,Claudia,Gluck,F,France,Europe,16641.0,CrossFit Grillen,23.0,160 cm,60 kg,10.0,334.0,2022,semifinals
+1330256.0,Linda Keesman,Linda,Keesman,F,Netherlands,Europe,18592.0,CrossFit Vondelgym,28.0,174 cm,73 kg,11.0,315.0,2022,semifinals
+1409302.0,Veslemøy Kollstad,Veslemøy,Kollstad,F,Norway,Europe,14247.0,CrossFit Kvadraturen,25.0,167 cm,71 kg,12.0,297.0,2022,semifinals
+695821.0,Julie Hougård,Julie,Hougård,F,Denmark,Europe,26774.0,CrossFit Odense,30.0,173 cm,70 kg,13.0,283.0,2022,semifinals
+466656.0,Andrea Solberg,Andrea,Solberg,F,Norway,Europe,372.0,CrossFit Oslo,26.0,164 cm,135 lb,14.0,280.0,2022,semifinals
+534813.0,Sanna Venäläinen,Sanna,Venäläinen,F,Finland,Europe,7232.0,CrossFit Vantaa,31.0,164 cm,64 kg,15.0,271.0,2022,semifinals
+1115280.0,Noortje Bleeker,Noortje,Bleeker,F,Netherlands,Europe,15181.0,CrossFit Westenwind,25.0,172 cm,70 kg,16.0,261.0,2022,semifinals
+466582.0,Emiko Naets,Emiko,Naets,F,Switzerland,Europe,19618.0,CrossFit Lavoisier,32.0,171 cm,65 kg,17.0,254.0,2022,semifinals
+51125.0,Megan Lovegrove,Megan,Lovegrove,F,United Kingdom,Europe,26828.0,CrossFit Randers,33.0,158 cm,65 kg,18.0,241.0,2022,semifinals
+998366.0,Ella Wunger,Ella,Wunger,F,Sweden,Europe,6918.0,CrossFit Flensburg,24.0,170 cm,70 kg,19.0,231.0,2022,semifinals
+1316504.0,Maria Längfors,Maria,Längfors,F,Sweden,Europe,9063.0,CrossFit Gårda,26.0,165 cm,69 kg,20.0,228.0,2022,semifinals
+1103442.0,Madeleine Persson,Madeleine,Persson,F,Sweden,Europe,11925.0,CrossFit Sodra Wattern,30.0,164 cm,69 kg,21.0,227.0,2022,semifinals
+96750.0,Oddrún Eik Gylfadottir,Oddrún Eik,Gylfadottir,F,Iceland,Europe,15349.0,CrossFit Alioth,33.0,163 cm,128 lb,22.0,224.0,2022,semifinals
+905243.0,Sapphire Goddard,Sapphire,Goddard,F,United Kingdom,Europe,26828.0,CrossFit Randers,25.0,165 cm,65 kg,23.0,211.0,2022,semifinals
+1827731.0,Jasmine Ghilardi,Jasmine,Ghilardi,F,Italy,Europe,21559.0,CrossFit Brembo,24.0,160 cm,59 kg,24.0,195.0,2022,semifinals
+1140802.0,Valentina Magalotti,Valentina,Magalotti,F,Italy,Europe,22177.0,CrossFit Minus,32.0,157 cm,61 kg,25.0,165.0,2022,semifinals
+729434.0,Martyna Krysiak,Martyna,Krysiak,F,Poland,Europe,29893.0,CrossFit Strong House,32.0,165 cm,67 kg,26.0,150.0,2022,semifinals
+573055.0,Nelli Nurmi,Nelli,Nurmi,F,Finland,Europe,6977.0,CrossFit East Turku,28.0,171 cm,69 kg,27.0,120.0,2022,semifinals
+1104398.0,Anaïs Lancry,Anaïs,Lancry,F,France,Europe,21863.0,CrossFit Estuary,30.0,166 cm,66 kg,28.0,117.0,2022,semifinals
+1628225.0,Jana Geertz,Jana,Geertz,F,Germany,Europe,18339.0,Foerde CrossFit,22.0,171 cm,71 kg,29.0,106.0,2022,semifinals
+685943.0,Tatiana Diakou,Tatiana,Diakou,F,,Europe,,,22.0,165 cm,68 kg,30.0,99.0,2022,semifinals
+156156.0,Jay Crouch,Jay,Crouch,M,Australia,Oceania,1348.0,Reebok CrossFit Frankston,23.0,175 cm,85 kg,1.0,556.0,2022,semifinals
+40955.0,Ricky Garard,Ricky,Garard,M,Australia,Oceania,,,28.0,179 cm,200 lb,2.0,540.0,2022,semifinals
+337194.0,Bayden Brown,Bayden,Brown,M,Australia,Oceania,3235.0,CrossFit Townsville,27.0,177 cm,90 kg,3.0,495.0,2022,semifinals
+202638.0,Royce Dunne,Royce,Dunne,M,Australia,Oceania,10767.0,CrossFit Torian,31.0,183 cm,102 kg,4.0,437.0,2022,semifinals
+258151.0,Jake Douglas,Jake,Douglas,M,Australia,Oceania,9586.0,Snake CrossFit,31.0,172 cm,202 lb,5.0,420.0,2022,semifinals
+479759.0,Bayley Martin,Bayley,Martin,M,New Zealand,Oceania,15606.0,CrossFit Selwyn,22.0,174 cm,82 kg,6.0,405.0,2022,semifinals
+771889.0,Rees Machell,Rees,Machell,M,Australia,Oceania,,,24.0,174 cm,82 kg,7.0,376.0,2022,semifinals
+236486.0,Matt Mcleod,Matt,Mcleod,M,Australia,Oceania,27094.0,CrossFit Raven,29.0,165 cm,80 kg,8.0,344.0,2022,semifinals
+684163.0,Jake Standen,Jake,Standen,M,Australia,Oceania,6333.0,CrossFit CQ,24.0,184 cm,93 kg,9.0,332.0,2022,semifinals
+2073402.0,Darcy Hancock,Darcy,Hancock,M,Australia,Oceania,6333.0,CrossFit CQ,20.0,175 cm,92 kg,10.0,331.0,2022,semifinals
+706265.0,Liam Ford,Liam,Ford,M,Australia,Oceania,1909.0,CrossFit Geo,24.0,183 cm,94 kg,11.0,331.0,2022,semifinals
+794326.0,Mitch Clarke,Mitch,Clarke,M,New Zealand,Oceania,12517.0,CrossFit Active,31.0,183 cm,94 kg,12.0,292.0,2022,semifinals
+317745.0,John Champion,John,Champion,M,Australia,Oceania,30085.0,CrossFit Balcatta Legion,27.0,179 cm,90 kg,13.0,281.0,2022,semifinals
+898088.0,Matt Gilpin,Matt,Gilpin,M,Australia,Oceania,16943.0,CrossFit SPEED,26.0,178 cm,85 kg,14.0,281.0,2022,semifinals
+289373.0,Mitchell Case,Mitchell,Case,M,Australia,Oceania,5086.0,CrossFit Uplift,25.0,179 cm,92 kg,15.0,272.0,2022,semifinals
+281043.0,Jack Clark,Jack,Clark,M,Australia,Oceania,22755.0,CrossFit Underway,23.0,178 cm,89 kg,16.0,269.0,2022,semifinals
+1954535.0,James Newbury,James,Newbury,M,Australia,Oceania,,,31.0,177 cm,88 kg,17.0,268.0,2022,semifinals
+1393065.0,Kosta Ilic,Kosta,Ilic,M,Australia,Oceania,9986.0,CrossFit Dignus,31.0,183 cm,98 kg,18.0,246.0,2022,semifinals
+569557.0,Kurtis Jackson,Kurtis,Jackson,M,Australia,Oceania,2120.0,CrossFit Wollongong,29.0,167 cm,78 kg,19.0,246.0,2022,semifinals
+1597619.0,Peter Ellis,Peter,Ellis,M,Australia,Oceania,7846.0,CrossFit Peak Blaxland,20.0,170 cm,80 kg,20.0,245.0,2022,semifinals
+503184.0,Joel Molinia,Joel,Molinia,M,Australia,Oceania,2120.0,CrossFit Wollongong,22.0,178 cm,85 kg,21.0,242.0,2022,semifinals
+442211.0,Ash Roozendaal,Ash,Roozendaal,M,New Zealand,Oceania,2657.0,Mount CrossFit,25.0,175 cm,83 kg,22.0,226.0,2022,semifinals
+1927954.0,Riley Martin,Riley,Martin,M,New Zealand,Oceania,,,20.0,178 cm,86 kg,23.0,185.0,2022,semifinals
+1888.0,Mason Doherty,Mason,Doherty,M,Australia,Oceania,3325.0,CrossFit MSD,31.0,179 cm,88 kg,24.0,180.0,2022,semifinals
+1377956.0,Thor Hajnal,Thor,Hajnal,M,New Zealand,Oceania,11291.0,CrossFit Artax,28.0,173 cm,81 kg,25.0,174.0,2022,semifinals
+470202.0,Kieren Power,Kieren,Power,M,Australia,Oceania,3516.0,Iron Body CrossFit,29.0,184 cm,94 kg,26.0,171.0,2022,semifinals
+1346636.0,Jake Soles,Jake,Soles,M,Australia,Oceania,2120.0,CrossFit Wollongong,22.0,182 cm,83 kg,27.0,133.0,2022,semifinals
+44890.0,Evan Morris,Evan,Morris,M,Australia,Oceania,9361.0,CrossFit 505,29.0,182 cm,98 kg,28.0,132.0,2022,semifinals
+1164022.0,Zac Thomas,Zac,Thomas,M,Australia,Oceania,2120.0,CrossFit Wollongong,20.0,182 cm,92 kg,29.0,122.0,2022,semifinals
+1842246.0,Jack Fleming,Jack,Fleming,M,Australia,Oceania,3905.0,CrossFit Blackburn,23.0,180 cm,87 kg,30.0,81.0,2022,semifinals
+163097.0,Tia-Clair Toomey,Tia-Clair,Toomey,F,Australia,Oceania,19593.0,CrossFit East Nashville,28.0,163 cm,58 kg,1.0,600.0,2022,semifinals
+2942.0,Kara Saunders,Kara,Saunders,F,Australia,Oceania,,,32.0,162 cm,162 lb,2.0,560.0,2022,semifinals
+1119323.0,Ellie Turner,Ellie,Turner,F,Australia,Oceania,101.0,Deka CrossFit,24.0,167 cm,72 kg,3.0,504.0,2022,semifinals
+21556.0,Madeline Sturt,Madeline,Sturt,F,Australia,Oceania,1348.0,Reebok CrossFit Frankston,25.0,159 cm,63 kg,4.0,500.0,2022,semifinals
+264512.0,Jamie Simmonds,Jamie,Simmonds,F,New Zealand,Oceania,1340.0,Dragon CrossFit,31.0,163 cm,135 lb,5.0,468.0,2022,semifinals
+554143.0,Bailey Rogers,Bailey,Rogers,F,New Zealand,Oceania,18270.0,CrossFit Pōneke,31.0,170 cm,72 kg,6.0,460.0,2022,semifinals
+1240398.0,Emily de Rooy,Emily,de Rooy,F,Australia,Oceania,3235.0,CrossFit Townsville,21.0,175 cm,76 kg,7.0,443.0,2022,semifinals
+1347023.0,Gemma Hauck,Gemma,Hauck,F,Australia,Oceania,,,23.0,167 cm,74 kg,8.0,428.0,2022,semifinals
+1277109.0,Elly Hutchens,Elly,Hutchens,F,Australia,Oceania,29512.0,Mesomorph CrossFit,24.0,168 cm,65 kg,9.0,338.0,2022,semifinals
+1212379.0,Georgia Pryer,Georgia,Pryer,F,Australia,Oceania,9586.0,Snake CrossFit,22.0,167 cm,62 kg,10.0,304.0,2022,semifinals
+503203.0,Emma Wright,Emma,Wright,F,New Zealand,Oceania,16362.0,Thorndon CrossFit,30.0,165 cm,69 kg,11.0,291.0,2022,semifinals
+1190953.0,Danielle Ford,Danielle,Ford,F,New Zealand,Oceania,,,26.0,172 cm,70 kg,12.0,290.0,2022,semifinals
+902935.0,Olivia Kelly,Olivia,Kelly,F,Australia,Oceania,9834.0,CrossFit Highfields,28.0,163 cm,73 kg,13.0,280.0,2022,semifinals
+1215608.0,Emily Atton,Emily,Atton,F,Australia,Oceania,5519.0,CrossFit by Design,30.0,173 cm,75 kg,14.0,251.0,2022,semifinals
+1976672.0,Grace Walton,Grace,Walton,F,Australia,Oceania,9986.0,CrossFit Dignus,21.0,164 cm,70 kg,15.0,249.0,2022,semifinals
+156230.0,Chloe Gregory,Chloe,Gregory,F,New Zealand,Oceania,721.0,CrossFit BC,32.0,175 cm,157 lb,16.0,240.0,2022,semifinals
+101651.0,Joelene Neville,Joelene,Neville,F,New Zealand,Oceania,19180.0,CrossFit Mecca,36.0,169 cm,75 kg,17.0,236.0,2022,semifinals
+690070.0,Rachel Toomua-Faumuina,Rachel,Toomua-Faumuina,F,Australia,Oceania,24339.0,CrossFit CHWE,30.0,165 cm,67 kg,18.0,226.0,2022,semifinals
+75165.0,Lucy Clark,Lucy,Clark,F,Australia,Oceania,3325.0,CrossFit MSD,32.0,169 cm,68 kg,19.0,210.0,2022,semifinals
+648048.0,Georgia Welsman,Georgia,Welsman,F,Australia,Oceania,29250.0,CrossFit Chocolate Box,27.0,165 cm,60 kg,20.0,207.0,2022,semifinals
+1263915.0,Julia Hannaford,Julia,Hannaford,F,Australia,Oceania,,,21.0,156 cm,67 kg,21.0,197.0,2022,semifinals
+1672646.0,Adrienne Geary,Adrienne,Geary,F,Australia,Oceania,2218.0,CrossFit Crossaxed,24.0,169 cm,77 kg,22.0,194.0,2022,semifinals
+28735.0,Amy Alessi,Amy,Alessi,F,Australia,Oceania,580.0,CrossFit NorWest,31.0,154 cm,130 lb,23.0,186.0,2022,semifinals
+1212617.0,Bec Glenister,Bec,Glenister,F,Australia,Oceania,24646.0,CrossFit Moor,29.0,168 cm,73 kg,24.0,181.0,2022,semifinals
+1224765.0,Georgia Otto,Georgia,Otto,F,Australia,Oceania,30085.0,CrossFit Balcatta Legion,23.0,165 cm,61 kg,25.0,172.0,2022,semifinals
+670481.0,Castell Pridgen,Castell,Pridgen,F,Australia,Oceania,30085.0,CrossFit Balcatta Legion,30.0,180 cm,175 lb,26.0,165.0,2022,semifinals
+1321769.0,Katie Brock,Katie,Brock,F,New Zealand,Oceania,12138.0,CrossFit Newstead,28.0,164 cm,70 kg,27.0,141.0,2022,semifinals
+2185883.0,Tahlia Jordan,Tahlia,Jordan,F,Australia,Oceania,7322.0,Hillside CrossFit,27.0,158 cm,60 kg,28.0,135.0,2022,semifinals
+1001544.0,Jade Williams,Jade,Williams,F,Australia,Oceania,17776.0,Steel Coast CrossFit,31.0,159 cm,70 kg,29.0,120.0,2022,semifinals
+10736.0,Carrie Freestone,Carrie,Freestone,F,Australia,Oceania,29559.0,CrossFit Awaken,39.0,157 cm,135 lb,30.0,75.0,2022,semifinals
+310970.0,Saxon Panchik,Saxon,Panchik,M,United States,North America,19593.0,CrossFit East Nashville,26.0,69 in,185 lb,1.0,540.0,2022,semifinals
+671093.0,Dallin Pepper,Dallin,Pepper,M,United States,North America,1893.0,CrossFit Naples,20.0,72 in,215 lb,2.0,520.0,2022,semifinals
+153625.0,Cole Sager,Cole,Sager,M,United States,North America,967.0,CrossFit Spokane Valley,31.0,71 in,198 lb,3.0,484.0,2022,semifinals
+2725.0,Noah Ohlsen,Noah,Ohlsen,M,United States,North America,2509.0,Peak 360 CrossFit,31.0,67 in,190 lb,4.0,470.0,2022,semifinals
+162712.0,Spencer Panchik,Spencer,Panchik,M,United States,North America,7991.0,CrossFit Mentality,26.0,68 in,180 lb,5.0,436.0,2022,semifinals
+45136.0,Jake Berman,Jake,Berman,M,United States,North America,25335.0,TTT CrossFit,26.0,68 in,185 lb,6.0,424.0,2022,semifinals
+663689.0,Tyler Christophel,Tyler,Christophel,M,United States,North America,3220.0,CrossFit Mayhem,32.0,70 in,195 lb,7.0,406.0,2022,semifinals
+323300.0,Mitchel Stevenson,Mitchel,Stevenson,M,United States,North America,5490.0,CrossFit i1uvit,29.0,69 in,193 lb,8.0,405.0,2022,semifinals
+123764.0,Logan Collins,Logan,Collins,M,United States,North America,,,31.0,67 in,182 lb,9.0,400.0,2022,semifinals
+1934516.0,William Leahy IV,William,Leahy IV,M,United States,North America,5222.0,CrossFit Mandeville,21.0,71 in,195 lb,10.0,375.0,2022,semifinals
+642094.0,Cam Crockett,Cam,Crockett,M,United States,North America,3637.0,CrossFit Cadre,24.0,69 in,195 lb,11.0,343.0,2022,semifinals
+235127.0,Luis Oscar Mora,Luis,Oscar Mora,M,Mexico,North America,,,23.0,170 cm,90 kg,12.0,324.0,2022,semifinals
+1289210.0,Phillip Muscarella,Phillip,Muscarella,M,United States,North America,3801.0,Precision CrossFit,29.0,70 in,195 lb,13.0,319.0,2022,semifinals
+739342.0,Reilly Good,Reilly,Good,M,United States,North America,,,29.0,68 in,215 lb,14.0,313.0,2022,semifinals
+1289013.0,Justin Rhodes,Justin,Rhodes,M,United States,North America,20938.0,CrossFit MWM,24.0,68 in,180 lb,15.0,288.0,2022,semifinals
+877376.0,Lee Sharum,Lee,Sharum,M,United States,North America,17881.0,Camel City CrossFit,24.0,70 in,185 lb,16.0,279.0,2022,semifinals
+194457.0,Jake Marconi,Jake,Marconi,M,United States,North America,,,25.0,67 in,190 lb,17.0,243.0,2022,semifinals
+1529807.0,Travon Benton,Travon,Benton,M,United States,North America,770.0,Lone Star CrossFit,26.0,5 in,8 lb,18.0,223.0,2022,semifinals
+95750.0,Mike Needleman,Mike,Needleman,M,United States,North America,1208.0,Port CrossFit,25.0,69 in,190 lb,19.0,222.0,2022,semifinals
+109346.0,John Coltey,John,Coltey,M,United States,North America,19593.0,CrossFit East Nashville,33.0,69 in,195 lb,20.0,221.0,2022,semifinals
+289710.0,Mitch McClune,Mitch,McClune,M,United States,North America,6103.0,Rhino CrossFit,32.0,68 in,185 lb,21.0,215.0,2022,semifinals
+263026.0,Zach Watts,Zach,Watts,M,United States,North America,29649.0,CrossFit Illuminate,26.0,72 in,205 lb,22.0,204.0,2022,semifinals
+242732.0,Nick Thomas,Nick,Thomas,M,United States,North America,3228.0,CrossFit Marysville,31.0,68 in,193 lb,23.0,195.0,2022,semifinals
+1699284.0,Tanner Balazs,Tanner,Balazs,M,United States,North America,25335.0,TTT CrossFit,26.0,69 in,180 lb,24.0,174.0,2022,semifinals
+105536.0,Chase Smith,Chase,Smith,M,United States,North America,13111.0,Black Iron CrossFit,33.0,69 in,195 lb,25.0,162.0,2022,semifinals
+1145631.0,Robert Yates,Robert,Yates,M,United States,North America,8492.0,CrossFit Cornelius,22.0,71 in,204 lb,26.0,138.0,2022,semifinals
+239255.0,Frank Mastroianni,Frank,Mastroianni,M,United States,North America,20953.0,Aurelius CrossFit,28.0,65 in,175 lb,27.0,123.0,2022,semifinals
+422268.0,Connor McDonald,Connor,McDonald,M,United States,North America,29355.0,Bar 10 CrossFit,30.0,72 in,198 lb,28.0,114.0,2022,semifinals
+257503.0,Richie Carrel,Richie,Carrel,M,United States,North America,2357.0,Northstate CrossFit,25.0,70 in,195 lb,29.0,63.0,2022,semifinals
+1053957.0,Hunter Holifield,Hunter,Holifield,M,United States,North America,7573.0,Yune CrossFit,24.0,70 in,195 lb,30.0,0.0,2022,semifinals
+349097.0,Danielle Brandon,Danielle,Brandon,F,United States,North America,6103.0,Rhino CrossFit,26.0,170 cm,150 lb,1.0,532.0,2022,semifinals
+1441210.0,Sydney Michalyshen,Sydney,Michalyshen,F,Canada,North America,505.0,CrossFit New England,22.0,168 cm,155 lb,2.0,512.0,2022,semifinals
+585046.0,Baylee Rayl,Baylee,Rayl,F,United States,North America,3220.0,CrossFit Mayhem,26.0,67 in,135 lb,3.0,480.0,2022,semifinals
+168305.0,Brooke Wells,Brooke,Wells,F,United States,North America,19593.0,CrossFit East Nashville,27.0,66 in,150 lb,4.0,443.0,2022,semifinals
+555277.0,Rebecca Fuselier,Rebecca,Fuselier,F,United States,North America,1524.0,CrossFit Bolt,22.0,62 in,127 lb,5.0,442.0,2022,semifinals
+40756.0,Kelly Clark,Kelly,Clark,F,United States,North America,8060.0,CrossFit Up,35.0,64 in,145 lb,6.0,441.0,2022,semifinals
+530860.0,Shelby Neal,Shelby,Neal,F,United States,North America,10851.0,12th State CrossFit,22.0,62 in,140 lb,7.0,433.0,2022,semifinals
+510714.0,Lindsey Porter,Lindsey,Porter,F,United States,North America,3335.0,CrossFit Clearwater,22.0,67 in,150 lb,8.0,362.0,2022,semifinals
+857531.0,Taylor Reber,Taylor,Reber,F,United States,North America,27009.0,Einhorn CrossFit,28.0,66 in,150 lb,9.0,362.0,2022,semifinals
+113169.0,Megan O'Donnell,Megan,O'Donnell,F,United States,North America,5269.0,CrossFit Bear,33.0,65 in,150 lb,10.0,342.0,2022,semifinals
+1604740.0,Claire Truax,Claire,Truax,F,United States,North America,2540.0,Cyn Gym CrossFit,18.0,66 in,150 lb,11.0,335.0,2022,semifinals
+252266.0,Leah Irons,Leah,Irons,F,United States,North America,4563.0,CrossFit Ammo,30.0,64 in,140 lb,12.0,328.0,2022,semifinals
+908246.0,Faith Ferguson,Faith,Ferguson,F,United States,North America,4211.0,CrossFit Maven,21.0,63 in,150 lb,13.0,324.0,2022,semifinals
+873895.0,Kyra Milligan,Kyra,Milligan,F,United States,North America,6103.0,Rhino CrossFit,25.0,62 in,140 lb,14.0,320.0,2022,semifinals
+1651610.0,Marisa Flowers,Marisa,Flowers,F,United States,North America,,,31.0,58 in,110 lb,15.0,272.0,2022,semifinals
+1405029.0,Keara Napoli,Keara,Napoli,F,United States,North America,7104.0,CrossFit UNTD,23.0,66 in,162 lb,16.0,263.0,2022,semifinals
+251823.0,Callerina Key,Callerina,Key,F,United States,North America,10551.0,CrossFit OwnIt,32.0,69 in,165 lb,17.0,261.0,2022,semifinals
+528823.0,Taylor Babb,Taylor,Babb,F,United States,North America,6541.0,A-Town CrossFit (departed),21.0,65 in,140 lb,18.0,235.0,2022,semifinals
+1200461.0,Gabrielle Spenst,Gabrielle,Spenst,F,Canada,North America,5490.0,CrossFit i1uvit,24.0,67 in,162 lb,19.0,219.0,2022,semifinals
+546042.0,Mary Helen Saunders,Mary Helen,Saunders,F,United States,North America,20623.0,CrossFit Invigorate,30.0,64 in,142 lb,20.0,215.0,2022,semifinals
+154472.0,Samantha Petrich,Samantha,Petrich,F,United States,North America,11712.0,CrossFit Murrieta,32.0,67 in,145 lb,21.0,212.0,2022,semifinals
+1418811.0,Emma Gardner,Emma,Gardner,F,United States,North America,505.0,CrossFit New England,19.0,5 in,140 lb,22.0,202.0,2022,semifinals
+703638.0,Kacey Wells,Kacey,Wells,F,United States,North America,7595.0,Mad Apple CrossFit,26.0,60 in,135 lb,23.0,190.0,2022,semifinals
+297735.0,Danielle Kearns,Danielle,Kearns,F,United States,North America,4933.0,CrossFit Krypton,28.0,67 in,176 lb,24.0,174.0,2022,semifinals
+807114.0,Kenzie Nolte,Kenzie,Nolte,F,United States,North America,599.0,CrossFit Steel Place,26.0,64 in,152 lb,25.0,165.0,2022,semifinals
+34715.0,Hayley Murillo,Hayley,Murillo,F,United States,North America,4079.0,CrossFit Horsepower,35.0,69 in,168 lb,26.0,156.0,2022,semifinals
+128857.0,Jessica Schwartz,Jessica,Schwartz,F,United States,North America,,,24.0,65 in,150 lb,27.0,153.0,2022,semifinals
+106580.0,Lydia Schaake,Lydia,Schaake,F,United States,North America,4289.0,CrossFit Fortius,32.0,66 in,155 lb,28.0,120.0,2022,semifinals
+543986.0,Rachel Thibodeaux,Rachel,Thibodeaux,F,United States,North America,16929.0,JH CrossFit,29.0,63 in,135 lb,29.0,66.0,2022,semifinals
+160700.0,Jordan Adcock,Jordan,Adcock,F,United States,North America,,,30.0,66 in,145 lb,30.0,112.0,2022,semifinals
+901467.0,Kealan Henry,Kealan,Henry,M,South Africa,Africa,29491.0,CrossFit HFS,29.0,168 cm,80 kg,1.0,516.0,2022,semifinals
+120333.0,Jason Smith,Jason,Smith,M,South Africa,Africa,22771.0,CrossFit Sunninghill,38.0,185 cm,195 lb,2.0,504.0,2022,semifinals
+1515387.0,Darren Zurnamer,Darren,Zurnamer,M,South Africa,Africa,,,21.0,172 cm,82 kg,3.0,492.0,2022,semifinals
+740370.0,Ruan Potgieter,Ruan,Potgieter,M,South Africa,Africa,3515.0,CrossFit 360Vida,25.0,182 cm,82 kg,4.0,457.0,2022,semifinals
+487949.0,Mohamed Elomda,Mohamed,Elomda,M,Egypt,Africa,27816.0,Al Quoz CrossFit,34.0,180 cm,92 kg,5.0,446.0,2022,semifinals
+214252.0,Ruan Duvenage,Ruan,Duvenage,M,South Africa,Africa,,,33.0,178 cm,90 kg,6.0,435.0,2022,semifinals
+700002.0,Conrad Winnertz,Conrad,Winnertz,M,South Africa,Africa,21580.0,Lionizer CrossFit,21.0,170 cm,85 kg,7.0,390.0,2022,semifinals
+436419.0,Devin Ramsden,Devin,Ramsden,M,South Africa,Africa,5578.0,CrossFit Kyalami,29.0,191 cm,94 kg,8.0,387.0,2022,semifinals
+226694.0,Robert Heuer,Robert,Heuer,M,South Africa,Africa,14623.0,CrossFit Resuelto,32.0,185 cm,185 lb,9.0,382.0,2022,semifinals
+1968565.0,James van Dongen,James,van Dongen,M,South Africa,Africa,5578.0,CrossFit Kyalami,22.0,172 cm,79 kg,10.0,361.0,2022,semifinals
+1058382.0,Trent Williams,Trent,Williams,M,South Africa,Africa,,,28.0,180 cm,91 kg,11.0,335.0,2022,semifinals
+127613.0,Estian Ferreira,Estian,Ferreira,M,South Africa,Africa,20071.0,Willow Way CrossFit,31.0,183 cm,204 lb,12.0,321.0,2022,semifinals
+889486.0,Michael van Tonder,Michael,van Tonder,M,South Africa,Africa,2132.0,Cape CrossFit,28.0,184 cm,99 kg,13.0,317.0,2022,semifinals
+917565.0,Hilmar von Mansberg,Hilmar,von Mansberg,M,South Africa,Africa,6033.0,CrossFit Leo,25.0,172 cm,85 kg,14.0,315.0,2022,semifinals
+237341.0,Justin Holliday,Justin,Holliday,M,South Africa,Africa,,,27.0,186 cm,102 kg,15.0,304.0,2022,semifinals
+70814.0,Assem Effat,Assem,Effat,M,Egypt,Africa,,,31.0,185 cm,102 kg,15.0,304.0,2022,semifinals
+398197.0,Brandon Jacobs,Brandon,Jacobs,M,South Africa,Africa,19088.0,CrossFit Artaxes,28.0,179 cm,94 kg,17.0,287.0,2022,semifinals
+1555257.0,Radouane El ghadouini,Radouane,El ghadouini,M,Morocco,Africa,,,22.0,180 cm,85 kg,18.0,266.0,2022,semifinals
+744054.0,Mohamed Sherif,Mohamed,Sherif,M,Egypt,Africa,,,22.0,176 cm,99 kg,19.0,263.0,2022,semifinals
+430583.0,Abdelrahman Abdullah Cavio,Abdelrahman,Abdullah Cavio,M,Egypt,Africa,,,31.0,185 cm,195 lb,20.0,210.0,2022,semifinals
+443398.0,David Segun,David,Segun,M,Nigeria,Africa,29808.0,CrossFit 801,30.0,71 in,195 lb,21.0,204.0,2022,semifinals
+490567.0,Joubert Boshoff,Joubert,Boshoff,M,South Africa,Africa,13098.0,CrossFit Eikestad,25.0,178 cm,175 lb,22.0,194.0,2022,semifinals
+937620.0,Brice Hamilcaro,Brice,Hamilcaro,M,Madagascar,Africa,13077.0,CrossFit Gekko,31.0,177 cm,85 kg,23.0,153.0,2022,semifinals
+1650345.0,Belal Hesham,Belal,Hesham,M,Egypt,Africa,,,24.0,171 cm,86 kg,24.0,141.0,2022,semifinals
+21707.0,Richard Smith,Richard,Smith,M,South Africa,Africa,5578.0,CrossFit Kyalami,34.0,183 cm,189 lb,25.0,192.0,2022,semifinals
+745393.0,Richard Wollboldt,Richard,Wollboldt,M,South Africa,Africa,6085.0,CrossFit Invictus Back Bay,27.0,180 cm,85 kg,25.0,70.0,2022,semifinals
+421234.0,Cj Ward,Cj,Ward,M,South Africa,Africa,21609.0,Motley Crew CrossFit,30.0,188 cm,97 kg,25.0,65.0,2022,semifinals
+696698.0,Dale Smith,Dale,Smith,M,South Africa,Africa,10490.0,Cape CrossFit Century City,28.0,183 cm,90 kg,25.0,0.0,2022,semifinals
+1652082.0,Youssef Ehab,Youssef,Ehab,M,Egypt,Africa,,,22.0,173 cm,82 kg,25.0,0.0,2022,semifinals
+505225.0,Michelle Merand,Michelle,Merand,F,South Africa,Africa,,,33.0,158 cm,60 kg,1.0,552.0,2022,semifinals
+872244.0,Christina Livaditakis,Christina,Livaditakis,F,Zimbabwe,Africa,2218.0,CrossFit Crossaxed,25.0,153 cm,63 kg,2.0,512.0,2022,semifinals
+893554.0,Michelle Basnett,Michelle,Basnett,F,South Africa,Africa,8492.0,CrossFit Cornelius,25.0,64 in,152 lb,3.0,488.0,2022,semifinals
+1464383.0,Leeverne Engelbrecht,Leeverne,Engelbrecht,F,South Africa,Africa,2132.0,Cape CrossFit,33.0,153 cm,60 kg,4.0,475.0,2022,semifinals
+246932.0,Anneke Spies,Anneke,Spies,F,South Africa,Africa,18024.0,CrossFit Charisma,29.0,158 cm,60 kg,5.0,436.0,2022,semifinals
+918656.0,Tanha Bouffe,Tanha,Bouffe,F,South Africa,Africa,5259.0,CrossFit 4E,23.0,161 cm,69 kg,6.0,400.0,2022,semifinals
+1586910.0,Reegan Finkel,Reegan,Finkel,F,South Africa,Africa,2132.0,Cape CrossFit,19.0,169 cm,67 kg,7.0,392.0,2022,semifinals
+110783.0,Mary Jamieson,Mary,Jamieson,F,South Africa,Africa,8111.0,Northcliff CrossFit,39.0,165 cm,77 kg,8.0,382.0,2022,semifinals
+951583.0,Angelique Connoway,Angelique,Connoway,F,Namibia,Africa,,,29.0,170 cm,75 kg,9.0,347.0,2022,semifinals
+101929.0,Dina Swift,Dina,Swift,F,South Africa,Africa,14607.0,6th Element CrossFit,33.0,178 cm,80 kg,10.0,341.0,2022,semifinals
+484990.0,Emma Morgan,Emma,Morgan,F,South Africa,Africa,23414.0,CrossFit Ballito,30.0,162 cm,63 kg,11.0,333.0,2022,semifinals
+1957222.0,Lee Keyrouz,Lee,Keyrouz,F,South Africa,Africa,19878.0,CrossFit 1871,34.0,158 cm,66 kg,12.0,326.0,2022,semifinals
+1163483.0,Gilmari Reyneke,Gilmari,Reyneke,F,South Africa,Africa,19088.0,CrossFit Artaxes,25.0,167 cm,62 kg,13.0,296.0,2022,semifinals
+464464.0,Nicola Temperman,Nicola,Temperman,F,South Africa,Africa,19088.0,CrossFit Artaxes,24.0,164 cm,67 kg,14.0,288.0,2022,semifinals
+1546721.0,Georgia Ayres,Georgia,Ayres,F,South Africa,Africa,2868.0,In2 CrossFit Farnham,22.0,157 cm,60 kg,15.0,285.0,2022,semifinals
+1406426.0,Ingy Hossam Eldin,Ingy Hossam,Eldin,F,Egypt,Africa,,,27.0,156 cm,61 kg,16.0,273.0,2022,semifinals
+686289.0,Maxx Klynsmith,Maxx,Klynsmith,F,South Africa,Africa,26997.0,The Wick CrossFit,27.0,165 cm,60 kg,17.0,268.0,2022,semifinals
+1324803.0,Jessica Thomson,Jessica,Thomson,F,Zimbabwe,Africa,16221.0,CrossFit Shapesmiths,29.0,160 cm,57 kg,18.0,255.0,2022,semifinals
+858355.0,Laura Hume,Laura,Hume,F,Zimbabwe,Africa,9567.0,CrossFit Kyma,28.0,165 cm,58 kg,19.0,251.0,2022,semifinals
+964721.0,Ziamay Malan,Ziamay,Malan,F,South Africa,Africa,,,20.0,167 cm,70 kg,20.0,216.0,2022,semifinals
+1535346.0,Megan Faul,Megan,Faul,F,South Africa,Africa,11164.0,CrossFit Kempton,30.0,170 cm,77 kg,21.0,210.0,2022,semifinals
+1192351.0,Aya Fouad,Aya,Fouad,F,Egypt,Africa,,,28.0,155 cm,60 kg,22.0,197.0,2022,semifinals
+254551.0,Tammy Taylor,Tammy,Taylor,F,South Africa,Africa,19979.0,CrossFit Blouberg,38.0,172 cm,75 kg,23.0,177.0,2022,semifinals
+1531503.0,Zandre Coetzee,Zandre,Coetzee,F,South Africa,Africa,20071.0,Willow Way CrossFit,25.0,172 cm,89 kg,24.0,175.0,2022,semifinals
+1248745.0,Carla Henriet,Carla,Henriet,F,South Africa,Africa,19630.0,CrossFit Shakerag,31.0,162 cm,145 lb,25.0,156.0,2022,semifinals
+933047.0,Leilani Tison,Leilani,Tison,F,South Africa,Africa,19831.0,Plot Box CrossFit,30.0,169 cm,69 kg,26.0,150.0,2022,semifinals
+516608.0,Dalia Al Amry,Dalia,Al Amry,F,Egypt,Africa,4369.0,CrossFit Q8,37.0,175 cm,74 kg,27.0,142.0,2022,semifinals
+799768.0,Alisha Stone,Alisha,Stone,F,Kenya,Africa,26832.0,CrossFit Kakou,24.0,170 cm,165 lb,28.0,117.0,2022,semifinals
+690713.0,Assma Lalaoui,Assma,Lalaoui,F,Morocco,Africa,,,34.0,161 cm,67 kg,29.0,108.0,2022,semifinals
+1595043.0,Mena Mahmoud,Mena,Mahmoud,F,Egypt,Africa,11428.0,CrossFit Pharaohs,26.0,170 cm,70 kg,30.0,0.0,2022,semifinals
+975774.0,Roman Khrennikov,Roman,Khrennikov,M,,Asia,,,27.0,182 cm,103 kg,1.0,584.0,2022,semifinals
+458446.0,Nasser Alruwayeh,Nasser,Alruwayeh,M,Kuwait,Asia,4369.0,CrossFit Q8,29.0,183 cm,105 kg,-1.0,552.0,2022,semifinals
+672425.0,Arthur Semenov,Arthur,Semenov,M,,Asia,14416.0,Red Tower CrossFit,29.0,189 cm,99 kg,2.0,536.0,2022,semifinals
+831559.0,Andrey Fedotov,Andrey,Fedotov,M,,Asia,17539.0,Soyuz CrossFit,28.0,164 cm,81 kg,3.0,447.0,2022,semifinals
+23655.0,Anthony Haynes,Anthony,Haynes,M,China,Asia,6874.0,CrossFit CSTL,32.0,179 cm,89 kg,4.0,421.0,2022,semifinals
+1762608.0,Morteza Sedaghat,Morteza,Sedaghat,M,Iran,Asia,,,27.0,172 cm,89 kg,5.0,418.0,2022,semifinals
+943155.0,Ruslan Miftakhov,Ruslan,Miftakhov,M,,Asia,,,26.0,180 cm,90 kg,6.0,371.0,2022,semifinals
+433886.0,Seokbeom Kim,Seokbeom,Kim,M,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,29.0,174 cm,84 kg,7.0,366.0,2022,semifinals
+1325298.0,Aleksandar Ilin,Aleksandar,Ilin,M,,Asia,10555.0,CrossFit IceBox,32.0,175 cm,87 kg,8.0,366.0,2022,semifinals
+1013732.0,Vitaliy Stepanov,Vitaliy,Stepanov,M,,Asia,14416.0,Red Tower CrossFit,32.0,186 cm,98 kg,9.0,362.0,2022,semifinals
+914153.0,Artyom Matsak,Artyom,Matsak,M,Kazakhstan,Asia,2711.0,CrossFit Berloga,28.0,178 cm,89 kg,10.0,352.0,2022,semifinals
+640783.0,Anatolii Borisenko,Anatolii,Borisenko,M,,Asia,,,35.0,186 cm,99 kg,11.0,349.0,2022,semifinals
+2012501.0,Ilyas Kuliev,Ilyas,Kuliev,M,,Asia,,,26.0,182 cm,92 kg,12.0,337.0,2022,semifinals
+855088.0,Vladislav Zakhovaev,Vladislav,Zakhovaev,M,,Asia,12640.0,CrossFit Redyar,30.0,178 cm,84 kg,13.0,335.0,2022,semifinals
+1379783.0,Seungjong Kim,Seungjong,Kim,M,"Korea, Republic of",Asia,12809.0,Lets CrossFit,26.0,175 cm,87 kg,14.0,331.0,2022,semifinals
+461950.0,Eren Kim,Eren,Kim,M,"Korea, Republic of",Asia,21545.0,CrossFit Shooting Star,29.0,170 cm,176 lb,15.0,307.0,2022,semifinals
+712556.0,Hyunsu Kim,Hyunsu,Kim,M,"Korea, Republic of",Asia,3568.0,CrossFit Fighting Spirit,31.0,174 cm,83 kg,16.0,296.0,2022,semifinals
+910847.0,Evgeniy Glushkov,Evgeniy,Glushkov,M,Israel,Asia,28481.0,YV CrossFit Gvat,26.0,168 cm,82 kg,17.0,293.0,2022,semifinals
+1278572.0,Grigory Gribenyuk,Grigory,Gribenyuk,M,,Asia,29497.0,KT CrossFit,28.0,170 cm,77 kg,18.0,292.0,2022,semifinals
+661648.0,Ignatiy Chomchoev,Ignatiy,Chomchoev,M,,Asia,,,30.0,174 cm,88 kg,19.0,220.0,2022,semifinals
+1860799.0,Mevlüt Agir,Mevlüt,Agir,M,Turkey,Asia,17632.0,CrossFit Boran,28.0,170 cm,80 kg,20.0,209.0,2022,semifinals
+957139.0,Geunjin Kim,Geunjin,Kim,M,"Korea, Republic of",Asia,23370.0,CrossFit Rikka,28.0,175 cm,81 kg,21.0,198.0,2022,semifinals
+1617353.0,Min Sun Kim,Min Sun,Kim,M,"Korea, Republic of",Asia,13897.0,CrossFit Atlantis,25.0,170 cm,78 kg,22.0,183.0,2022,semifinals
+1721525.0,Raad Alshahrani,Raad,Alshahrani,M,Saudi Arabia,Asia,,,28.0,169 cm,85 kg,23.0,180.0,2022,semifinals
+474979.0,Dmitry Gurin,Dmitry,Gurin,M,,Asia,17189.0,Backstage CrossFit,26.0,170 cm,76 kg,0.0,0.0,2022,semifinals
+137056.0,Marcus Kwak,Marcus,Kwak,M,"Korea, Republic of",Asia,12809.0,Lets CrossFit,30.0,176 cm,180 lb,0.0,0.0,2022,semifinals
+1346810.0,Seungyeon Choi,Seungyeon,Choi,F,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,23.0,168 cm,155 lb,1.0,588.0,2022,semifinals
+1544576.0,Seher Kaya,Seher,Kaya,F,Turkey,Asia,18749.0,CrossFit Elverum,24.0,161 cm,64 kg,2.0,560.0,2022,semifinals
+280125.0,Dawon Jung,Dawon,Jung,F,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,27.0,170 cm,65 kg,3.0,508.0,2022,semifinals
+419506.0,Dema Zebdieh,Dema,Zebdieh,F,Jordan,Asia,,,36.0,175 cm,74 kg,4.0,468.0,2022,semifinals
+144083.0,Yuko Sakuyama,Yuko,Sakuyama,F,Japan,Asia,,,35.0,152 cm,120 lb,5.0,464.0,2022,semifinals
+953791.0,Shahad Budebs,Shahad,Budebs,F,United Arab Emirates,Asia,28256.0,CrossFit 971,27.0,161 cm,60 kg,6.0,453.0,2022,semifinals
+267049.0,Uracha Teerawanitsan,Uracha,Teerawanitsan,F,Thailand,Asia,19905.0,Thonglor CrossFit,29.0,156 cm,134 lb,7.0,433.0,2022,semifinals
+1791906.0,Omer Reshef,Omer,Reshef,F,Israel,Asia,21834.0,CrossFit Sea and Sun,21.0,169 cm,66 kg,8.0,432.0,2022,semifinals
+1698249.0,Tatiana Evseeva,Tatiana,Evseeva,F,,Asia,,,25.0,161 cm,60 kg,9.0,357.0,2022,semifinals
+1127236.0,MinJeong Kim,MinJeong,Kim,F,"Korea, Republic of",Asia,23370.0,CrossFit Rikka,27.0,165 cm,135 lb,10.0,357.0,2022,semifinals
+1960039.0,Merve Gokcil,Merve,Gokcil,F,Turkey,Asia,18161.0,CrossFit SkyLight,31.0,160 cm,63 kg,11.0,342.0,2022,semifinals
+1754794.0,Florence Wong,Florence,Wong,F,China,Asia,16221.0,CrossFit Shapesmiths,28.0,162 cm,64 kg,12.0,337.0,2022,semifinals
+1611939.0,Gaeun Kim,Gaeun,Kim,F,"Korea, Republic of",Asia,,,22.0,164 cm,66 kg,13.0,337.0,2022,semifinals
+1014699.0,Dara Al-Kayyali,Dara,Al-Kayyali,F,Palestinian Territory,Asia,14656.0,CrossFit EHOH,25.0,160 cm,70 kg,14.0,328.0,2022,semifinals
+327295.0,Nataly Soboleva,Nataly,Soboleva,F,Israel,Asia,28684.0,CrossFit Ramat HaSharon,32.0,168 cm,65 kg,15.0,299.0,2022,semifinals
+801821.0,Roja Hashemi,Roja,Hashemi,F,Iran,Asia,,,31.0,165 cm,67 kg,16.0,295.0,2022,semifinals
+586509.0,Nina Juna,Nina,Juna,F,Brunei Darussalam,Asia,,,30.0,157 cm,58 kg,17.0,292.0,2022,semifinals
+1521674.0,Rena Urabe,Rena,Urabe,F,Japan,Asia,23184.0,CrossFit Kukuri,26.0,155 cm,,18.0,282.0,2022,semifinals
+325346.0,Mariam AlHilli,Mariam,AlHilli,F,Bahrain,Asia,14841.0,Black Flag CrossFit,38.0,62 in,128 lb,19.0,255.0,2022,semifinals
+1218197.0,Byun Eunche,Byun,Eunche,F,"Korea, Republic of",Asia,,,27.0,157 cm,53 kg,20.0,219.0,2022,semifinals
+297753.0,Hajer Jamal,Hajer,Jamal,F,Kuwait,Asia,,,35.0,154 cm,130 lb,21.0,204.0,2022,semifinals
+444527.0,Landy Eng,Landy,Eng,F,Singapore,Asia,8725.0,CrossFit Mobilus Clarke Quay,33.0,159 cm,57 kg,22.0,200.0,2022,semifinals
+1707158.0,May Hazan,May,Hazan,F,Israel,Asia,15615.0,CrossFit Namal,24.0,153 cm,57 kg,23.0,165.0,2022,semifinals
+570807.0,Hyerin Baek,Hyerin,Baek,F,"Korea, Republic of",Asia,18810.0,CrossFit Bundang,31.0,170 cm,149 lb,24.0,121.0,2022,semifinals
+912927.0,Maria Astashova,Maria,Astashova,F,,Asia,,,27.0,170 cm,68 kg,0.0,0.0,2022,semifinals
+716089.0,Or Cohen,Or,Cohen,F,Israel,Asia,7738.0,CrossFit Kfar Saba,32.0,157 cm,63 kg,0.0,0.0,2022,semifinals
+2243055.0,Khushi Verma,Khushi,Verma,F,India,Asia,,,22.0,6 in,55 kg,0.0,0.0,2022,semifinals
+107101.0,Brent Fikowski,Brent,Fikowski,M,Canada,North America,,,31.0,74 in,220 lb,1.0,520.0,2022,semifinals
+879211.0,Phil Toon,Phil,Toon,M,United States,North America,1893.0,CrossFit Naples,24.0,70 in,195 lb,-1.0,496.0,2022,semifinals
+1690.0,Travis Mayer,Travis,Mayer,M,United States,North America,7104.0,CrossFit UNTD,31.0,71 in,204 lb,2.0,492.0,2022,semifinals
+74320.0,Samuel Kwant,Samuel,Kwant,M,United States,North America,,,26.0,71 in,206 lb,3.0,466.0,2022,semifinals
+676693.0,Colten Mertens,Colten,Mertens,M,United States,North America,1324.0,CrossFit Kilo,24.0,64 in,185 lb,4.0,438.0,2022,semifinals
+843041.0,Nick Mathew,Nick,Mathew,M,United States,North America,14452.0,CrossFit Minnetonka,28.0,69 in,200 lb,5.0,428.0,2022,semifinals
+707413.0,Matt Dlugos,Matt,Dlugos,M,United States,North America,6103.0,Rhino CrossFit,25.0,76 in,218 lb,6.0,424.0,2022,semifinals
+20698.0,Timothy Paulson,Timothy,Paulson,M,United States,North America,5307.0,CrossFit Pallas,32.0,73 in,215 lb,7.0,409.0,2022,semifinals
+388740.0,Anthony Davis,Anthony,Davis,M,United States,North America,1289.0,Timberwolf CrossFit,27.0,69 in,220 lb,8.0,377.0,2022,semifinals
+869061.0,Leonel Franco,Leonel,Franco,M,United States,North America,12808.0,Straight Flush CrossFit,24.0,70 in,197 lb,9.0,362.0,2022,semifinals
+469626.0,Chandler Smith,Chandler,Smith,M,United States,North America,505.0,CrossFit New England,29.0,68 in,195 lb,10.0,349.0,2022,semifinals
+422637.0,Dylan Hamming,Dylan,Hamming,M,United States,North America,27814.0,8th Day CrossFit,29.0,74 in,215 lb,11.0,341.0,2022,semifinals
+697475.0,John Wood,John,Wood,M,United States,North America,21044.0,BackCountry CrossFit,27.0,72 in,212 lb,12.0,326.0,2022,semifinals
+211543.0,Marquan Jones,Marquan,Jones,M,United States,North America,16820.0,CrossFit Roseland,32.0,71 in,200 lb,13.0,307.0,2022,semifinals
+755342.0,Zachery Buntin,Zachery,Buntin,M,United States,North America,6628.0,CrossFit T-Town,28.0,72 in,225 lb,14.0,287.0,2022,semifinals
+705474.0,Sam DeMeester,Sam,DeMeester,M,United States,North America,10079.0,CrossFit Triple River,23.0,71 in,195 lb,15.0,284.0,2022,semifinals
+238219.0,Norman Woodring,Norman,Woodring,M,United States,North America,17038.0,Not the Norm CrossFit,32.0,73 in,220 lb,16.0,263.0,2022,semifinals
+352340.0,Casey Crable,Casey,Crable,M,United States,North America,8176.0,Long Road CrossFit,29.0,72 in,215 lb,17.0,260.0,2022,semifinals
+233034.0,Tyler Eggimann,Tyler,Eggimann,M,United States,North America,1130.0,Paradiso CrossFit,29.0,70 in,200 lb,18.0,231.0,2022,semifinals
+252764.0,Jordan Hayward,Jordan,Hayward,M,United States,North America,18646.0,CrossFit Melior,28.0,71 in,200 lb,19.0,231.0,2022,semifinals
+1281054.0,Cj Gerald,Cj,Gerald,M,United States,North America,9690.0,Sol CrossFit,28.0,67 in,180 lb,20.0,218.0,2022,semifinals
+3413.0,Josh Woodhull,Josh,Woodhull,M,United States,North America,4211.0,CrossFit Maven,31.0,73 in,210 lb,21.0,195.0,2022,semifinals
+470028.0,Joe Pierro,Joe,Pierro,M,United States,North America,15987.0,CrossFit 201,25.0,67 in,200 lb,22.0,164.0,2022,semifinals
+37172.0,Marshall Creed,Marshall,Creed,M,United States,North America,5439.0,CrossFit 217,32.0,68 in,175 lb,23.0,138.0,2022,semifinals
+356236.0,Stewart Jones,Stewart,Jones,M,United States,North America,,,22.0,71 in,147 lb,24.0,120.0,2022,semifinals
+482764.0,Eric Evans,Eric,Evans,M,United States,North America,20578.0,Gold Standard Athletics CrossFit,31.0,70 in,185 lb,25.0,111.0,2022,semifinals
+877784.0,Joshua Hong,Joshua,Hong,M,United States,North America,8821.0,CrossFit Five Plus,23.0,69 in,185 lb,26.0,111.0,2022,semifinals
+41519.0,Carlos Albaladejo,Carlos,Albaladejo,M,United States,North America,17302.0,CrossFit Marvel,34.0,67 in,175 lb,27.0,108.0,2022,semifinals
+864174.0,Kyle Baughman,Kyle,Baughman,M,United States,North America,22543.0,Golden Goose CrossFit,29.0,74 in,220 lb,28.0,80.0,2022,semifinals
+899191.0,Chase Merrill,Chase,Merrill,M,United States,North America,29808.0,CrossFit 801,25.0,69 in,196 lb,29.0,39.0,2022,semifinals
+1239980.0,Mallory O'Brien,Mallory,O'Brien,F,United States,North America,6897.0,802 CrossFit,18.0,63 in,135 lb,1.0,576.0,2022,semifinals
+174547.0,Amanda Barnhart,Amanda,Barnhart,F,United States,North America,505.0,CrossFit New England,30.0,67 in,160 lb,2.0,520.0,2022,semifinals
+670000.0,Dani Speegle,Dani,Speegle,F,United States,North America,600.0,CrossFit Invictus,28.0,66 in,170 lb,3.0,504.0,2022,semifinals
+1232297.0,Alex Willis,Alex,Willis,F,United States,North America,6103.0,Rhino CrossFit,20.0,66 in,150 lb,4.0,484.0,2022,semifinals
+484380.0,Emily Rolfe,Emily,Rolfe,F,Canada,North America,22956.0,CrossFit Sea Level,33.0,170 cm,152 lb,5.0,481.0,2022,semifinals
+250568.0,Kloie Wilson,Kloie,Wilson,F,United States,North America,1943.0,CrossFit Dixie,24.0,67 in,155 lb,6.0,476.0,2022,semifinals
+252691.0,Feeroozeh Saghafi,Feeroozeh,Saghafi,F,United States,North America,7991.0,CrossFit Mentality,27.0,61 in,135 lb,7.0,433.0,2022,semifinals
+1028410.0,Kelly Stone,Kelly,Stone,F,United States,North America,7094.0,CrossFit Omnia,31.0,65 in,150 lb,8.0,364.0,2022,semifinals
+872275.0,Caroline Stanley,Caroline,Stanley,F,United States,North America,3617.0,College Hill CrossFit,22.0,63 in,145 lb,9.0,349.0,2022,semifinals
+74426.0,Chelsea Nicholas,Chelsea,Nicholas,F,United States,North America,1197.0,CrossFit Advantage,34.0,66 in,150 lb,10.0,324.0,2022,semifinals
+1515232.0,Jess Harper,Jess,Harper,F,United States,North America,505.0,CrossFit New England,26.0,67 in,148 lb,11.0,303.0,2022,semifinals
+1818022.0,Ashley Shoemaker,Ashley,Shoemaker,F,United States,North America,,,30.0,69 in,157 lb,12.0,303.0,2022,semifinals
+1588562.0,Karisa Stapp,Karisa,Stapp,F,United States,North America,5490.0,CrossFit i1uvit,25.0,67 in,160 lb,13.0,289.0,2022,semifinals
+1443816.0,Jordan Szewc,Jordan,Szewc,F,United States,North America,13987.0,CrossFit Tuebor,19.0,67 in,155 lb,14.0,277.0,2022,semifinals
+887140.0,Chloe Carano,Chloe,Carano,F,United States,North America,5481.0,NorthEast CrossFit Hawthorne,21.0,62 in,135 lb,15.0,276.0,2022,semifinals
+121033.0,Sydney Wells,Sydney,Wells,F,United States,North America,19593.0,CrossFit East Nashville,27.0,66 in,151 lb,16.0,270.0,2022,semifinals
+478366.0,Kaela Stephano,Kaela,Stephano,F,United States,North America,9927.0,CrossFit Hype,21.0,61 in,135 lb,17.0,268.0,2022,semifinals
+30914.0,Jessica Meek,Jessica,Meek,F,United States,North America,19559.0,CrossFit DSSC,34.0,67 in,145 lb,18.0,266.0,2022,semifinals
+798694.0,Kelly Benfey,Kelly,Benfey,F,United States,North America,1572.0,Badger CrossFit,30.0,65 in,153 lb,19.0,222.0,2022,semifinals
+752973.0,Andrea Szarkowicz,Andrea,Szarkowicz,F,United States,North America,18054.0,CrossFit Override,31.0,70 in,165 lb,20.0,210.0,2022,semifinals
+914030.0,Emily DeFeo,Emily,DeFeo,F,United States,North America,10851.0,12th State CrossFit,25.0,64 in,150 lb,21.0,204.0,2022,semifinals
+1012239.0,Lindsey Motl,Lindsey,Motl,F,United States,North America,5194.0,CrossFit Praus,30.0,66 in,155 lb,22.0,181.0,2022,semifinals
+1687529.0,Danielle Oliveri,Danielle,Oliveri,F,United States,North America,11318.0,CrossFit Amoskeag,28.0,62 in,145 lb,23.0,180.0,2022,semifinals
+232586.0,Brittany Bolella,Brittany,Bolella,F,United States,North America,2164.0,CrossFit Norwalk,33.0,62 in,140 lb,24.0,177.0,2022,semifinals
+458279.0,Victoria Caruso,Victoria,Caruso,F,United States,North America,16820.0,CrossFit Roseland,31.0,66 in,160 lb,25.0,173.0,2022,semifinals
+331790.0,Julia Glotz,Julia,Glotz,F,United States,North America,1516.0,Maverick CrossFit,30.0,65 in,145 lb,26.0,171.0,2022,semifinals
+1084788.0,Nataya Fullmer,Nataya,Fullmer,F,United States,North America,13732.0,Kulak CrossFit,23.0,5 in,130 lb,27.0,162.0,2022,semifinals
+1223697.0,Sierra Tjelmeland,Sierra,Tjelmeland,F,United States,North America,14199.0,CrossFit Sua Sponte West,27.0,62 in,130 lb,28.0,99.0,2022,semifinals
+873165.0,Ana Valladares,Ana,Valladares,F,Honduras,North America,25335.0,TTT CrossFit,25.0,155 cm,130 lb,29.0,75.0,2022,semifinals
+510988.0,Zoe Warren,Zoe,Warren,F,United States,North America,21044.0,BackCountry CrossFit,23.0,61 in,140 lb,30.0,0.0,2022,semifinals
+469656.0,Jeffrey Adler,Jeffrey,Adler,M,Canada,North America,18059.0,CrossFit Wonderland,28.0,69 in,197 lb,1.0,564.0,2022,semifinals
+158264.0,Patrick Vellner,Patrick,Vellner,M,Canada,North America,1918.0,CrossFit Nanaimo,32.0,71 in,195 lb,2.0,556.0,2022,semifinals
+251546.0,Alexandre Caron,Alexandre,Caron,M,Canada,North America,15562.0,CrossFit Levis,26.0,71 in,205 lb,3.0,480.0,2022,semifinals
+180541.0,Alex Vigneault,Alex,Vigneault,M,Canada,North America,,,30.0,71 in,205 lb,4.0,440.0,2022,semifinals
+489030.0,Nycolas Joyal,Nycolas,Joyal,M,Canada,North America,,,28.0,70 in,200 lb,-1.0,432.0,2022,semifinals
+251447.0,Austin Spencer,Austin,Spencer,M,United States,North America,1926.0,CrossFit MF,29.0,70 in,205 lb,5.0,407.0,2022,semifinals
+111592.0,Connor Duddy,Connor,Duddy,M,United States,North America,3995.0,Solidarity CrossFit,29.0,70 in,190 lb,6.0,397.0,2022,semifinals
+410262.0,Jeremy Vigneault,Jeremy,Vigneault,M,Canada,North America,,,25.0,185 cm,215 lb,7.0,362.0,2022,semifinals
+867741.0,Jack Farlow,Jack,Farlow,M,Canada,North America,21726.0,CrossFit PSC,20.0,73 in,205 lb,8.0,357.0,2022,semifinals
+493511.0,Cédric Lapointe,Cédric,Lapointe,M,Canada,North America,10570.0,CrossFit 819,25.0,69 in,188 lb,9.0,326.0,2022,semifinals
+949237.0,Benoît Boulanger,Benoît,Boulanger,M,Canada,North America,4459.0,Tonic CrossFit,23.0,186 cm,205 lb,10.0,313.0,2022,semifinals
+233782.0,Tyler Lee,Tyler,Lee,M,Canada,North America,18321.0,CrossFit Resurrection,32.0,70 in,195 lb,11.0,303.0,2022,semifinals
+1079534.0,Damian Conciatori,Damian,Conciatori,M,Canada,North America,,,27.0,69 in,165 lb,12.0,297.0,2022,semifinals
+743896.0,Dylan Pettit,Dylan,Pettit,M,United States,North America,5410.0,CrossFit Medfield,28.0,71 in,218 lb,13.0,295.0,2022,semifinals
+79080.0,Peter Mason,Peter,Mason,M,United States,North America,3310.0,CrossFit Free,27.0,70 in,190 lb,14.0,291.0,2022,semifinals
+896411.0,Jack Rozema,Jack,Rozema,M,United States,North America,3198.0,CrossFit 785,26.0,69 in,205 lb,15.0,288.0,2022,semifinals
+1772337.0,Drake Lewis,Drake,Lewis,M,United States,North America,18545.0,Wasatch CrossFit,23.0,70 in,197 lb,16.0,265.0,2022,semifinals
+348805.0,Will Bennett,Will,Bennett,M,United States,North America,,,28.0,70 in,195 lb,17.0,257.0,2022,semifinals
+104692.0,Anthony Vorachak,Anthony,Vorachak,M,United States,North America,26021.0,Upper Valley CrossFit,33.0,69 in,185 lb,18.0,232.0,2022,semifinals
+468873.0,Josh Workman,Josh,Workman,M,United States,North America,2164.0,CrossFit Norwalk,24.0,67 in,175 lb,19.0,227.0,2022,semifinals
+1020438.0,Skyler Ocetnik,Skyler,Ocetnik,M,United States,North America,22543.0,Golden Goose CrossFit,30.0,70 in,200 lb,20.0,219.0,2022,semifinals
+481081.0,Gunnar Regan,Gunnar,Regan,M,United States,North America,19593.0,CrossFit East Nashville,27.0,70 in,205 lb,21.0,218.0,2022,semifinals
+684745.0,Logan Ewing,Logan,Ewing,M,United States,North America,3220.0,CrossFit Mayhem,21.0,71 in,205 lb,22.0,199.0,2022,semifinals
+1049283.0,Collin Garnek,Collin,Garnek,M,United States,North America,17047.0,CrossFit Saol,24.0,72 in,205 lb,23.0,197.0,2022,semifinals
+978266.0,Parker Foster,Parker,Foster,M,United States,North America,3266.0,Koda CrossFit,24.0,68 in,170 lb,24.0,176.0,2022,semifinals
+210182.0,Stephen Neer,Stephen,Neer,M,United States,North America,16626.0,CrossFit Mahwah,29.0,68 in,180 lb,25.0,135.0,2022,semifinals
+308712.0,Jean-Simon Roy-Lemaire,Jean-Simon,Roy-Lemaire,M,Canada,North America,4459.0,Tonic CrossFit,28.0,176 cm,195 lb,26.0,239.0,2022,semifinals
+1931423.0,Emma Lawson,Emma,Lawson,F,Canada,North America,21726.0,CrossFit PSC,17.0,65 in,140 lb,1.0,568.0,2022,semifinals
+1190381.0,Paige Powers,Paige,Powers,F,United States,North America,3220.0,CrossFit Mayhem,19.0,64 in,155 lb,2.0,560.0,2022,semifinals
+314703.0,Caroline Conners,Caroline,Conners,F,United States,North America,1926.0,CrossFit MF,29.0,61 in,133 lb,3.0,477.0,2022,semifinals
+1207609.0,Freya Moosbrugger,Freya,Moosbrugger,F,Canada,North America,2126.0,CrossFit Fraser Valley,20.0,165 cm,69 kg,4.0,468.0,2022,semifinals
+239148.0,Carolyne Prevost,Carolyne,Prevost,F,Canada,North America,718.0,CrossFit Colosseum,32.0,63 in,145 lb,5.0,441.0,2022,semifinals
+837605.0,Callista Lang,Callista,Lang,F,United States,North America,1208.0,Port CrossFit,21.0,64 in,138 lb,6.0,404.0,2022,semifinals
+1136909.0,Tori Dyson,Tori,Dyson,F,United States,North America,505.0,CrossFit New England,27.0,60 in,140 lb,7.0,397.0,2022,semifinals
+977156.0,Hattie Kanyo,Hattie,Kanyo,F,Canada,North America,,,30.0,64 in,145 lb,8.0,381.0,2022,semifinals
+690876.0,Elena Budz,Elena,Budz,F,United States,North America,3310.0,CrossFit Free,23.0,63 in,140 lb,9.0,352.0,2022,semifinals
+197635.0,Amy Morton,Amy,Morton,F,Canada,North America,16077.0,Ocean State CrossFit,34.0,163 cm,154 lb,10.0,329.0,2022,semifinals
+1549019.0,Molly McGrandy,Molly,McGrandy,F,United States,North America,22775.0,CrossFit Whip,26.0,65 in,159 lb,11.0,309.0,2022,semifinals
+152663.0,Alison Scudds,Alison,Scudds,F,United States,North America,6103.0,Rhino CrossFit,29.0,63 in,140 lb,12.0,308.0,2022,semifinals
+743617.0,Addison DesRosiers,Addison,DesRosiers,F,United States,North America,3310.0,CrossFit Free,29.0,64 in,144 lb,13.0,263.0,2022,semifinals
+1667177.0,Stacy Loushin,Stacy,Loushin,F,United States,North America,11016.0,CrossFit Progression,28.0,66 in,150 lb,14.0,254.0,2022,semifinals
+3200.0,Dani Horan,Dani,Horan,F,United States,North America,2080.0,Champlain Valley CrossFit,34.0,66 in,150 lb,15.0,254.0,2022,semifinals
+245145.0,Nikki Matarazzo,Nikki,Matarazzo,F,Canada,North America,1535.0,CrossFit Newmarket Central,31.0,152 cm,141 lb,16.0,245.0,2022,semifinals
+635794.0,Ellie Tarence Hiller,Ellie,Tarence Hiller,F,United States,North America,18630.0,CrossFit Laminin,24.0,61 in,130 lb,17.0,240.0,2022,semifinals
+1038494.0,Hanna Mrochuk,Hanna,Mrochuk,F,Canada,North America,,,19.0,63 in,139 lb,18.0,226.0,2022,semifinals
+265038.0,Gabrielle Ocker,Gabrielle,Ocker,F,United States,North America,3995.0,Solidarity CrossFit,27.0,65 in,147 lb,19.0,222.0,2022,semifinals
+913941.0,Lexi Neely,Lexi,Neely,F,United States,North America,22109.0,Three Kings CrossFit North,19.0,62 in,140 lb,20.0,221.0,2022,semifinals
+293492.0,Alexys D'Tiole,Alexys,D'Tiole,F,United States,North America,718.0,CrossFit Colosseum,31.0,66 in,150 lb,21.0,214.0,2022,semifinals
+38909.0,Mirakim Couvrette,Mirakim,Couvrette,F,Canada,North America,29764.0,CrossFit The Flying V,31.0,63 in,142 lb,22.0,209.0,2022,semifinals
+664961.0,Jackie Violette,Jackie,Violette,F,United States,North America,4883.0,Branford CrossFit,20.0,62 in,135 lb,23.0,193.0,2022,semifinals
+647048.0,Alaina Savage,Alaina,Savage,F,United States,North America,26021.0,Upper Valley CrossFit,29.0,65 in,150 lb,24.0,188.0,2022,semifinals
+279817.0,Logan Filo-Loos,Logan,Filo-Loos,F,United States,North America,15191.0,CrossFit Crag,23.0,62 in,150 lb,25.0,184.0,2022,semifinals
+595674.0,Sabrina Gordon,Sabrina,Gordon,F,United States,North America,29716.0,CrossFit OBA,30.0,65 in,160 lb,26.0,140.0,2022,semifinals
+1769872.0,Hayley Hunter,Hayley,Hunter,F,United States,North America,17218.0,CrossFit Pendleton,26.0,63 in,125 lb,27.0,135.0,2022,semifinals
+801919.0,Michelle Palmer,Michelle,Palmer,F,United States,North America,28283.0,CrossFit Tsavo,37.0,69 in,163 lb,28.0,123.0,2022,semifinals
+689222.0,Ally Duckworth,Ally,Duckworth,F,United States,North America,20557.0,CrossFit Train Station,25.0,61 in,135 lb,29.0,99.0,2022,semifinals
+151555.0,Erin Vandendriessche,Erin,Vandendriessche,F,United States,North America,3523.0,Advanced Performance CrossFit,31.0,67 in,145 lb,30.0,288.0,2022,semifinals
+702092.0,Willy Georges,Willy,Georges,M,France,Europe,28670.0,WYS CrossFit,29.0,179 cm,88 kg,1.0,520.0,2022,semifinals
+680734.0,Henrik Haapalainen,Henrik,Haapalainen,M,Finland,Europe,7050.0,CrossFit Basement,27.0,185 cm,94 kg,2.0,465.0,2022,semifinals
+371085.0,André Houdet,André,Houdet,M,Denmark,Europe,,,28.0,183 cm,96 kg,3.0,462.0,2022,semifinals
+483096.0,Giorgos Karavis,Giorgos,Karavis,M,Greece,Europe,21972.0,CrossFit Puerto Banus,27.0,177 cm,92 kg,4.0,430.0,2022,semifinals
+1105497.0,Guillaume Briant,Guillaume,Briant,M,France,Europe,29491.0,CrossFit HFS,28.0,180 cm,93 kg,5.0,430.0,2022,semifinals
+173837.0,Jonne Koski,Jonne,Koski,M,Finland,Europe,7526.0,CrossFit 10K,27.0,171 cm,190 lb,6.0,428.0,2022,semifinals
+822789.0,Alex Kotoulas,Alex,Kotoulas,M,Greece,Europe,,,29.0,172 cm,83 kg,7.0,407.0,2022,semifinals
+1232973.0,Dumain Antoine,Dumain,Antoine,M,France,Europe,14979.0,CrossFit TANKA,28.0,179 cm,87 kg,8.0,394.0,2022,semifinals
+98053.0,Kristóf Horváth,Kristóf,Horváth,M,Hungary,Europe,12162.0,C23 CrossFit,28.0,189 cm,103 kg,9.0,387.0,2022,semifinals
+945268.0,Reggie Fasa,Reggie,Fasa,M,United Kingdom,Europe,29213.0,High Performance CrossFit,27.0,173 cm,93 kg,10.0,383.0,2022,semifinals
+911088.0,Ludvig Hahnsson,Ludvig,Hahnsson,M,Finland,Europe,7050.0,CrossFit Basement,31.0,177 cm,89 kg,11.0,382.0,2022,semifinals
+86089.0,Elliot Simmonds,Elliot,Simmonds,M,United Kingdom,Europe,1340.0,Dragon CrossFit,28.0,185 cm,90 kg,12.0,358.0,2022,semifinals
+237641.0,Zack George,Zack,George,M,United Kingdom,Europe,19739.0,CrossFit BFG,32.0,182 cm,101 kg,13.0,343.0,2022,semifinals
+248752.0,PD Savage,PD,Savage,M,Ireland,Europe,5628.0,CrossFit 8020,32.0,185 cm,100 kg,14.0,336.0,2022,semifinals
+468290.0,Bryan Hernández,Bryan,Hernández,M,Spain,Europe,3962.0,Area CrossFit,24.0,169 cm,79 kg,15.0,309.0,2022,semifinals
+1189468.0,Jan Matiaska,Jan,Matiaska,M,Switzerland,Europe,12469.0,CrossFit Kreis 9,27.0,186 cm,100 kg,16.0,293.0,2022,semifinals
+902269.0,Tommaso Pieri,Tommaso,Pieri,M,Italy,Europe,15361.0,CrossFit Bad Beast,25.0,190 cm,100 kg,17.0,262.0,2022,semifinals
+432855.0,Daniel Camacho,Daniel,Camacho,M,Spain,Europe,17272.0,CrossFit Zarautz,29.0,178 cm,89 kg,18.0,260.0,2022,semifinals
+932524.0,Eliott Genin,Eliott,Genin,M,France,Europe,13199.0,CrossFit Bourgoin,23.0,177 cm,80 kg,19.0,245.0,2022,semifinals
+106655.0,Simon Mantyla,Simon,Mantyla,M,Sweden,Europe,13246.0,CrossFit Mejeriet,31.0,181 cm,95 kg,20.0,237.0,2022,semifinals
+454496.0,Marius Tinglum Pettersen,Marius,Tinglum Pettersen,M,Norway,Europe,372.0,CrossFit Oslo,28.0,185 cm,91 kg,21.0,225.0,2022,semifinals
+1229084.0,Jan Arnd Finkenberg,Jan Arnd,Finkenberg,M,Germany,Europe,11019.0,CrossFit 48,24.0,181 cm,94 kg,22.0,220.0,2022,semifinals
+437841.0,Marcus Erixon,Marcus,Erixon,M,Sweden,Europe,4962.0,CrossFit Holistic,29.0,186 cm,94 kg,23.0,201.0,2022,semifinals
+633281.0,Alexandre Pinsolle,Alexandre,Pinsolle,M,France,Europe,16796.0,CrossFit Happy Hearts,28.0,188 cm,95 kg,24.0,174.0,2022,semifinals
+351519.0,Sammy Wright,Sammy,Wright,M,United Kingdom,Europe,12776.0,CrossFit Utopia,29.0,182 cm,89 kg,25.0,117.0,2022,semifinals
+661731.0,Dimitris Fotiou,Dimitris,Fotiou,M,Greece,Europe,14045.0,Mad Hall CrossFit,31.0,168 cm,80 kg,26.0,105.0,2022,semifinals
+179080.0,Bartek Lipka,Bartek,Lipka,M,Poland,Europe,29893.0,CrossFit Strong House,32.0,177 cm,90 kg,27.0,73.0,2022,semifinals
+1296941.0,Giovanni Angelozzi,Giovanni,Angelozzi,M,Italy,Europe,16348.0,CrossFit Teramo,29.0,172 cm,84 kg,28.0,0.0,2022,semifinals
+299053.0,Jacqueline Dahlstrøm,Jacqueline,Dahlstrøm,F,Norway,Europe,12162.0,C23 CrossFit,30.0,167 cm,67 kg,1.0,532.0,2022,semifinals
+239442.0,Emma McQuaid,Emma,McQuaid,F,Ireland,Europe,25711.0,Boundary CrossFit,32.0,165 cm,65 kg,2.0,508.0,2022,semifinals
+19501.0,Thuridur Erla Helgadottir,Thuridur Erla,Helgadottir,F,Iceland,Europe,3834.0,CrossFit Zug,30.0,164 cm,59 kg,3.0,501.0,2022,semifinals
+254824.0,Solveig Sigurdardottir,Solveig,Sigurdardottir,F,Iceland,Europe,21943.0,CrossFit Surbiton,27.0,170 cm,70 kg,4.0,447.0,2022,semifinals
+1983424.0,Elisa Fuliano,Elisa,Fuliano,F,Italy,Europe,16895.0,CrossFit Altessano,26.0,157 cm,60 kg,5.0,420.0,2022,semifinals
+55121.0,Katrin Tanja Davidsdottir,Katrin Tanja,Davidsdottir,F,Iceland,Europe,2025.0,CrossFit Reykjavík,29.0,169 cm,152 lb,6.0,414.0,2022,semifinals
+2536.0,Samantha Briggs,Samantha,Briggs,F,United Kingdom,Europe,1257.0,CrossFit Cornerstone,40.0,170 cm,135 lb,7.0,410.0,2022,semifinals
+594929.0,Tayla Howe,Tayla,Howe,F,United Kingdom,Europe,29213.0,High Performance CrossFit,25.0,165 cm,75 kg,8.0,381.0,2022,semifinals
+1058374.0,Marie Robin,Marie,Robin,F,France,Europe,14897.0,CrossFit Roude Leiw,25.0,176 cm,70 kg,9.0,374.0,2022,semifinals
+623803.0,Emelie Lundberg,Emelie,Lundberg,F,Sweden,Europe,26251.0,Mölndal SUPERB CrossFit,32.0,162 cm,62 kg,10.0,366.0,2022,semifinals
+536902.0,Nicole Heer,Nicole,Heer,F,Switzerland,Europe,25475.0,CrossFit Pilatus Sursee,30.0,167 cm,63 kg,11.0,363.0,2022,semifinals
+1314653.0,Aimee Cringle,Aimee,Cringle,F,United Kingdom,Europe,4440.0,CrossFit IOM,23.0,167 cm,67 kg,12.0,354.0,2022,semifinals
+1353203.0,Silvia Garcia Izquierdo,Silvia,Garcia Izquierdo,F,Spain,Europe,14355.0,Red Grizzly CrossFit,28.0,165 cm,63 kg,13.0,350.0,2022,semifinals
+444303.0,Aoife Burke,Aoife,Burke,F,Ireland,Europe,16221.0,CrossFit Shapesmiths,31.0,165 cm,71 kg,14.0,338.0,2022,semifinals
+270175.0,Evie Hollis,Evie,Hollis,F,United Kingdom,Europe,10868.0,CrossFit Yas,25.0,158 cm,145 lb,15.0,295.0,2022,semifinals
+1542797.0,Metty Greneron,Metty,Greneron,F,France,Europe,25240.0,Millesime CrossFit Talence,24.0,160 cm,65 kg,16.0,274.0,2022,semifinals
+881701.0,Chiara Salandra,Chiara,Salandra,F,Italy,Europe,19237.0,CrossFit 2 Pairs,25.0,167 cm,63 kg,17.0,267.0,2022,semifinals
+1034822.0,Ella Wilkinson,Ella,Wilkinson,F,United Kingdom,Europe,29213.0,High Performance CrossFit,22.0,164 cm,64 kg,18.0,256.0,2022,semifinals
+255528.0,Matilda Spanou,Matilda,Spanou,F,Greece,Europe,14045.0,Mad Hall CrossFit,28.0,169 cm,65 kg,19.0,238.0,2022,semifinals
+1427328.0,Julia Blazejowska,Julia,Blazejowska,F,Poland,Europe,14234.0,CrossFit Ursynow,21.0,160 cm,62 kg,20.0,208.0,2022,semifinals
+227678.0,Vanessa Wagner,Vanessa,Wagner,F,Austria,Europe,24889.0,CrossFit Arch,31.0,169 cm,65 kg,21.0,207.0,2022,semifinals
+1169638.0,Maribel Gallardo,Maribel,Gallardo,F,Spain,Europe,18471.0,CrossFit Reus,24.0,166 cm,66 kg,22.0,204.0,2022,semifinals
+740017.0,Katharina Isele,Katharina,Isele,F,Germany,Europe,,,27.0,164 cm,76 kg,23.0,196.0,2022,semifinals
+1024482.0,Hannah Phipson,Hannah,Phipson,F,United Kingdom,Europe,12716.0,CrossFit 1971,30.0,158 cm,60 kg,24.0,183.0,2022,semifinals
+423405.0,Carina Simoes,Carina,Simoes,F,Portugal,Europe,,,31.0,157 cm,56 kg,25.0,159.0,2022,semifinals
+223140.0,Silje Toennesen,Silje,Toennesen,F,Norway,Europe,24387.0,CrossFit Gamlebyen,29.0,174 cm,66 kg,26.0,150.0,2022,semifinals
+1380283.0,Marta Ricottini,Marta,Ricottini,F,Italy,Europe,24159.0,CrossFit Felsina,27.0,174 cm,68 kg,27.0,135.0,2022,semifinals
+887297.0,Emma Tall,Emma,Tall,F,Sweden,Europe,29213.0,High Performance CrossFit,30.0,168 cm,68 kg,28.0,0.0,2022,semifinals
+686308.0,Guilherme Malheiros,Guilherme,Malheiros,M,Brazil,South America,3220.0,CrossFit Mayhem,22.0,177 cm,88 kg,1.0,544.0,2022,semifinals
+799012.0,Pedro Martins,Pedro,Martins,M,Brazil,South America,15173.0,CrossFit Barueri,32.0,178 cm,90 kg,-1.0,464.0,2022,semifinals
+478414.0,Agustin Richelme,Agustin,Richelme,M,Argentina,South America,25616.0,CrossFit SDC,25.0,173 cm,85 kg,2.0,443.0,2022,semifinals
+504209.0,Nicolas Bidarte,Nicolas,Bidarte,M,Argentina,South America,25616.0,CrossFit SDC,28.0,171 cm,88 kg,3.0,390.0,2022,semifinals
+169650.0,Lucas Da Rosa,Lucas,Da Rosa,M,Brazil,South America,17913.0,CrossFit Al Ain,26.0,184 cm,90 kg,4.0,380.0,2022,semifinals
+169360.0,Anderon Primo,Anderon,Primo,M,Brazil,South America,20268.0,CrossFit Bauru Hangar,27.0,180 cm,200 lb,5.0,362.0,2022,semifinals
+1178252.0,Piero Gorichon,Piero,Gorichon,M,Chile,South America,,,30.0,183 cm,90 kg,6.0,358.0,2022,semifinals
+1371871.0,Esteban Ospina,Esteban,Ospina,M,Colombia,South America,2509.0,Peak 360 CrossFit,21.0,178 cm,175 lb,7.0,354.0,2022,semifinals
+529821.0,Maximiliano Arigossi,Maximiliano,Arigossi,M,Argentina,South America,29788.0,CrossFit Tuluka,29.0,171 cm,85 kg,8.0,348.0,2022,semifinals
+1342749.0,Luiz Henrique Alves Moreira,Luiz Henrique Alves,Moreira,M,Brazil,South America,16537.0,CrossFit Berrini (departed),19.0,180 cm,90 kg,9.0,341.0,2022,semifinals
+955489.0,Agustin Ezequiel Guiñazu,Agustin Ezequiel,Guiñazu,M,Argentina,South America,21727.0,Criminal CrossFit,23.0,182 cm,96 kg,10.0,333.0,2022,semifinals
+744550.0,Gustavo Errico,Gustavo,Errico,M,Venezuela,South America,22534.0,RPC CrossFit,24.0,171 cm,82 kg,11.0,332.0,2022,semifinals
+433736.0,Thainã Toma,Thainã,Toma,M,Brazil,South America,,,32.0,166 cm,73 kg,12.0,332.0,2022,semifinals
+2232576.0,Williams Rios,Williams,Rios,M,Argentina,South America,,,24.0,172 cm,90 kg,13.0,331.0,2022,semifinals
+1335018.0,Bruno Marins,Bruno,Marins,M,Brazil,South America,10585.0,Cavaleiros CrossFit,25.0,187 cm,96 kg,14.0,312.0,2022,semifinals
+182502.0,Fabio Dechichi,Fabio,Dechichi,M,Brazil,South America,,,32.0,176 cm,180 lb,15.0,300.0,2022,semifinals
+2064040.0,Kalyan Souza,Kalyan,Souza,M,Brazil,South America,,,21.0,184 cm,92 kg,16.0,281.0,2022,semifinals
+1231733.0,Joao Pedro Barcelos,Joao Pedro,Barcelos,M,Brazil,South America,,,21.0,177 cm,88 kg,17.0,266.0,2022,semifinals
+270266.0,Omar Martinez,Omar,Martinez,M,Venezuela,South America,25616.0,CrossFit SDC,30.0,167 cm,76 kg,18.0,261.0,2022,semifinals
+467345.0,Vitor Caetano,Vitor,Caetano,M,Brazil,South America,13173.0,CrossFit CPK,23.0,173 cm,88 kg,19.0,241.0,2022,semifinals
+283866.0,Pablo Chalfun,Pablo,Chalfun,M,Brazil,South America,,,29.0,173 cm,88 kg,20.0,241.0,2022,semifinals
+164978.0,Guilherme Domingues,Guilherme,Domingues,M,Brazil,South America,21459.0,CrossFit Sinos,32.0,185 cm,210 lb,21.0,222.0,2022,semifinals
+326958.0,Santiago Comba,Santiago,Comba,M,Uruguay,South America,25616.0,CrossFit SDC,28.0,173 cm,84 kg,22.0,213.0,2022,semifinals
+418387.0,Juan Manuel Seitun,Juan Manuel,Seitun,M,Uruguay,South America,,,28.0,179 cm,90 kg,23.0,182.0,2022,semifinals
+912297.0,Nicolás Canil,Nicolás,Canil,M,Uruguay,South America,,,25.0,180 cm,82 kg,24.0,164.0,2022,semifinals
+1332272.0,Martin Gonzalez,Martin,Gonzalez,M,Argentina,South America,,,24.0,172 cm,80 kg,25.0,157.0,2022,semifinals
+1509853.0,Igor Lino,Igor,Lino,M,Brazil,South America,6303.0,CrossFit IG,25.0,174 cm,92 kg,26.0,155.0,2022,semifinals
+1188607.0,Bruno Grigoleto,Bruno,Grigoleto,M,Brazil,South America,15173.0,CrossFit Barueri,30.0,172 cm,86 kg,27.0,128.0,2022,semifinals
+2072535.0,Lucas Arce,Lucas,Arce,M,Argentina,South America,25616.0,CrossFit SDC,25.0,1 cm,82 kg,28.0,114.0,2022,semifinals
+901503.0,Kaique Cerveny,Kaique,Cerveny,M,Brazil,South America,20268.0,CrossFit Bauru Hangar,24.0,1 cm,96 kg,29.0,40.0,2022,semifinals
+221169.0,Victoria Campos,Victoria,Campos,F,Brazil,South America,3220.0,CrossFit Mayhem,29.0,161 cm,140 lb,1.0,516.0,2022,semifinals
+1558034.0,Julia Kato,Julia,Kato,F,Brazil,South America,17913.0,CrossFit Al Ain,22.0,159 cm,67 kg,2.0,460.0,2022,semifinals
+261255.0,Claudia Espinosa,Claudia,Espinosa,F,Ecuador,South America,,,31.0,175 cm,68 kg,-1.0,444.0,2022,semifinals
+1239683.0,Amanda Fusuma,Amanda,Fusuma,F,Brazil,South America,10922.0,Vittoria CrossFit,25.0,153 cm,55 kg,3.0,440.0,2022,semifinals
+300613.0,Luiza Marques,Luiza,Marques,F,Brazil,South America,17913.0,CrossFit Al Ain,20.0,153 cm,60 kg,4.0,436.0,2022,semifinals
+534577.0,Melina Rodriguez,Melina,Rodriguez,F,Argentina,South America,25616.0,CrossFit SDC,26.0,156 cm,138 lb,5.0,402.0,2022,semifinals
+841247.0,Andreia Pinheiro,Andreia,Pinheiro,F,Brazil,South America,,,39.0,170 cm,72 kg,6.0,398.0,2022,semifinals
+288819.0,Constanza Cabrera,Constanza,Cabrera,F,Chile,South America,17870.0,Nirvana CrossFit,27.0,160 cm,145 lb,7.0,377.0,2022,semifinals
+1021143.0,Valentina Rangel,Valentina,Rangel,F,Colombia,South America,22360.0,Iruka CrossFit,25.0,163 cm,65 kg,8.0,363.0,2022,semifinals
+2012971.0,Alexia Williams,Alexia,Williams,F,Argentina,South America,25616.0,CrossFit SDC,23.0,169 cm,70 kg,9.0,342.0,2022,semifinals
+452187.0,Carol Colling,Carol,Colling,F,Paraguay,South America,15316.0,Kingbull CrossFit,29.0,157 cm,58 kg,10.0,341.0,2022,semifinals
+1212088.0,Emily Andrade,Emily,Andrade,F,Brazil,South America,,,26.0,161 cm,139 lb,11.0,311.0,2022,semifinals
+1039808.0,Bruna Fernandes,Bruna,Fernandes,F,Brazil,South America,9770.0,CrossFit Silver Fern,29.0,162 cm,57 kg,12.0,306.0,2022,semifinals
+708499.0,Thais Nunes,Thais,Nunes,F,Brazil,South America,19977.0,CrossFit CFP9 CasaShopping,31.0,155 cm,147 lb,13.0,286.0,2022,semifinals
+277184.0,Laura Gonzalez-Marin,Laura,Gonzalez-Marin,F,Venezuela,South America,2509.0,Peak 360 CrossFit,28.0,67 in,148 lb,14.0,275.0,2022,semifinals
+993710.0,Claudia Amaral,Claudia,Amaral,F,Brazil,South America,,,30.0,1 cm,68 kg,15.0,269.0,2022,semifinals
+597463.0,Barbara Caravello,Barbara,Caravello,F,Argentina,South America,,,27.0,159 cm,63 kg,16.0,269.0,2022,semifinals
+1092200.0,Gabriela Marrafon,Gabriela,Marrafon,F,Brazil,South America,,,28.0,155 cm,60 kg,17.0,255.0,2022,semifinals
+1849026.0,Giovanna Magnani,Giovanna,Magnani,F,Brazil,South America,9770.0,CrossFit Silver Fern,27.0,170 cm,66 kg,18.0,254.0,2022,semifinals
+506770.0,Maisa Ghanem,Maisa,Ghanem,F,Paraguay,South America,,,27.0,158 cm,60 kg,19.0,228.0,2022,semifinals
+1313021.0,Lucy Pacheco,Lucy,Pacheco,F,Venezuela,South America,,,27.0,156 cm,60 kg,20.0,226.0,2022,semifinals
+1110823.0,Caroline Ferreira,Caroline,Ferreira,F,Brazil,South America,16537.0,CrossFit Berrini (departed),25.0,157 cm,63 kg,21.0,223.0,2022,semifinals
+1232143.0,Kiara Priscilla Schneider,Kiara Priscilla,Schneider,F,Argentina,South America,25616.0,CrossFit SDC,19.0,164 cm,68 kg,22.0,222.0,2022,semifinals
+1702671.0,Bruna Baxhix,Bruna,Baxhix,F,Brazil,South America,19365.0,Blindado CrossFit,25.0,160 cm,65 kg,23.0,214.0,2022,semifinals
+314669.0,Amanda Bacetti,Amanda,Bacetti,F,Brazil,South America,27683.0,CrossFit Le Huit,28.0,155 cm,61 kg,24.0,207.0,2022,semifinals
+1342053.0,Mailen Mauccione,Mailen,Mauccione,F,Argentina,South America,25616.0,CrossFit SDC,32.0,164 cm,54 kg,25.0,177.0,2022,semifinals
+632197.0,Tassia Dadda,Tassia,Dadda,F,Brazil,South America,6883.0,CrossFit High Pulse,32.0,164 cm,65 kg,26.0,162.0,2022,semifinals
+2079146.0,Jane Silva,Jane,Silva,F,Brazil,South America,16903.0,CrossFit Carranca,23.0,157 cm,56 kg,27.0,132.0,2022,semifinals
+1065005.0,Evelin Alvarez,Evelin,Alvarez,F,Argentina,South America,25616.0,CrossFit SDC,28.0,162 cm,67 kg,28.0,114.0,2022,semifinals
+718041.0,Emiliana Guerra,Emiliana,Guerra,F,Venezuela,South America,14181.0,Driving Force CrossFit,21.0,156 cm,59 kg,0.0,0.0,2022,semifinals
+20698.0,Timothy Paulson,Timothy,Paulson,M,United States,North America,5307.0,CrossFit Pallas,32.0,73 in,215 lb,1.0,341.0,2022,semifinals
+173837.0,Jonne Koski,Jonne,Koski,M,Finland,Europe,7526.0,CrossFit 10K,27.0,171 cm,190 lb,2.0,332.0,2022,semifinals
+45136.0,Jake Berman,Jake,Berman,M,United States,North America,25335.0,TTT CrossFit,26.0,68 in,185 lb,3.0,324.0,2022,semifinals
+843041.0,Nick Mathew,Nick,Mathew,M,United States,North America,14452.0,CrossFit Minnetonka,28.0,69 in,200 lb,4.0,296.0,2022,semifinals
+663689.0,Tyler Christophel,Tyler,Christophel,M,United States,North America,3220.0,CrossFit Mayhem,32.0,70 in,195 lb,5.0,288.0,2022,semifinals
+323300.0,Mitchel Stevenson,Mitchel,Stevenson,M,United States,North America,5490.0,CrossFit i1uvit,29.0,69 in,193 lb,6.0,281.0,2022,semifinals
+900251.0,James Sprague,James,Sprague,M,United States,North America,1893.0,CrossFit Naples,20.0,74 in,210 lb,7.0,278.0,2022,semifinals
+202638.0,Royce Dunne,Royce,Dunne,M,Australia,Oceania,10767.0,CrossFit Torian,31.0,183 cm,102 kg,8.0,273.0,2022,semifinals
+822789.0,Alex Kotoulas,Alex,Kotoulas,M,Greece,Europe,,,29.0,172 cm,83 kg,9.0,244.0,2022,semifinals
+111592.0,Connor Duddy,Connor,Duddy,M,United States,North America,3995.0,Solidarity CrossFit,29.0,70 in,190 lb,10.0,243.0,2022,semifinals
+410262.0,Jeremy Vigneault,Jeremy,Vigneault,M,Canada,North America,,,25.0,185 cm,215 lb,11.0,237.0,2022,semifinals
+681073.0,Griffin Roelle,Griffin,Roelle,M,United States,North America,8533.0,CrossFit Dwala,30.0,70 in,205 lb,12.0,228.0,2022,semifinals
+479759.0,Bayley Martin,Bayley,Martin,M,New Zealand,Oceania,15606.0,CrossFit Selwyn,22.0,174 cm,82 kg,13.0,219.0,2022,semifinals
+251447.0,Austin Spencer,Austin,Spencer,M,United States,North America,1926.0,CrossFit MF,29.0,70 in,205 lb,14.0,214.0,2022,semifinals
+1076087.0,Hamzeh Tarefi,Hamzeh,Tarefi,M,Palestinian Territory,Asia,11276.0,CrossFit Rome,27.0,173 cm,88 kg,15.0,205.0,2022,semifinals
+313457.0,Jacob Pfaff,Jacob,Pfaff,M,United States,North America,22787.0,CrossFit Noble Defender,30.0,67 in,215 lb,16.0,185.0,2022,semifinals
+888668.0,Luka Đukić,Luka,Đukić,M,Serbia,Europe,11487.0,CrossFit NS,23.0,181 cm,92 kg,17.0,184.0,2022,semifinals
+672425.0,Arthur Semenov,Arthur,Semenov,M,,Asia,14416.0,Red Tower CrossFit,29.0,189 cm,99 kg,18.0,172.0,2022,semifinals
+1657300.0,Fabian Beneito,Fabian,Beneito,M,Spain,Europe,17272.0,CrossFit Zarautz,26.0,178 cm,90 kg,19.0,151.0,2022,semifinals
+740370.0,Ruan Potgieter,Ruan,Potgieter,M,South Africa,Africa,3515.0,CrossFit 360Vida,25.0,182 cm,82 kg,20.0,143.0,2022,semifinals
+517691.0,Denis Samsonov,Denis,Samsonov,M,Kyrgyzstan,Asia,1130.0,Paradiso CrossFit,31.0,5 in,190 lb,21.0,137.0,2022,semifinals
+258151.0,Jake Douglas,Jake,Douglas,M,Australia,Oceania,9586.0,Snake CrossFit,31.0,172 cm,202 lb,22.0,135.0,2022,semifinals
+707413.0,Matt Dlugos,Matt,Dlugos,M,United States,North America,6103.0,Rhino CrossFit,25.0,76 in,218 lb,23.0,118.0,2022,semifinals
+23655.0,Anthony Haynes,Anthony,Haynes,M,China,Asia,6874.0,CrossFit CSTL,32.0,179 cm,89 kg,24.0,91.0,2022,semifinals
+831559.0,Andrey Fedotov,Andrey,Fedotov,M,,Asia,17539.0,Soyuz CrossFit,28.0,164 cm,81 kg,25.0,84.0,2022,semifinals
+478414.0,Agustin Richelme,Agustin,Richelme,M,Argentina,South America,25616.0,CrossFit SDC,25.0,173 cm,85 kg,26.0,77.0,2022,semifinals
+1515387.0,Darren Zurnamer,Darren,Zurnamer,M,South Africa,Africa,,,21.0,172 cm,82 kg,27.0,35.0,2022,semifinals
+132258.0,Arielle Loewen,Arielle,Loewen,F,United States,North America,,,28.0,63 in,145 lb,1.0,380.0,2022,semifinals
+762495.0,Elena Carratala Sanahuja,Elena,Carratala Sanahuja,F,Spain,Europe,19523.0,CrossFit 4 Friends,28.0,164 cm,63 kg,2.0,340.0,2022,semifinals
+55121.0,Katrin Tanja Davidsdottir,Katrin Tanja,Davidsdottir,F,Iceland,Europe,2025.0,CrossFit Reykjavík,29.0,169 cm,152 lb,3.0,336.0,2022,semifinals
+280780.0,Kristine Best,Kristine,Best,F,United States,North America,6348.0,CrossFit Undivided,32.0,63 in,138 lb,4.0,328.0,2022,semifinals
+264512.0,Jamie Simmonds,Jamie,Simmonds,F,New Zealand,Oceania,1340.0,Dragon CrossFit,31.0,163 cm,135 lb,5.0,324.0,2022,semifinals
+250568.0,Kloie Wilson,Kloie,Wilson,F,United States,North America,1943.0,CrossFit Dixie,24.0,67 in,155 lb,6.0,316.0,2022,semifinals
+252691.0,Feeroozeh Saghafi,Feeroozeh,Saghafi,F,United States,North America,7991.0,CrossFit Mentality,27.0,61 in,135 lb,7.0,312.0,2022,semifinals
+21556.0,Madeline Sturt,Madeline,Sturt,F,Australia,Oceania,1348.0,Reebok CrossFit Frankston,25.0,159 cm,63 kg,8.0,288.0,2022,semifinals
+1518913.0,Oihana Moya,Oihana,Moya,F,Spain,Europe,17272.0,CrossFit Zarautz,26.0,165 cm,68 kg,9.0,272.0,2022,semifinals
+1136909.0,Tori Dyson,Tori,Dyson,F,United States,North America,505.0,CrossFit New England,27.0,60 in,140 lb,10.0,260.0,2022,semifinals
+594929.0,Tayla Howe,Tayla,Howe,F,United Kingdom,Europe,29213.0,High Performance CrossFit,25.0,165 cm,75 kg,11.0,252.0,2022,semifinals
+8859.0,Ragnheiður Sara Sigmundsdottir,Ragnheiður Sara,Sigmundsdottir,F,Iceland,Europe,25335.0,TTT CrossFit,29.0,173 cm,69 kg,12.0,237.0,2022,semifinals
+510714.0,Lindsey Porter,Lindsey,Porter,F,United States,North America,3335.0,CrossFit Clearwater,22.0,67 in,150 lb,13.0,215.0,2022,semifinals
+977156.0,Hattie Kanyo,Hattie,Kanyo,F,Canada,North America,,,30.0,64 in,145 lb,14.0,192.0,2022,semifinals
+40756.0,Kelly Clark,Kelly,Clark,F,United States,North America,8060.0,CrossFit Up,35.0,64 in,145 lb,15.0,187.0,2022,semifinals
+837605.0,Callista Lang,Callista,Lang,F,United States,North America,1208.0,Port CrossFit,21.0,64 in,138 lb,16.0,186.0,2022,semifinals
+920973.0,Gabby McClelland,Gabby,McClelland,F,United States,North America,11612.0,CrossFit Decimate,24.0,68 in,175 lb,17.0,167.0,2022,semifinals
+280125.0,Dawon Jung,Dawon,Jung,F,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,27.0,170 cm,65 kg,18.0,151.0,2022,semifinals
+261255.0,Claudia Espinosa,Claudia,Espinosa,F,Ecuador,South America,,,31.0,175 cm,68 kg,19.0,148.0,2022,semifinals
+872244.0,Christina Livaditakis,Christina,Livaditakis,F,Zimbabwe,Africa,2218.0,CrossFit Crossaxed,25.0,153 cm,63 kg,19.0,148.0,2022,semifinals
+716089.0,Or Cohen,Or,Cohen,F,Israel,Asia,7738.0,CrossFit Kfar Saba,32.0,157 cm,63 kg,21.0,145.0,2022,semifinals
+1781089.0,Masha Savvina,Masha,Savvina,F,,Asia,2648.0,CrossFit Heyday,35.0,5 in,160 lb,22.0,103.0,2022,semifinals

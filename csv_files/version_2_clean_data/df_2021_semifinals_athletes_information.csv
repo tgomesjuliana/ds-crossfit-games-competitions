@@ -1,0 +1,660 @@
+competitorId,competitorName,firstName,lastName,gender,countryOfOriginName,regionName,affiliateId,affiliateName,age,height,weight,overallRank,overallScore,year,competition
+158264.0,Patrick Vellner,Patrick,Vellner,M,Canada,North America,1918.0,CrossFit Nanaimo,31.0,71 in,195 lb,1.0,544.0,2021,semifinals
+469656.0,Jeffrey Adler,Jeffrey,Adler,M,Canada,North America,18059.0,CrossFit Wonderland,27.0,69 in,197 lb,2.0,492.0,2021,semifinals
+327636.0,Samuel Cournoyer,Samuel,Cournoyer,M,Canada,North America,3220.0,CrossFit Mayhem,25.0,180 cm,205 lb,3.0,449.0,2021,semifinals
+180541.0,Alex Vigneault,Alex,Vigneault,M,Canada,North America,,,29.0,71 in,208 lb,3.0,449.0,2021,semifinals
+107101.0,Brent Fikowski,Brent,Fikowski,M,Canada,North America,,,30.0,74 in,217 lb,5.0,442.0,2021,semifinals
+663689.0,Tyler Christophel,Tyler,Christophel,M,United States,North America,,,31.0,70 in,190 lb,6.0,421.0,2021,semifinals
+1718365.0,Cole Greashaber,Cole,Greashaber,M,United States,North America,1232.0,CrossFit Lee's Summit (LS),21.0,72 in,206 lb,7.0,389.0,2021,semifinals
+251546.0,Alexandre Caron,Alexandre,Caron,M,Canada,North America,15562.0,CrossFit Levis,25.0,71 in,195 lb,8.0,385.0,2021,semifinals
+879211.0,Phil Toon,Phil,Toon,M,United States,North America,24896.0,CrossFit Mesa,23.0,70 in,195 lb,9.0,369.0,2021,semifinals
+123764.0,Logan Collins,Logan,Collins,M,United States,North America,,,30.0,67 in,182 lb,10.0,366.0,2021,semifinals
+1179765.0,Adam Davidson,Adam,Davidson,M,Canada,North America,21070.0,CrossFit LoLo,29.0,178 cm,205 lb,11.0,340.0,2021,semifinals
+8356.0,Paul Tremblay,Paul,Tremblay,M,Canada,North America,6198.0,CrossFit NCR,34.0,70 in,200 lb,12.0,330.0,2021,semifinals
+2111037.0,Dane Smith,Dane,Smith,M,United States,North America,4933.0,CrossFit Krypton,25.0,,,13.0,324.0,2021,semifinals
+489030.0,Nycolas Joyal,Nycolas,Joyal,M,Canada,North America,,,27.0,70 in,192 lb,14.0,313.0,2021,semifinals
+681073.0,Griffin Roelle,Griffin,Roelle,M,United States,North America,8533.0,CrossFit Dwala,29.0,70 in,205 lb,15.0,310.0,2021,semifinals
+348805.0,Will Bennett,Will,Bennett,M,United States,North America,,,27.0,70 in,195 lb,16.0,289.0,2021,semifinals
+668769.0,Henry Matthews,Henry,Matthews,M,United States,North America,1708.0,CrossFit Havoc,32.0,67 in,178 lb,17.0,282.0,2021,semifinals
+410262.0,Jeremy Vigneault,Jeremy,Vigneault,M,Canada,North America,,,24.0,185 cm,215 lb,18.0,244.0,2021,semifinals
+867741.0,Jack Farlow,Jack,Farlow,M,Canada,North America,21726.0,CrossFit PSC,19.0,73 in,200 lb,19.0,242.0,2021,semifinals
+357704.0,Stephane Cossette,Stephane,Cossette,M,Canada,North America,2461.0,STADD CrossFit,32.0,180 cm,210 lb,20.0,237.0,2021,semifinals
+182565.0,Peter Shaw,Peter,Shaw,M,Canada,North America,6198.0,CrossFit NCR,31.0,185 cm,215 lb,21.0,223.0,2021,semifinals
+984757.0,Mike Wagner,Mike,Wagner,M,United States,North America,,,28.0,70 in,200 lb,22.0,183.0,2021,semifinals
+1199465.0,Samuel Paquin,Samuel,Paquin,M,Canada,North America,10990.0,CrossFit Quebec City,23.0,175 cm,185 lb,23.0,177.0,2021,semifinals
+246430.0,Andrew Hiller,Andrew,Hiller,M,United States,North America,24376.0,CrossFit Salire,29.0,69 in,248 lb,24.0,162.0,2021,semifinals
+501728.0,Jason Carroll,Jason,Carroll,M,United States,North America,1807.0,CrossFit Tustin,32.0,70 in,180 lb,25.0,126.0,2021,semifinals
+288615.0,Richard Deschamps,Richard,Deschamps,M,Canada,North America,3259.0,Undefeated CrossFit,28.0,70 in,195 lb,26.0,108.0,2021,semifinals
+335572.0,Tristan Harrison,Tristan,Harrison,M,United States,North America,10913.0,CrossFit InnerDrive,23.0,69 in,180 lb,27.0,95.0,2021,semifinals
+923978.0,Justin Reidelbach,Justin,Reidelbach,M,United States,North America,,,31.0,73 in,225 lb,28.0,87.0,2021,semifinals
+745393.0,Richard Wollboldt,Richard,Wollboldt,M,South Africa,Africa,6085.0,CrossFit Invictus Back Bay,26.0,180 cm,85 kg,29.0,55.0,2021,semifinals
+474206.0,Tafadzwa Mushandu,Tafadzwa,Mushandu,M,Zimbabwe,Africa,17555.0,CrossFit Palace,29.0,67 in,195 lb,30.0,50.0,2021,semifinals
+457623.0,Joshua Gervais,Joshua,Gervais,M,Canada,North America,17798.0,Strongmill CrossFit,29.0,178 cm,190 lb,31.0,38.0,2021,semifinals
+239148.0,Carolyne Prevost,Carolyne,Prevost,F,Canada,North America,718.0,CrossFit Colosseum,31.0,63 in,145 lb,1.0,469.0,2021,semifinals
+93497.0,Mekenzie Riley,Mekenzie,Riley,F,United States,North America,5124.0,CrossFit Northlake,33.0,64 in,155 lb,2.0,468.0,2021,semifinals
+585046.0,Baylee Rayl,Baylee,Rayl,F,United States,North America,,,25.0,,,2.0,468.0,2021,semifinals
+484380.0,Emily Rolfe,Emily,Rolfe,F,Canada,North America,22956.0,CrossFit Sea Level,32.0,170 cm,152 lb,4.0,456.0,2021,semifinals
+1441210.0,Sydney Michalyshen,Sydney,Michalyshen,F,Canada,North America,,,21.0,168 cm,153 lb,5.0,448.0,2021,semifinals
+1239579.0,Anikha Greer,Anikha,Greer,F,Canada,North America,11396.0,CrossFit 782,18.0,154 cm,,6.0,437.0,2021,semifinals
+208293.0,Alexis Johnson,Alexis,Johnson,F,United States,North America,2852.0,CrossFit Lower Town,30.0,62 in,140 lb,7.0,436.0,2021,semifinals
+531598.0,Paige Semenza,Paige,Semenza,F,United States,North America,4938.0,CrossFit Vertex,29.0,63 in,143 lb,8.0,424.0,2021,semifinals
+1931423.0,Emma Lawson,Emma,Lawson,F,Canada,North America,21726.0,CrossFit PSC,16.0,,,9.0,423.0,2021,semifinals
+871307.0,McKenzie Flinchum,McKenzie,Flinchum,F,United States,North America,701.0,CrossFit Vero Beach,29.0,65 in,145 lb,10.0,414.0,2021,semifinals
+27975.0,Chyna Cho,Chyna,Cho,F,United States,North America,,,34.0,68 in,148 lb,11.0,412.0,2021,semifinals
+1207609.0,Freya Moosbrugger,Freya,Moosbrugger,F,Canada,North America,2126.0,CrossFit Fraser Valley,19.0,165 cm,68 kg,12.0,403.0,2021,semifinals
+478366.0,Kaela Stephano,Kaela,Stephano,F,United States,North America,9927.0,CrossFit Hype,20.0,61 in,116 lb,13.0,318.0,2021,semifinals
+784269.0,Catherine St-Gelais,Catherine,St-Gelais,F,Canada,North America,,,27.0,164 cm,140 lb,14.0,302.0,2021,semifinals
+251823.0,Callerina Key,Callerina,Key,F,United States,North America,25335.0,TTT CrossFit,31.0,69 in,160 lb,15.0,299.0,2021,semifinals
+881734.0,Kaitlyn Anapolsky,Kaitlyn,Anapolsky,F,Canada,North America,21726.0,CrossFit PSC,30.0,63 in,150 lb,16.0,248.0,2021,semifinals
+245145.0,Nikki Matarazzo,Nikki,Matarazzo,F,Canada,North America,1535.0,CrossFit Newmarket Central,30.0,152 cm,134 lb,17.0,233.0,2021,semifinals
+801919.0,MIchelle Palmer,MIchelle,Palmer,F,United States,North America,3029.0,Maltese CrossFit,36.0,69 in,158 lb,18.0,213.0,2021,semifinals
+103786.0,Cecilia Ramirez Villamil,Cecilia,Ramirez Villamil,F,Mexico,North America,14502.0,CrossFit Condesa,32.0,163 cm,150 lb,19.0,196.0,2021,semifinals
+527846.0,Marie-Pier Bonneau,Marie-Pier,Bonneau,F,Canada,North America,,,21.0,163 cm,128 lb,20.0,182.0,2021,semifinals
+670842.0,Lynsey Martin,Lynsey,Martin,F,Canada,North America,,,29.0,170 cm,141 lb,21.0,181.0,2021,semifinals
+686102.0,Laurie Pfleiderer,Laurie,Pfleiderer,F,Canada,North America,4075.0,CrossFit St-Jean,31.0,157 cm,140 lb,22.0,174.0,2021,semifinals
+3200.0,Dani Horan Jenny,Dani,Horan Jenny,F,United States,North America,2080.0,Champlain Valley CrossFit,33.0,66 in,148 lb,23.0,171.0,2021,semifinals
+143671.0,Whitney Stephenson,Whitney,Stephenson,F,United States,North America,9927.0,CrossFit Hype,33.0,68 in,140 lb,24.0,161.0,2021,semifinals
+552309.0,Taylor Rector,Taylor,Rector,F,United States,North America,3585.0,CrossFit Nixa,28.0,64 in,154 lb,25.0,159.0,2021,semifinals
+861392.0,Alexis Machuga,Alexis,Machuga,F,United States,North America,18838.0,CrossFit Lozen,27.0,66 in,140 lb,26.0,150.0,2021,semifinals
+1090303.0,Rachel Cannon,Rachel,Cannon,F,United States,North America,1164.0,CrossFit Fury,28.0,62 in,130 lb,26.0,150.0,2021,semifinals
+1229099.0,Sierra Cameron,Sierra,Cameron,F,United States,North America,,,25.0,65 in,,28.0,90.0,2021,semifinals
+293492.0,Alexys D'Tiole,Alexys,D'Tiole,F,United States,North America,718.0,CrossFit Colosseum,30.0,66 in,150 lb,29.0,0.0,2021,semifinals
+103389.0,Carol-Ann Reason-Thibault,Carol-Ann,Reason-Thibault,F,Canada,North America,14212.0,CrossFit 514,33.0,164 cm,142 lb,29.0,0.0,2021,semifinals
+1020449.0,Jayson Hopper,Jayson,Hopper,M,United States,North America,21951.0,CrossFit Simpsonville,23.0,73 in,220 lb,1.0,560.0,2021,semifinals
+34796.0,Scott Panchik,Scott,Panchik,M,United States,North America,7991.0,CrossFit Mentality,33.0,69 in,187 lb,2.0,536.0,2021,semifinals
+811708.0,Justin Medeiros,Justin,Medeiros,M,United States,North America,1792.0,CrossFit Fort Vancouver,22.0,69 in,195 lb,3.0,528.0,2021,semifinals
+1690.0,Travis Mayer,Travis,Mayer,M,United States,North America,7104.0,CrossFit UNTD,30.0,71 in,204 lb,4.0,516.0,2021,semifinals
+263026.0,Zach Watts,Zach,Watts,M,United States,North America,5881.0,CrossFit Conjugate,25.0,72 in,205 lb,5.0,425.0,2021,semifinals
+233034.0,Tyler Eggimann,Tyler,Eggimann,M,United States,North America,1130.0,Paradiso CrossFit,28.0,70 in,200 lb,6.0,397.0,2021,semifinals
+624949.0,Angelo Dicicco,Angelo,Dicicco,M,United States,North America,3220.0,CrossFit Mayhem,21.0,70 in,195 lb,7.0,391.0,2021,semifinals
+1053957.0,Hunter Holifield,Hunter,Holifield,M,United States,North America,7573.0,Yune CrossFit,23.0,70 in,195 lb,8.0,373.0,2021,semifinals
+402035.0,Mark Hutchinson,Mark,Hutchinson,M,United States,North America,1060.0,CrossFit Rx,33.0,71 in,218 lb,9.0,371.0,2021,semifinals
+43761.0,Ben Smith,Ben,Smith,M,United States,North America,4933.0,CrossFit Krypton,31.0,71 in,195 lb,10.0,368.0,2021,semifinals
+642094.0,Cam Crockett,Cam,Crockett,M,United States,North America,22505.0,CrossFit Cliffside,23.0,69 in,195 lb,11.0,360.0,2021,semifinals
+111592.0,Connor Duddy,Connor,Duddy,M,United States,North America,3995.0,Solidarity CrossFit,28.0,70 in,190 lb,12.0,352.0,2021,semifinals
+211543.0,Marquan Jones,Marquan,Jones,M,United States,North America,16820.0,CrossFit Roseland,31.0,71 in,200 lb,13.0,337.0,2021,semifinals
+74320.0,Samuel Kwant,Samuel,Kwant,M,United States,North America,505.0,CrossFit New England,25.0,71 in,206 lb,14.0,288.0,2021,semifinals
+505544.0,Hal Fisher,Hal,Fisher,M,United States,North America,4917.0,CrossFit Trivium,24.0,69 in,193 lb,15.0,264.0,2021,semifinals
+32551.0,Adam Klink,Adam,Klink,M,United States,North America,4933.0,CrossFit Krypton,31.0,72 in,215 lb,16.0,254.0,2021,semifinals
+130921.0,Dalton Mankin,Dalton,Mankin,M,United States,North America,5970.0,CrossFit Wild West,25.0,69 in,185 lb,17.0,243.0,2021,semifinals
+352340.0,Casey Crable,Casey,Crable,M,United States,North America,8176.0,Long Road CrossFit,28.0,72 in,215 lb,18.0,210.0,2021,semifinals
+238219.0,Norman Woodring,Norman,Woodring,M,United States,North America,17038.0,Not the Norm CrossFit,31.0,73 in,220 lb,19.0,207.0,2021,semifinals
+611929.0,Sean Gordon,Sean,Gordon,M,United States,North America,3234.0,CrossFit Explode,23.0,68 in,185 lb,20.0,198.0,2021,semifinals
+1546147.0,Luke Parker,Luke,Parker,M,United States,North America,3220.0,CrossFit Mayhem,27.0,71 in,205 lb,21.0,192.0,2021,semifinals
+281442.0,Austin Nedelcoff,Austin,Nedelcoff,M,United States,North America,17335.0,CrossFit Kilo II,30.0,71 in,190 lb,22.0,177.0,2021,semifinals
+3413.0,Josh Woodhull,Josh,Woodhull,M,United States,North America,4211.0,CrossFit Maven,30.0,73 in,210 lb,23.0,168.0,2021,semifinals
+924517.0,Marco Alejandro,Marco,Alejandro,M,United States,North America,20936.0,CrossFit MFP,28.0,,200 lb,24.0,162.0,2021,semifinals
+194540.0,Vincent Buttitta,Vincent,Buttitta,M,United States,North America,17047.0,CrossFit Saol,31.0,66 in,180 lb,25.0,150.0,2021,semifinals
+95750.0,Mike Needleman,Mike,Needleman,M,United States,North America,1208.0,Port CrossFit,24.0,69 in,190 lb,26.0,135.0,2021,semifinals
+334893.0,Matthew Greene,Matthew,Greene,M,United States,North America,21164.0,Blues City CrossFit,28.0,73 in,220 lb,27.0,123.0,2021,semifinals
+964697.0,Tristan Faure,Tristan,Faure,M,United States,North America,25767.0,CrossFit Doors of Daring,29.0,70 in,195 lb,28.0,120.0,2021,semifinals
+787528.0,Max Kutler,Max,Kutler,M,United States,North America,3907.0,Frontline CrossFit,26.0,66 in,195 lb,29.0,105.0,2021,semifinals
+14960.0,Travis Williams,Travis,Williams,M,United States,North America,3092.0,U Can CrossFit,29.0,69 in,202 lb,30.0,130.0,2021,semifinals
+163097.0,Tia-Clair Toomey,Tia-Clair,Toomey,F,Australia,Oceania,19593.0,CrossFit East Nashville,27.0,163 cm,58 kg,1.0,588.0,2021,semifinals
+671666.0,Haley Adams,Haley,Adams,F,United States,North America,3220.0,CrossFit Mayhem,20.0,67 in,140 lb,2.0,528.0,2021,semifinals
+168305.0,Brooke Wells,Brooke,Wells,F,United States,North America,4917.0,CrossFit Trivium,26.0,66 in,150 lb,3.0,512.0,2021,semifinals
+174547.0,Amanda Barnhart,Amanda,Barnhart,F,United States,North America,505.0,CrossFit New England,29.0,67 in,160 lb,4.0,468.0,2021,semifinals
+254313.0,Jessica Griffith,Jessica,Griffith,F,United States,North America,,,29.0,66 in,154 lb,5.0,468.0,2021,semifinals
+656004.0,Christine Kolenbrander,Christine,Kolenbrander,F,United States,North America,,,29.0,66 in,154 lb,6.0,466.0,2021,semifinals
+252691.0,Feeroozeh Saghafi,Feeroozeh,Saghafi,F,United States,North America,7991.0,CrossFit Mentality,26.0,62 in,135 lb,7.0,440.0,2021,semifinals
+664900.0,Nicole Gibson-Burke,Nicole,Gibson-Burke,F,United States,North America,,,28.0,63 in,125 lb,8.0,395.0,2021,semifinals
+263982.0,Danielle Dunlap,Danielle,Dunlap,F,United States,North America,,,31.0,64 in,137 lb,9.0,378.0,2021,semifinals
+40756.0,Kelly Clark,Kelly,Clark,F,United States,North America,8060.0,CrossFit Up,34.0,64 in,145 lb,10.0,352.0,2021,semifinals
+1079742.0,Winter Nicolette Rodriguez,Winter Nicolette,Rodriguez,F,United States,North America,,,26.0,65 in,155 lb,11.0,345.0,2021,semifinals
+555277.0,Rebecca Fuselier,Rebecca,Fuselier,F,United States,North America,1524.0,CrossFit Bolt,21.0,62 in,127 lb,12.0,307.0,2021,semifinals
+252266.0,Leah Irons,Leah,Irons,F,United States,North America,4563.0,CrossFit Ammo,29.0,64 in,140 lb,13.0,293.0,2021,semifinals
+219904.0,Kat Grillo,Kat,Grillo,F,United States,North America,3340.0,CrossFit Oceana,29.0,61 in,135 lb,14.0,292.0,2021,semifinals
+873895.0,Kyra Milligan,Kyra,Milligan,F,United States,North America,3842.0,Tekton CrossFit,24.0,62 in,140 lb,15.0,270.0,2021,semifinals
+1306393.0,Olivia Sulek,Olivia,Sulek,F,United States,North America,8775.0,ESF CrossFit,17.0,65 in,155 lb,16.0,255.0,2021,semifinals
+914030.0,Emily DeFeo,Emily,DeFeo,F,United States,North America,,,24.0,64 in,150 lb,17.0,248.0,2021,semifinals
+8015.0,Rebecca Voigt Miller,Rebecca,Voigt Miller,F,United States,North America,7746.0,CrossFit Training Yard,40.0,69 in,152 lb,18.0,211.0,2021,semifinals
+857531.0,Taylor Reber,Taylor,Reber,F,United States,North America,27009.0,Einhorn CrossFit,27.0,66 in,150 lb,19.0,205.0,2021,semifinals
+13179.0,Paige Henry,Paige,Henry,F,United States,North America,5088.0,CrossFit South Bay,31.0,64 in,145 lb,20.0,190.0,2021,semifinals
+113169.0,Megan O'Donnell,Megan,O'Donnell,F,United States,North America,4059.0,CrossFit Ridge Ave,32.0,65 in,150 lb,21.0,181.0,2021,semifinals
+761015.0,Emily Nussbaum,Emily,Nussbaum,F,United States,North America,11050.0,CrossFit 1808,25.0,,,22.0,177.0,2021,semifinals
+644959.0,Maggie Pairan,Maggie,Pairan,F,United States,North America,1257.0,CrossFit Cornerstone,19.0,67 in,155 lb,23.0,177.0,2021,semifinals
+761350.0,Nicole Soto,Nicole,Soto,F,United States,North America,6348.0,CrossFit Undivided,34.0,,138 lb,24.0,177.0,2021,semifinals
+615284.0,Meredith Swindle,Meredith,Swindle,F,United States,North America,5697.0,Coyote CrossFit,29.0,68 in,155 lb,25.0,169.0,2021,semifinals
+1323066.0,Shaylin Laure,Shaylin,Laure,F,United States,North America,8224.0,CrossFit South Wake,28.0,65 in,150 lb,26.0,156.0,2021,semifinals
+265038.0,Gabrielle Ocker,Gabrielle,Ocker,F,United States,North America,3995.0,Solidarity CrossFit,26.0,65 in,147 lb,27.0,148.0,2021,semifinals
+472971.0,Emma Chapman,Emma,Chapman,F,New Zealand,Oceania,21636.0,CrossFit Berea,33.0,62 in,130 lb,28.0,142.0,2021,semifinals
+526573.0,Ellie Huffman,Ellie,Huffman,F,United States,North America,6285.0,CrossFit Lake Forest,27.0,66 in,160 lb,29.0,111.0,2021,semifinals
+1248745.0,Carla Henriet,Carla,Henriet,F,South Africa,Africa,19630.0,CrossFit Shakerag,30.0,162 cm,145 lb,30.0,12.0,2021,semifinals
+310970.0,Saxon Panchik,Saxon,Panchik,M,United States,North America,22505.0,CrossFit Cliffside,25.0,69 in,180 lb,1.0,580.0,2021,semifinals
+469626.0,Chandler Smith,Chandler,Smith,M,United States,North America,505.0,CrossFit New England,28.0,68 in,195 lb,2.0,548.0,2021,semifinals
+20698.0,Tim Paulson,Tim,Paulson,M,United States,North America,5307.0,CrossFit Pallas,31.0,73 in,215 lb,3.0,541.0,2021,semifinals
+95022.0,Rogelio Gamboa,Rogelio,Gamboa,M,United States,North America,27613.0,GFA CrossFit,34.0,68 in,195 lb,4.0,513.0,2021,semifinals
+676693.0,Colten Mertens,Colten,Mertens,M,United States,North America,1324.0,CrossFit Kilo,23.0,64 in,190 lb,5.0,508.0,2021,semifinals
+843041.0,Nick Mathew,Nick,Mathew,M,United States,North America,14452.0,CrossFit Minnetonka,27.0,69 in,200 lb,6.0,505.0,2021,semifinals
+932990.0,Taylor Self,Taylor,Self,M,United States,North America,931.0,CrossFit Charlotte,25.0,70 in,195 lb,7.0,502.0,2021,semifinals
+251447.0,Austin Spencer,Austin,Spencer,M,United States,North America,1926.0,CrossFit MF,28.0,70 in,205 lb,8.0,426.0,2021,semifinals
+462274.0,Drew Wayman,Drew,Wayman,M,United States,North America,5844.0,CrossFit SOTO,25.0,71 in,210 lb,9.0,425.0,2021,semifinals
+388740.0,Anthony Davis,Anthony,Davis,M,United States,North America,1289.0,Timberwolf CrossFit,26.0,69 in,220 lb,10.0,419.0,2021,semifinals
+534247.0,Scott Tetlow,Scott,Tetlow,M,United States,North America,5942.0,CrossFit Kilter,28.0,63 in,175 lb,11.0,368.0,2021,semifinals
+194457.0,Jake Marconi,Jake,Marconi,M,United States,North America,16077.0,Ocean State CrossFit,24.0,67 in,190 lb,12.0,360.0,2021,semifinals
+240482.0,Mitch Wagner,Mitch,Wagner,M,United States,North America,20289.0,CrossFit Stars and Bars,32.0,68 in,185 lb,13.0,347.0,2021,semifinals
+247005.0,Streat Hoerner,Streat,Hoerner,M,United States,North America,4917.0,CrossFit Trivium,26.0,69 in,195 lb,14.0,338.0,2021,semifinals
+896411.0,Jack Rozema,Jack,Rozema,M,United States,North America,,,25.0,69 in,205 lb,15.0,326.0,2021,semifinals
+22689.0,Kevin Schuetz,Kevin,Schuetz,M,United States,North America,22011.0,Koda CrossFit Iron View,34.0,73 in,205 lb,16.0,323.0,2021,semifinals
+455050.0,Grant Belrose,Grant,Belrose,M,United States,North America,13089.0,936 CrossFit,29.0,72 in,205 lb,17.0,318.0,2021,semifinals
+739342.0,Reilly Good,Reilly,Good,M,United States,North America,1368.0,CrossFit Impulse,28.0,68 in,215 lb,18.0,314.0,2021,semifinals
+571999.0,Richard Paul Castillo,Richard Paul,Castillo,M,United States,North America,5993.0,Glass City CrossFit,31.0,71 in,200 lb,19.0,297.0,2021,semifinals
+481081.0,Gunnar Regan,Gunnar,Regan,M,United States,North America,27636.0,CrossFit PHP,26.0,70 in,205 lb,20.0,259.0,2021,semifinals
+452478.0,Anton Foss,Anton,Foss,M,United States,North America,4693.0,CrossFit Anacortes,25.0,70 in,210 lb,21.0,257.0,2021,semifinals
+1289013.0,Justin Rhodes,Justin,Rhodes,M,United States,North America,20938.0,CrossFit MWM,23.0,68 in,180 lb,22.0,235.0,2021,semifinals
+41519.0,Carlos Albaladejo,Carlos,Albaladejo,M,United States,North America,17302.0,CrossFit Marvel,33.0,67 in,175 lb,23.0,209.0,2021,semifinals
+1289210.0,Phillip Muscarella,Phillip,Muscarella,M,United States,North America,3801.0,Precision CrossFit,28.0,70 in,195 lb,24.0,200.0,2021,semifinals
+234692.0,Stephen Jones,Stephen,Jones,M,Canada,North America,18830.0,Midwestern Built CrossFit,24.0,70 in,196 lb,25.0,190.0,2021,semifinals
+1699284.0,Tanner Balazs,Tanner,Balazs,M,United States,North America,25335.0,TTT CrossFit,25.0,69 in,180 lb,26.0,169.0,2021,semifinals
+1963222.0,Christian Ramon,Christian,Ramon,M,United States,North America,9656.0,CrossFit Elkhorn,30.0,,,27.0,130.0,2021,semifinals
+11244.0,Christopher Shimley,Christopher,Shimley,M,United States,North America,7281.0,Top Fuel CrossFit Valparaiso,29.0,68 in,193 lb,28.0,121.0,2021,semifinals
+325873.0,Garrett Clark,Garrett,Clark,M,United States,North America,1835.0,Three Kings CrossFit,22.0,69 in,195 lb,29.0,232.0,2021,semifinals
+502159.0,Blair Chapman,Blair,Chapman,M,United States,North America,19684.0,CrossFit Grandezza,28.0,67 in,188 lb,30.0,46.0,2021,semifinals
+132258.0,Arielle Loewen,Arielle,Loewen,F,United States,North America,3927.0,Renewed Strength CrossFit,27.0,63 in,143 lb,1.0,608.0,2021,semifinals
+1239980.0,Mallory O'Brien,Mallory,O'Brien,F,United States,North America,22721.0,Lion Brave CrossFit,17.0,63 in,135 lb,2.0,604.0,2021,semifinals
+1547449.0,Emma Cary,Emma,Cary,F,United States,North America,22537.0,Perform Overcome Excel CrossFit,17.0,64 in,140 lb,3.0,560.0,2021,semifinals
+37537.0,Alessandra Pichelli,Alessandra,Pichelli,F,Canada,North America,793.0,Diablo CrossFit,35.0,66 in,155 lb,4.0,527.0,2021,semifinals
+314703.0,Caroline Conners,Caroline,Conners,F,United States,North America,1926.0,CrossFit MF,28.0,61 in,133 lb,5.0,465.0,2021,semifinals
+274725.0,Nicole Mghenyi,Nicole,Mghenyi,F,United States,North America,11016.0,CrossFit Progression,31.0,65 in,142 lb,6.0,435.0,2021,semifinals
+310687.0,Kristi Eramo O'Connell,Kristi Eramo,O'Connell,F,United States,North America,16832.0,CrossFit Polaris,32.0,62 in,132 lb,7.0,434.0,2021,semifinals
+387995.0,Stephanie Chung,Stephanie,Chung,F,United States,North America,6085.0,CrossFit Invictus Back Bay,29.0,65 in,150 lb,8.0,412.0,2021,semifinals
+293089.0,Rachel Vonderach,Rachel,Vonderach,F,United States,North America,22787.0,CrossFit Noble Defender,28.0,67 in,145 lb,9.0,396.0,2021,semifinals
+900568.0,Madison McElhaney,Madison,McElhaney,F,United States,North America,1130.0,Paradiso CrossFit,29.0,5 in,160 lb,10.0,395.0,2021,semifinals
+262746.0,Kendall Vincelette,Kendall,Vincelette,F,United States,North America,5473.0,CrossFit St Louis Park,27.0,62 in,127 lb,11.0,391.0,2021,semifinals
+872275.0,Caroline Stanley,Caroline,Stanley,F,United States,North America,3617.0,College Hill CrossFit,21.0,63 in,145 lb,12.0,381.0,2021,semifinals
+1022261.0,Katelynn Sanders,Katelynn,Sanders,F,United States,North America,1566.0,CrossFit Beloit,28.0,67 in,165 lb,13.0,373.0,2021,semifinals
+1151619.0,Emily White,Emily,White,F,United States,North America,6057.0,The Pack CrossFit,27.0,69 in,170 lb,14.0,364.0,2021,semifinals
+197635.0,Amy Morton,Amy,Morton,F,Canada,North America,16077.0,Ocean State CrossFit,33.0,163 cm,154 lb,15.0,362.0,2021,semifinals
+530860.0,Shelby Neal,Shelby,Neal,F,United States,North America,10851.0,12th State CrossFit,21.0,62 in,140 lb,16.0,360.0,2021,semifinals
+436190.0,Emma Ferreira,Emma,Ferreira,F,United States,North America,736.0,CrossFit Milford,26.0,68 in,170 lb,17.0,315.0,2021,semifinals
+292898.0,Jessi Harper,Jessi,Harper,F,United States,North America,424.0,CrossFit R.A.W.,25.0,66 in,142 lb,18.0,298.0,2021,semifinals
+319644.0,April Payne,April,Payne,F,United States,North America,26121.0,CrossFit Rally Point Northbrook,37.0,67 in,155 lb,19.0,295.0,2021,semifinals
+154472.0,Samantha Petrich,Samantha,Petrich,F,United States,North America,16021.0,Pueblo CrossFit Home of Heroes,31.0,67 in,145 lb,20.0,292.0,2021,semifinals
+1190381.0,Paige Powers,Paige,Powers,F,United States,North America,,,18.0,63 in,155 lb,21.0,277.0,2021,semifinals
+95256.0,Bailey Meraviglia,Bailey,Meraviglia,F,United States,North America,16128.0,Stroud CrossFit,30.0,62 in,138 lb,22.0,268.0,2021,semifinals
+1769872.0,Hayley Hunter,Hayley,Hunter,F,United States,North America,17218.0,CrossFit Pendleton,25.0,63 in,125 lb,23.0,260.0,2021,semifinals
+908246.0,Faith Ferguson,Faith,Ferguson,F,United States,North America,4211.0,CrossFit Maven,20.0,63 in,150 lb,24.0,229.0,2021,semifinals
+270401.0,Brynn Kurlan,Brynn,Kurlan,F,United States,North America,25335.0,TTT CrossFit,29.0,63 in,135 lb,25.0,183.0,2021,semifinals
+1424531.0,Jessica Kalagian,Jessica,Kalagian,F,United States,North America,,,27.0,62 in,145 lb,26.0,175.0,2021,semifinals
+338688.0,Katie Cain,Katie,Cain,F,United States,North America,6856.0,CrossFit Hard Knox,32.0,64 in,145 lb,27.0,163.0,2021,semifinals
+238419.0,Carla Frazier,Carla,Frazier,F,United States,North America,18442.0,CrossFit Abilene,33.0,62 in,140 lb,28.0,142.0,2021,semifinals
+434531.0,Samantha Scorzelli,Samantha,Scorzelli,F,United States,North America,18673.0,Stay Strong CrossFit,32.0,65 in,150 lb,29.0,133.0,2021,semifinals
+701039.0,Sofi Prorok,Sofi,Prorok,F,United States,North America,7179.0,Mutiny CrossFit,27.0,67 in,142 lb,30.0,106.0,2021,semifinals
+153625.0,Cole Sager,Cole,Sager,M,United States,North America,967.0,CrossFit Spokane Valley,30.0,71 in,198 lb,1.0,583.0,2021,semifinals
+2725.0,Noah Ohlsen,Noah,Ohlsen,M,United States,North America,2509.0,Peak 360 CrossFit,30.0,67 in,188 lb,2.0,548.0,2021,semifinals
+134617.0,Sean Sweeney,Sean,Sweeney,M,United States,North America,12611.0,CrossFit Powerstroke,29.0,69 in,192 lb,3.0,513.0,2021,semifinals
+35627.0,Will Moorad,Will,Moorad,M,United States,North America,4917.0,CrossFit Trivium,32.0,69 in,190 lb,4.0,489.0,2021,semifinals
+308651.0,Brandon Luckett,Brandon,Luckett,M,United States,North America,17334.0,CrossFit OKC,26.0,72 in,200 lb,5.0,481.0,2021,semifinals
+671093.0,Dallin Pepper,Dallin,Pepper,M,United States,North America,14837.0,Spanish Fork CrossFit,19.0,72 in,215 lb,6.0,461.0,2021,semifinals
+162712.0,Spencer Panchik,Spencer,Panchik,M,United States,North America,22505.0,CrossFit Cliffside,25.0,68 in,180 lb,7.0,454.0,2021,semifinals
+493511.0,Cédric Lapointe,Cédric,Lapointe,M,Canada,North America,10570.0,CrossFit 819,24.0,69 in,188 lb,8.0,428.0,2021,semifinals
+300638.0,Tola Morakinyo,Tola,Morakinyo,M,United States,North America,7589.0,CrossFit Culmination,25.0,72 in,207 lb,9.0,417.0,2021,semifinals
+313457.0,Jacob Pfaff,Jacob,Pfaff,M,United States,North America,22787.0,CrossFit Noble Defender,29.0,67 in,215 lb,10.0,414.0,2021,semifinals
+79080.0,Peter Mason,Peter,Mason,M,United States,North America,3310.0,CrossFit Free,26.0,70 in,190 lb,11.0,365.0,2021,semifinals
+707413.0,Matt Dlugos,Matt,Dlugos,M,United States,North America,,,24.0,76 in,218 lb,12.0,360.0,2021,semifinals
+1454081.0,Matt Poulin,Matt,Poulin,M,United States,North America,1526.0,CrossFit Complete,25.0,70 in,195 lb,13.0,358.0,2021,semifinals
+45136.0,Jake Berman,Jake,Berman,M,United States,North America,25335.0,TTT CrossFit,25.0,68 in,185 lb,14.0,352.0,2021,semifinals
+99564.0,Alec Smith,Alec,Smith,M,United States,North America,4917.0,CrossFit Trivium,28.0,71 in,185 lb,15.0,349.0,2021,semifinals
+265833.0,Kyle Bernier,Kyle,Bernier,M,United States,North America,25335.0,TTT CrossFit,28.0,70 in,205 lb,16.0,327.0,2021,semifinals
+109346.0,John Coltey,John,Coltey,M,United States,North America,4917.0,CrossFit Trivium,32.0,69 in,195 lb,17.0,325.0,2021,semifinals
+473970.0,Brian Huynh,Brian,Huynh,M,United States,North America,14281.0,CrossFit Franco's,27.0,69 in,180 lb,18.0,297.0,2021,semifinals
+743896.0,Dylan Pettit,Dylan,Pettit,M,United States,North America,5410.0,Reebok CrossFit Medfield,27.0,71 in,218 lb,19.0,297.0,2021,semifinals
+869061.0,Leonel Franco,Leonel,Franco,M,United States,North America,12808.0,Straight Flush CrossFit,23.0,70 in,197 lb,20.0,277.0,2021,semifinals
+897110.0,Tudor Magda,Tudor,Magda,M,United States,North America,,,18.0,70 in,200 lb,21.0,248.0,2021,semifinals
+900251.0,James Sprague,James,Sprague,M,United States,North America,25710.0,CrossFit Invictus Everest Park,19.0,74 in,210 lb,22.0,238.0,2021,semifinals
+251261.0,Dillon Youngman,Dillon,Youngman,M,United States,North America,2195.0,Alpine CrossFit,27.0,70 in,195 lb,23.0,236.0,2021,semifinals
+852035.0,Chad Kackert,Chad,Kackert,M,United States,North America,669.0,CrossFit Dallas Central,34.0,68 in,198 lb,24.0,228.0,2021,semifinals
+1420192.0,Andris Sturans,Andris,Sturans,M,United States,North America,14507.0,Hammer CrossFit,25.0,,,25.0,187.0,2021,semifinals
+243026.0,Dylan Martin,Dylan,Martin,M,United States,North America,2314.0,CrossFit Cedar Rapids,29.0,69 in,190 lb,26.0,173.0,2021,semifinals
+422268.0,Connor McDonald,Connor,McDonald,M,United States,North America,386.0,CrossFit Roots,29.0,72 in,198 lb,27.0,155.0,2021,semifinals
+996106.0,Sarin Suvanasai,Sarin,Suvanasai,M,United States,North America,3647.0,Capital CrossFit,22.0,71 in,190 lb,28.0,146.0,2021,semifinals
+468873.0,Josh Workman,Josh,Workman,M,United States,North America,2164.0,CrossFit Norwalk,23.0,67 in,175 lb,29.0,106.0,2021,semifinals
+335435.0,Tyler Tosunian,Tyler,Tosunian,M,United States,North America,12204.0,LumberYard CrossFit,30.0,67 in,187 lb,30.0,79.0,2021,semifinals
+592472.0,Bethany Shadburne,Bethany,Shadburne,F,United States,North America,7589.0,CrossFit Culmination,27.0,64 in,144 lb,1.0,632.0,2021,semifinals
+305891.0,Kari Pearce,Kari,Pearce,F,United States,North America,7589.0,CrossFit Culmination,32.0,63 in,139 lb,2.0,628.0,2021,semifinals
+349097.0,Danielle Brandon,Danielle,Brandon,F,United States,North America,7589.0,CrossFit Culmination,25.0,170 cm,155 lb,3.0,573.0,2021,semifinals
+670000.0,Dani Speegle,Dani,Speegle,F,United States,North America,600.0,CrossFit Invictus,27.0,66 in,168 lb,4.0,542.0,2021,semifinals
+159681.0,Regan Huckaby,Regan,Huckaby,F,United States,North America,1792.0,CrossFit Fort Vancouver,34.0,65 in,147 lb,5.0,528.0,2021,semifinals
+503582.0,Alexis Raptis,Alexis,Raptis,F,United States,North America,8429.0,C2X CrossFit,22.0,65 in,155 lb,6.0,517.0,2021,semifinals
+250568.0,Kloie Wilson,Kloie,Wilson,F,United States,North America,1943.0,CrossFit Dixie,23.0,67 in,155 lb,7.0,485.0,2021,semifinals
+1028410.0,Kelly Stone,Kelly,Stone,F,United States,North America,7094.0,CrossFit Omnia,30.0,65 in,150 lb,8.0,433.0,2021,semifinals
+152663.0,Alison Scudds,Alison,Scudds,F,United States,North America,,,28.0,63 in,140 lb,9.0,397.0,2021,semifinals
+1490119.0,Jessica Androsik,Jessica,Androsik,F,United States,North America,14841.0,Black Flag CrossFit,23.0,,,10.0,392.0,2021,semifinals
+99140.0,Breona Wallin,Breona,Wallin,F,United States,North America,2860.0,CrossFit Identity,30.0,61 in,125 lb,11.0,373.0,2021,semifinals
+160700.0,Jordan Adcock,Jordan,Adcock,F,United States,North America,25003.0,Kawi CrossFit,29.0,66 in,145 lb,12.0,349.0,2021,semifinals
+19117.0,Lauren Fisher,Lauren,Fisher,F,United States,North America,600.0,CrossFit Invictus,27.0,65 in,140 lb,13.0,343.0,2021,semifinals
+121033.0,Sydney Wells,Sydney,Wells,F,United States,North America,4917.0,CrossFit Trivium,26.0,66 in,151 lb,14.0,300.0,2021,semifinals
+34715.0,Hayley Murillo,Hayley,Murillo,F,United States,North America,11966.0,CrossFit 460,34.0,69 in,168 lb,15.0,289.0,2021,semifinals
+1232297.0,Alex Willis,Alex,Willis,F,United States,North America,6103.0,Rhino CrossFit,19.0,66 in,150 lb,16.0,286.0,2021,semifinals
+30914.0,Jessica Meek,Jessica,Meek,F,United States,North America,19630.0,CrossFit Shakerag,33.0,67 in,145 lb,17.0,277.0,2021,semifinals
+510714.0,Lindsey Porter,Lindsey,Porter,F,United States,North America,3335.0,CrossFit Clearwater,21.0,67 in,150 lb,18.0,275.0,2021,semifinals
+1332313.0,Alyssa Zuccaro,Alyssa,Zuccaro,F,United States,North America,7991.0,CrossFit Mentality,31.0,64 in,150 lb,19.0,267.0,2021,semifinals
+543986.0,Rachel Thibodeaux,Rachel,Thibodeaux,F,United States,North America,16929.0,JH CrossFit,28.0,63 in,135 lb,20.0,262.0,2021,semifinals
+690876.0,Elena Budz,Elena,Budz,F,United States,North America,27234.0,CrossFit Barn Built,22.0,63 in,140 lb,21.0,260.0,2021,semifinals
+117591.0,Caroline Dardini,Caroline,Dardini,F,United States,North America,,,29.0,61 in,124 lb,22.0,245.0,2021,semifinals
+189706.0,Chelsey Hughes,Chelsey,Hughes,F,United States,North America,,,35.0,65 in,135 lb,23.0,214.0,2021,semifinals
+797560.0,Carly Lucas,Carly,Lucas,F,United States,North America,27610.0,CrossFit Standard Strength,24.0,63 in,145 lb,24.0,194.0,2021,semifinals
+78663.0,Hollye Henderson,Hollye,Henderson,F,United States,North America,14778.0,CrossFit JXN,32.0,64 in,132 lb,25.0,189.0,2021,semifinals
+772985.0,Chelsea Espe,Chelsea,Espe,F,United States,North America,,,29.0,67 in,155 lb,26.0,184.0,2021,semifinals
+958501.0,Madie Edwards,Madie,Edwards,F,United States,North America,492.0,CrossFit NWA,27.0,66 in,155 lb,27.0,153.0,2021,semifinals
+270917.0,Dorothy Morentin,Dorothy,Morentin,F,United States,North America,7746.0,CrossFit Training Yard,29.0,64 in,155 lb,28.0,136.0,2021,semifinals
+115892.0,Meg Reardon,Meg,Reardon,F,United States,North America,746.0,CrossFit Queens,29.0,66 in,150 lb,29.0,85.0,2021,semifinals
+280780.0,Kristine Best,Kristine,Best,F,United States,North America,6348.0,CrossFit Undivided,31.0,63 in,138 lb,30.0,84.0,2021,semifinals
+173837.0,Jonne Koski,Jonne,Koski,M,Finland,Europe,7526.0,CrossFit 10K,26.0,171 cm,185 lb,1.0,544.0,2021,semifinals
+1059467.0,Lazar Đukić,Lazar,Đukić,M,Serbia,Europe,11487.0,CrossFit NS,25.0,182 cm,90 kg,2.0,516.0,2021,semifinals
+888668.0,Luka Đukić,Luka,Đukić,M,Serbia,Europe,11487.0,CrossFit NS,22.0,182 cm,91 kg,3.0,443.0,2021,semifinals
+371085.0,André Houdet,André,Houdet,M,Denmark,Europe,859.0,CrossFit Butcher's Lab,27.0,183 cm,93 kg,4.0,437.0,2021,semifinals
+483096.0,Giorgos Karavis,Giorgos,Karavis,M,Greece,Europe,16421.0,CrossFit Kifissia,26.0,177 cm,90 kg,4.0,437.0,2021,semifinals
+1657300.0,Fabian Beneito,Fabian,Beneito,M,Spain,Europe,15254.0,CrossFit Alzira,25.0,178 cm,90 kg,6.0,429.0,2021,semifinals
+822789.0,Alex Kotoulas,Alex,Kotoulas,M,Greece,Europe,,,28.0,170 cm,78 kg,7.0,417.0,2021,semifinals
+672663.0,Joshua Al-chamaa,Joshua,Al-chamaa,M,United Kingdom,Europe,15349.0,CrossFit Alioth,29.0,182 cm,206 lb,8.0,361.0,2021,semifinals
+495781.0,Haraldur Holgersson,Haraldur,Holgersson,M,Iceland,Europe,4607.0,CrossFit XY,22.0,178 cm,180 lb,9.0,347.0,2021,semifinals
+86089.0,Elliot Simmonds,Elliot,Simmonds,M,United Kingdom,Europe,1340.0,Dragon CrossFit,27.0,185 cm,87 kg,10.0,336.0,2021,semifinals
+248752.0,PD Savage,PD,Savage,M,Ireland,Europe,5628.0,CrossFit 8020,31.0,185 cm,100 kg,11.0,323.0,2021,semifinals
+286691.0,Joshua Wichtrup,Joshua,Wichtrup,M,Germany,Europe,27474.0,CrossFit WYSH,29.0,183 cm,86 kg,12.0,299.0,2021,semifinals
+1135386.0,Aniol Ekai,Aniol,Ekai,M,Spain,Europe,8700.0,CrossFit 77 Feet,24.0,187 cm,89 kg,13.0,294.0,2021,semifinals
+773001.0,Iurii Marincenco,Iurii,Marincenco,M,Italy,Europe,,,25.0,70 in,187 lb,14.0,287.0,2021,semifinals
+743584.0,Felix Rehder,Felix,Rehder,M,Germany,Europe,13413.0,CrossFit Schmelztiegel,24.0,180 cm,87 kg,15.0,276.0,2021,semifinals
+1170396.0,Pietro Anderloni,Pietro,Anderloni,M,Italy,Europe,6004.0,Reebok CrossFit Officine,24.0,,,16.0,268.0,2021,semifinals
+344874.0,Linus Bresander,Linus,Bresander,M,Sweden,Europe,3255.0,CrossFit Borgen,30.0,183 cm,97 kg,17.0,265.0,2021,semifinals
+277542.0,Stefano Carosso,Stefano,Carosso,M,Italy,Europe,22899.0,CrossFit Sabaudia,26.0,189 cm,92 kg,17.0,265.0,2021,semifinals
+633281.0,Alexandre Pinsolle,Alexandre,Pinsolle,M,France,Europe,16796.0,CrossFit Happy Hearts,27.0,188 cm,95 kg,19.0,249.0,2021,semifinals
+1399749.0,Dami Martínez,Dami,Martínez,M,Spain,Europe,19523.0,CrossFit 4 Friends,28.0,,,20.0,224.0,2021,semifinals
+430755.0,Throstur Olason,Throstur,Olason,M,Iceland,Europe,2025.0,CrossFit Reykjavík,33.0,176 cm,93 kg,21.0,192.0,2021,semifinals
+2766.0,Lukas Esslinger,Lukas,Esslinger,M,Switzerland,Europe,12469.0,CrossFit Kreis 9,28.0,181 cm,200 lb,22.0,191.0,2021,semifinals
+463008.0,Boris Judin,Boris,Judin,M,Serbia,Europe,,,31.0,188 cm,95 kg,23.0,174.0,2021,semifinals
+351045.0,Jamie Headon,Jamie,Headon,M,Ireland,Europe,14124.0,CrossFit C2F,28.0,174 cm,88 kg,24.0,170.0,2021,semifinals
+911088.0,Ludvig Hahnsson,Ludvig,Hahnsson,M,Finland,Europe,7050.0,CrossFit Basement,30.0,177 cm,89 kg,25.0,144.0,2021,semifinals
+263253.0,Sam Parkin,Sam,Parkin,M,United Kingdom,Europe,,,29.0,178 cm,188 lb,26.0,132.0,2021,semifinals
+556509.0,Federico Giovannini,Federico,Giovannini,M,Italy,Europe,14657.0,CrossFit Megara,26.0,190 cm,95 kg,27.0,128.0,2021,semifinals
+686673.0,Martin Kruzlic,Martin,Kruzlic,M,Slovakia,Europe,22093.0,CrossFit Alpha Prime,25.0,185 cm,94 kg,28.0,123.0,2021,semifinals
+301335.0,Javier González Fernández,Javier,González Fernández,M,Spain,Europe,9905.0,CrossFit Teatinos,28.0,180 cm,84 kg,29.0,116.0,2021,semifinals
+1276737.0,Pablo Cazalis,Pablo,Cazalis,M,Spain,Europe,11828.0,CrossFit Zurriola,29.0,181 cm,95 kg,30.0,108.0,2021,semifinals
+278541.0,Ahmed Eid,Ahmed,Eid,M,Egypt,Africa,15349.0,CrossFit Alioth,38.0,175 cm,90 kg,31.0,19.0,2021,semifinals
+120480.0,Kristin Holte,Kristin,Holte,F,Norway,Europe,372.0,CrossFit Oslo,35.0,162 cm,59 kg,1.0,572.0,2021,semifinals
+299053.0,Jacqueline Dahlstrøm,Jacqueline,Dahlstrøm,F,Norway,Europe,12162.0,C23 CrossFit,29.0,167 cm,67 kg,2.0,552.0,2021,semifinals
+55121.0,Katrin Tanja Davidsdottir,Katrin Tanja,Davidsdottir,F,Iceland,Europe,505.0,CrossFit New England,28.0,169 cm,150 lb,3.0,472.0,2021,semifinals
+39517.0,Emilia Leppänen,Emilia,Leppänen,F,Finland,Europe,7526.0,CrossFit 10K,34.0,165 cm,150 lb,4.0,446.0,2021,semifinals
+2536.0,Samantha Briggs,Samantha,Briggs,F,United Kingdom,Europe,4098.0,CrossFit Black Five,39.0,170 cm,135 lb,5.0,436.0,2021,semifinals
+270175.0,Evie Hollis,Evie,Hollis,F,United Kingdom,Europe,10868.0,CrossFit Yas,24.0,158 cm,145 lb,6.0,401.0,2021,semifinals
+831149.0,Matilde Garnes,Matilde,Garnes,F,Norway,Europe,22538.0,CrossFit Trondheim,25.0,174 cm,68 kg,7.0,399.0,2021,semifinals
+1518913.0,Oihana Moya,Oihana,Moya,F,Spain,Europe,11828.0,CrossFit Zurriola,25.0,165 cm,62 kg,8.0,396.0,2021,semifinals
+887297.0,Emma Tall,Emma,Tall,F,Sweden,Europe,12.0,CrossFit Karlstad,29.0,168 cm,68 kg,8.0,396.0,2021,semifinals
+93784.0,Antea Longo,Antea,Longo,F,Italy,Europe,16352.0,CrossFit FFA,33.0,160 cm,60 kg,10.0,359.0,2021,semifinals
+796219.0,Hanna Karlsson,Hanna,Karlsson,F,Sweden,Europe,13246.0,CrossFit Mejeriet,28.0,177 cm,81 kg,11.0,350.0,2021,semifinals
+485344.0,Rebecka Vitesson,Rebecka,Vitesson,F,Sweden,Europe,859.0,CrossFit Butcher's Lab,27.0,173 cm,65 kg,12.0,348.0,2021,semifinals
+512258.0,Sarah Massoni,Sarah,Massoni,F,Belgium,Europe,,,28.0,165 cm,67 kg,13.0,326.0,2021,semifinals
+998366.0,Ella Wunger,Ella,Wunger,F,Sweden,Europe,12162.0,C23 CrossFit,23.0,170 cm,65 kg,14.0,303.0,2021,semifinals
+1353203.0,Silvia Garcia Izquierdo,Silvia,Garcia Izquierdo,F,Spain,Europe,14355.0,Red Grizzly CrossFit,27.0,165 cm,61 kg,15.0,289.0,2021,semifinals
+623803.0,Emelie Lundberg,Emelie,Lundberg,F,Sweden,Europe,3255.0,CrossFit Borgen,31.0,162 cm,68 kg,16.0,269.0,2021,semifinals
+951375.0,Claudia Gluck,Claudia,Gluck,F,France,Europe,16641.0,CrossFit Grillen,22.0,160 cm,60 kg,17.0,263.0,2021,semifinals
+1693076.0,Erica Ekelund,Erica,Ekelund,F,Sweden,Europe,12162.0,C23 CrossFit,24.0,163 cm,65 kg,18.0,244.0,2021,semifinals
+460855.0,Emelye Dwyer,Emelye,Dwyer,F,United Kingdom,Europe,1717.0,CrossFit CM2,33.0,163 cm,63 kg,19.0,211.0,2021,semifinals
+1427328.0,Julia Blazejowska,Julia,Blazejowska,F,Poland,Europe,14234.0,CrossFit Ursynow,20.0,160 cm,57 kg,20.0,177.0,2021,semifinals
+536902.0,Nicole Heer,Nicole,Heer,F,Switzerland,Europe,25475.0,CrossFit Pilatus Sursee,29.0,167 cm,63 kg,21.0,174.0,2021,semifinals
+1542797.0,Metty Greneron,Metty,Greneron,F,France,Europe,25240.0,Millesime CrossFit Talence,23.0,,,22.0,173.0,2021,semifinals
+1316504.0,Maria Längfors,Maria,Längfors,F,Sweden,Europe,3255.0,CrossFit Borgen,25.0,165 cm,69 kg,23.0,172.0,2021,semifinals
+891313.0,Lauren Stallwood,Lauren,Stallwood,F,United Kingdom,Europe,10868.0,CrossFit Yas,26.0,169 cm,67 kg,24.0,163.0,2021,semifinals
+905243.0,Sapphire Goddard,Sapphire,Goddard,F,United Kingdom,Europe,19827.0,CrossFit Barnsley,24.0,165 cm,66 kg,25.0,157.0,2021,semifinals
+573055.0,Nelli Nurmi,Nelli,Nurmi,F,Finland,Europe,6977.0,CrossFit East Turku,27.0,171 cm,69 kg,26.0,147.0,2021,semifinals
+466582.0,Emiko Naets,Emiko,Naets,F,Switzerland,Europe,19618.0,CrossFit Lavoisier,31.0,171 cm,68 kg,27.0,132.0,2021,semifinals
+537176.0,Gemma Rader,Gemma,Rader,F,South Africa,Africa,10868.0,CrossFit Yas,29.0,160 cm,68 kg,28.0,99.0,2021,semifinals
+663979.0,Sona Karaskova,Sona,Karaskova,F,Czech Republic,Europe,21014.0,CrossFit With Us,33.0,167 cm,68 kg,29.0,82.0,2021,semifinals
+2088.0,Camilla Salomonsson Hellman,Camilla,Salomonsson Hellman,F,Sweden,Europe,19712.0,Styrka CrossFit,30.0,165 cm,69 kg,30.0,0.0,2021,semifinals
+1269280.0,Maria Włoch,Maria,Włoch,F,Poland,Europe,5998.0,CrossFit Mokotow,26.0,174 cm,,30.0,0.0,2021,semifinals
+81616.0,Björgvin Karl Guðmundsson,Björgvin Karl,Guðmundsson,M,Iceland,Europe,4860.0,CrossFit Hengill,28.0,178 cm,185 lb,1.0,484.0,2021,semifinals
+698182.0,Adrian Mundwiler,Adrian,Mundwiler,M,Switzerland,Europe,,,28.0,172 cm,85 kg,2.0,476.0,2021,semifinals
+472642.0,Uldis Upenieks,Uldis,Upenieks,M,Latvia,Europe,,,23.0,174 cm,84 kg,3.0,456.0,2021,semifinals
+6346.0,Sam Stewart,Sam,Stewart,M,Ireland,Europe,14124.0,CrossFit C2F,24.0,69 in,85 kg,3.0,456.0,2021,semifinals
+680734.0,Henrik Haapalainen,Henrik,Haapalainen,M,Finland,Europe,7050.0,CrossFit Basement,26.0,185 cm,93 kg,5.0,449.0,2021,semifinals
+227615.0,Ioannis Papadopoulos,Ioannis,Papadopoulos,M,Greece,Europe,12728.0,The Core Force CrossFit,34.0,188 cm,105 kg,6.0,386.0,2021,semifinals
+1647549.0,Lukas Grouleff,Lukas,Grouleff,M,Denmark,Europe,26828.0,CrossFit Randers,23.0,,,7.0,373.0,2021,semifinals
+487535.0,Jakub Cieślik,Jakub,Cieślik,M,Poland,Europe,,,26.0,,185 lb,8.0,363.0,2021,semifinals
+925870.0,Moritz Fiebig,Moritz,Fiebig,M,Germany,Europe,,,26.0,179 cm,218 lb,9.0,361.0,2021,semifinals
+250172.0,Bronislaw Olenkowicz,Bronislaw,Olenkowicz,M,Poland,Europe,,,32.0,182 cm,99 kg,10.0,355.0,2021,semifinals
+902269.0,Tommaso Pieri,Tommaso,Pieri,M,Italy,Europe,15361.0,CrossFit Bad Beast,24.0,190 cm,100 kg,11.0,332.0,2021,semifinals
+1105497.0,Guillaume Briant,Guillaume,Briant,M,France,Europe,25240.0,Millesime CrossFit Talence,27.0,180 cm,87 kg,12.0,329.0,2021,semifinals
+945268.0,Reggie Fasa,Reggie,Fasa,M,United Kingdom,Europe,,,26.0,172 cm,90 kg,13.0,320.0,2021,semifinals
+22729.0,Jonas Mueller,Jonas,Mueller,M,Switzerland,Europe,,,30.0,170 cm,78 kg,14.0,307.0,2021,semifinals
+106655.0,Simon Mantyla,Simon,Mantyla,M,Sweden,Europe,13246.0,CrossFit Mejeriet,30.0,181 cm,93 kg,15.0,301.0,2021,semifinals
+18543.0,Frederik Aegidius,Frederik,Aegidius,M,Denmark,Europe,2025.0,CrossFit Reykjavík,34.0,174 cm,84 kg,16.0,297.0,2021,semifinals
+675164.0,Nikita Yundov,Nikita,Yundov,M,,Europe,,,28.0,178 cm,90 kg,17.0,291.0,2021,semifinals
+567672.0,Alexander Elebro,Alexander,Elebro,M,Sweden,Europe,15063.0,CrossFit NB,29.0,187 cm,92 kg,18.0,254.0,2021,semifinals
+238338.0,Kevin Jurs,Kevin,Jurs,M,Estonia,Europe,16836.0,Tallinn CrossFit,27.0,180 cm,96 kg,19.0,251.0,2021,semifinals
+167749.0,Rok Dernikovic,Rok,Dernikovic,M,Slovenia,Europe,,,29.0,171 cm,81 kg,20.0,243.0,2021,semifinals
+1286931.0,Dan Tai,Dan,Tai,M,United Kingdom,Europe,19827.0,CrossFit Barnsley,25.0,172 cm,87 kg,21.0,235.0,2021,semifinals
+468290.0,Bryan Hernández,Bryan,Hernández,M,Spain,Europe,3962.0,Area CrossFit,23.0,169 cm,79 kg,22.0,207.0,2021,semifinals
+506826.0,Stephane Ossanga,Stephane,Ossanga,M,France,Europe,,,30.0,177 cm,87 kg,22.0,207.0,2021,semifinals
+333970.0,Andrea Ferrero,Andrea,Ferrero,M,Italy,Europe,19834.0,CrossFit Verbania,32.0,180 cm,90 kg,24.0,193.0,2021,semifinals
+825918.0,Oleg Lascenko,Oleg,Lascenko,M,United Kingdom,Europe,2804.0,CrossFit Abu Dhabi,23.0,175 cm,92 kg,25.0,179.0,2021,semifinals
+875298.0,Mikey Steele,Mikey,Steele,M,United Kingdom,Europe,10668.0,CrossFit Sunderland,26.0,175 cm,87 kg,26.0,114.0,2021,semifinals
+903736.0,Robert Dopke,Robert,Dopke,M,Germany,Europe,9913.0,CrossFit Altona,24.0,178 cm,88 kg,27.0,99.0,2021,semifinals
+1189468.0,Jan Matiaska,Jan,Matiaska,M,Switzerland,Europe,12469.0,CrossFit Kreis 9,26.0,186 cm,98 kg,28.0,96.0,2021,semifinals
+544958.0,Stefano Migliorini,Stefano,Migliorini,M,Italy,Europe,6004.0,Reebok CrossFit Officine,32.0,173 cm,84 kg,29.0,44.0,2021,semifinals
+444469.0,Patrick Treiber,Patrick,Treiber,M,Germany,Europe,21723.0,CrossFit Treibstoff,26.0,184 cm,102 kg,30.0,34.0,2021,semifinals
+239442.0,Emma McQuaid,Emma,McQuaid,F,Ireland,Europe,25711.0,Boundary CrossFit,31.0,165 cm,64 kg,1.0,548.0,2021,semifinals
+591912.0,Laura Horváth,Laura,Horváth,F,Hungary,Europe,22540.0,CrossFit Glasshouse,24.0,170 cm,70 kg,2.0,544.0,2021,semifinals
+18588.0,Annie Thorisdottir,Annie,Thorisdottir,F,Iceland,Europe,2025.0,CrossFit Reykjavík,31.0,170 cm,152 lb,3.0,528.0,2021,semifinals
+764556.0,Gabriela Migała,Gabriela,Migała,F,Poland,Europe,12162.0,C23 CrossFit,22.0,170 cm,75 kg,3.0,528.0,2021,semifinals
+19501.0,Thuridur Erla Helgadottir,Thuridur Erla,Helgadottir,F,Iceland,Europe,3834.0,CrossFit Zug,29.0,164 cm,59 kg,5.0,460.0,2021,semifinals
+698210.0,Karin Freyová,Karin,Freyová,F,Slovakia,Europe,22093.0,CrossFit Alpha Prime,26.0,170 cm,72 kg,6.0,416.0,2021,semifinals
+762495.0,Elena Carratala Sanahuja,Elena,Carratala Sanahuja,F,Spain,Europe,19523.0,CrossFit 4 Friends,27.0,,,7.0,412.0,2021,semifinals
+686626.0,Manon Angonese,Manon,Angonese,F,Belgium,Europe,,,28.0,163 cm,66 kg,8.0,409.0,2021,semifinals
+1458106.0,Lucy Campbell,Lucy,Campbell,F,United Kingdom,Europe,1954.0,CrossFit Nottingham,25.0,168 cm,74 kg,9.0,386.0,2021,semifinals
+729434.0,Martyna Krysiak,Martyna,Krysiak,F,Poland,Europe,,,31.0,163 cm,60 kg,10.0,362.0,2021,semifinals
+594929.0,Tayla Howe,Tayla,Howe,F,United Kingdom,Europe,,,24.0,165 cm,75 kg,11.0,326.0,2021,semifinals
+695821.0,Julie Hougård,Julie,Hougård,F,Denmark,Europe,25022.0,HCA CrossFit,29.0,173 cm,70 kg,11.0,326.0,2021,semifinals
+254824.0,Solveig Sigurdardottir,Solveig,Sigurdardottir,F,Iceland,Europe,19769.0,Coast Side CrossFit,26.0,170 cm,150 lb,13.0,322.0,2021,semifinals
+657705.0,Helena Collins,Helena,Collins,F,United Kingdom,Europe,12579.0,Jolly Sailor CrossFit,32.0,171 cm,69 kg,14.0,309.0,2021,semifinals
+51125.0,Megan Lovegrove,Megan,Lovegrove,F,United Kingdom,Europe,23791.0,Forest Flow CrossFit,32.0,158 cm,65 kg,15.0,280.0,2021,semifinals
+107129.0,Kelly Friel,Kelly,Friel,F,United Kingdom,Europe,4774.0,CrossFit Southampton,43.0,170 cm,72 kg,16.0,244.0,2021,semifinals
+872325.0,Lydia Sfyraki,Lydia,Sfyraki,F,Greece,Europe,,,26.0,170 cm,66 kg,17.0,223.0,2021,semifinals
+1380283.0,Marta Ricottini,Marta,Ricottini,F,Italy,Europe,22576.0,CrossFit Senigallia,26.0,174 cm,69 kg,18.0,211.0,2021,semifinals
+143139.0,Mikaela Norman,Mikaela,Norman,F,Sweden,Europe,1009.0,CrossFit Nordic,28.0,179 cm,68 kg,19.0,209.0,2021,semifinals
+1409302.0,Veslemøy Kollstad,Veslemøy,Kollstad,F,Norway,Europe,14247.0,CrossFit Kvadraturen,24.0,,,20.0,205.0,2021,semifinals
+1058374.0,Marie Robin,Marie,Robin,F,France,Europe,14897.0,CrossFit Roude Leiw,24.0,,,21.0,204.0,2021,semifinals
+534813.0,Sanna Venäläinen,Sanna,Venäläinen,F,Finland,Europe,7232.0,CrossFit Vantaa,30.0,164 cm,63 kg,22.0,171.0,2021,semifinals
+527011.0,Lisa Eble,Lisa,Eble,F,Germany,Europe,5765.0,CrossFit Jackhammer,30.0,160 cm,145 lb,22.0,171.0,2021,semifinals
+382954.0,Sara Pinto,Sara,Pinto,F,Portugal,Europe,19832.0,CrossFit Feira,32.0,162 cm,61 kg,24.0,167.0,2021,semifinals
+109933.0,Aneta Tucker,Aneta,Tucker,F,Czech Republic,Europe,14012.0,CrossFit Nidus,37.0,160 cm,67 kg,25.0,141.0,2021,semifinals
+1465193.0,Martha Cook,Martha,Cook,F,United Kingdom,Europe,21661.0,CrossFit Bicester,24.0,,,26.0,117.0,2021,semifinals
+747286.0,Carys Webster,Carys,Webster,F,United Kingdom,Europe,26997.0,The Wick CrossFit,30.0,176 cm,71 kg,26.0,117.0,2021,semifinals
+2753.0,Kaitlynne Rahner,Kaitlynne,Rahner,F,Sweden,Europe,2558.0,CrossFit Ibex,28.0,170 cm,79 kg,28.0,108.0,2021,semifinals
+1115280.0,Noortje Bleeker,Noortje,Bleeker,F,Netherlands,Europe,15181.0,CrossFit Westenwind,24.0,172 cm,70 kg,29.0,102.0,2021,semifinals
+1282147.0,Megan Joy McDermott,Megan Joy,McDermott,F,South Africa,Africa,10868.0,CrossFit Yas,29.0,168 cm,65 kg,30.0,18.0,2021,semifinals
+1957222.0,Lee Keyrouz,Lee,Keyrouz,F,South Africa,Africa,2764.0,BST CrossFit,33.0,,,31.0,0.0,2021,semifinals
+202638.0,Royce Dunne,Royce,Dunne,M,Australia,Oceania,10767.0,CrossFit Torian,30.0,183 cm,102 kg,1.0,549.0,2021,semifinals
+156156.0,Jay Crouch,Jay,Crouch,M,Australia,Oceania,1348.0,Reebok CrossFit Frankston,22.0,175 cm,82 kg,2.0,548.0,2021,semifinals
+337194.0,Bayden Brown,Bayden,Brown,M,Australia,Oceania,3235.0,CrossFit Townsville,26.0,177 cm,90 kg,3.0,538.0,2021,semifinals
+1954535.0,James Newbury,James,Newbury,M,Australia,Oceania,,,30.0,,,4.0,520.0,2021,semifinals
+221436.0,Luke Fiso,Luke,Fiso,M,New Zealand,Oceania,16362.0,Thorndon CrossFit,31.0,176 cm,90 kg,5.0,500.0,2021,semifinals
+105874.0,Khan Porter,Khan,Porter,M,Australia,Oceania,6761.0,CrossFit Play,31.0,182 cm,205 lb,6.0,446.0,2021,semifinals
+492175.0,Luke De Jonge,Luke,De Jonge,M,Australia,Oceania,2120.0,CrossFit Wollongong,21.0,186 cm,92 kg,7.0,428.0,2021,semifinals
+479759.0,Bayley Martin,Bayley,Martin,M,New Zealand,Oceania,20089.0,CrossFit Ruark,21.0,174 cm,71 kg,8.0,410.0,2021,semifinals
+898088.0,Matt Gilpin,Matt,Gilpin,M,Australia,Oceania,16943.0,CrossFit SPEED,25.0,178 cm,85 kg,9.0,407.0,2021,semifinals
+307696.0,William Kearney,William,Kearney,M,Australia,Oceania,10767.0,CrossFit Torian,21.0,184 cm,90 kg,10.0,401.0,2021,semifinals
+771889.0,Rees Machell,Rees,Machell,M,Australia,Oceania,,,23.0,174 cm,82 kg,11.0,399.0,2021,semifinals
+317745.0,John Champion,John,Champion,M,Australia,Oceania,,,26.0,179 cm,89 kg,12.0,392.0,2021,semifinals
+113516.0,Luke McMahon,Luke,McMahon,M,Australia,Oceania,17821.0,CrossFit Morph,26.0,175 cm,175 kg,13.0,363.0,2021,semifinals
+281043.0,Jack Clark,Jack,Clark,M,Australia,Oceania,22755.0,CrossFit Underway,22.0,178 cm,89 kg,14.0,354.0,2021,semifinals
+7314.0,Brandon Swan,Brandon,Swan,M,Australia,Oceania,2067.0,Wiser 1 CrossFit,30.0,175 cm,195 lb,15.0,334.0,2021,semifinals
+44890.0,Evan Morris,Evan,Morris,M,Australia,Oceania,9361.0,CrossFit 505,28.0,,,16.0,329.0,2021,semifinals
+180106.0,Zeke Grove,Zeke,Grove,M,Australia,Oceania,9043.0,CrossFit Carv,29.0,169 cm,182 lb,17.0,326.0,2021,semifinals
+1285760.0,Ben Fowler,Ben,Fowler,M,New Zealand,Oceania,15606.0,CrossFit Selwyn,20.0,178 cm,83 kg,18.0,326.0,2021,semifinals
+684163.0,Jake Standen,Jake,Standen,M,Australia,Oceania,6333.0,CrossFit CQ,23.0,184 cm,93 kg,19.0,307.0,2021,semifinals
+7582.0,Michael Mikaere,Michael,Mikaere,M,New Zealand,Oceania,18270.0,CrossFit Pōneke,30.0,178 cm,88 kg,20.0,302.0,2021,semifinals
+289373.0,Mitchell Case,Mitchell,Case,M,Australia,Oceania,15111.0,CrossFit Conditioning,24.0,179 cm,90 kg,21.0,282.0,2021,semifinals
+244894.0,Rob Watt,Rob,Watt,M,New Zealand,Oceania,22946.0,CrossFit Project Bayside,30.0,188 cm,198 lb,22.0,278.0,2021,semifinals
+111439.0,Cj Walker,Cj,Walker,M,Australia,Oceania,21578.0,CrossFit Light,34.0,180 cm,90 kg,23.0,259.0,2021,semifinals
+1262551.0,Luke Fowler,Luke,Fowler,M,New Zealand,Oceania,15606.0,CrossFit Selwyn,21.0,169 cm,78 kg,24.0,208.0,2021,semifinals
+1090823.0,James Gilmour,James,Gilmour,M,Australia,Oceania,4782.0,CrossFit Dubbo,28.0,178 cm,88 kg,25.0,167.0,2021,semifinals
+1743030.0,Jack Jeffery,Jack,Jeffery,M,Australia,Oceania,10767.0,CrossFit Torian,20.0,175 cm,82 kg,26.0,154.0,2021,semifinals
+150586.0,Jake Law,Jake,Law,M,Australia,Oceania,,,31.0,185 cm,96 kg,27.0,136.0,2021,semifinals
+186801.0,Adam Leaney,Adam,Leaney,M,Australia,Oceania,,,28.0,184 cm,93 kg,28.0,115.0,2021,semifinals
+503184.0,Joel Molinia,Joel,Molinia,M,Australia,Oceania,2120.0,CrossFit Wollongong,21.0,178 cm,85 kg,29.0,103.0,2021,semifinals
+1040506.0,Dene Flude,Dene,Flude,M,New Zealand,Oceania,,,32.0,180 cm,88 kg,30.0,72.0,2021,semifinals
+2942.0,Kara Saunders,Kara,Saunders,F,Australia,Oceania,9043.0,CrossFit Carv,31.0,162 cm,158 lb,1.0,660.0,2021,semifinals
+1018713.0,Laura Clifton,Laura,Clifton,F,New Zealand,Oceania,26488.0,CrossFit Awaside,26.0,162 cm,75 kg,2.0,564.0,2021,semifinals
+1119323.0,Ellie Turner,Ellie,Turner,F,Australia,Oceania,,,23.0,167 cm,,3.0,532.0,2021,semifinals
+235218.0,Alethea Boon,Alethea,Boon,F,New Zealand,Oceania,26563.0,CrossFit Botany,37.0,160 cm,130 lb,4.0,487.0,2021,semifinals
+21556.0,Madeline Sturt,Madeline,Sturt,F,Australia,Oceania,1348.0,Reebok CrossFit Frankston,24.0,158 cm,62 kg,5.0,479.0,2021,semifinals
+60656.0,Justine Beath,Justine,Beath,F,Australia,Oceania,6557.0,CrossFit Lower Mountains,31.0,163 cm,140 lb,6.0,471.0,2021,semifinals
+554143.0,Bailey Rogers,Bailey,Rogers,F,New Zealand,Oceania,24685.0,NTRS CrossFit,30.0,170 cm,77 kg,7.0,455.0,2021,semifinals
+423007.0,Simone Arthur,Simone,Arthur,F,Australia,Oceania,16409.0,CrossFit 4165,27.0,159 cm,59 kg,8.0,455.0,2021,semifinals
+329428.0,Christee Bishop,Christee,Bishop,F,Australia,Oceania,16885.0,CrossFit 4740,30.0,158 cm,60 kg,9.0,443.0,2021,semifinals
+107619.0,Laken Watt,Laken,Watt,F,Australia,Oceania,20779.0,CrossFit 129,30.0,157 cm,60 kg,10.0,411.0,2021,semifinals
+16173.0,Jessica Coughlan,Jessica,Coughlan,F,Australia,Oceania,580.0,CrossFit NorWest,32.0,166 cm,145 lb,11.0,402.0,2021,semifinals
+1347023.0,Gemma Hauck,Gemma,Hauck,F,Australia,Oceania,10767.0,CrossFit Torian,22.0,,,12.0,389.0,2021,semifinals
+1190953.0,Danielle Ford,Danielle,Ford,F,New Zealand,Oceania,,,25.0,,,13.0,383.0,2021,semifinals
+477709.0,Courtney Haley,Courtney,Haley,F,Australia,Oceania,9580.0,CrossFit Dux,26.0,165 cm,69 kg,14.0,365.0,2021,semifinals
+503203.0,Emma Wright,Emma,Wright,F,New Zealand,Oceania,16362.0,Thorndon CrossFit,29.0,165 cm,69 kg,15.0,344.0,2021,semifinals
+756237.0,Emily Fenech,Emily,Fenech,F,Australia,Oceania,17094.0,CrossFit Kirrawee,26.0,167 cm,73 kg,16.0,316.0,2021,semifinals
+117311.0,caitlin danyi,caitlin,danyi,F,Australia,Oceania,9286.0,Fitness Alley CrossFit,29.0,170 cm,68 kg,17.0,301.0,2021,semifinals
+229348.0,Aimee Tawhai,Aimee,Tawhai,F,New Zealand,Oceania,22946.0,CrossFit Project Bayside,29.0,163 cm,66 kg,18.0,257.0,2021,semifinals
+756347.0,Amanda Mackay,Amanda,Mackay,F,New Zealand,Oceania,19180.0,CrossFit Mecca,27.0,30 cm,4 kg,19.0,256.0,2021,semifinals
+229700.0,Chelsea Docherty,Chelsea,Docherty,F,Australia,Oceania,26563.0,CrossFit Botany,33.0,161 cm,63 kg,20.0,256.0,2021,semifinals
+453893.0,Abby Ashton,Abby,Ashton,F,Australia,Oceania,20779.0,CrossFit 129,28.0,168 cm,63 kg,21.0,245.0,2021,semifinals
+902935.0,Olivia Kelly,Olivia,Kelly,F,Australia,Oceania,9834.0,CrossFit Highfields,27.0,163 cm,73 kg,22.0,234.0,2021,semifinals
+1215608.0,Emily Atton,Emily,Atton,F,Australia,Oceania,5519.0,CrossFit by Design,29.0,173 cm,75 kg,23.0,229.0,2021,semifinals
+1001544.0,Jade Williams,Jade,Williams,F,Australia,Oceania,17776.0,Steel Coast CrossFit,30.0,,,24.0,217.0,2021,semifinals
+887208.0,Briony Challis,Briony,Challis,F,Australia,Oceania,3115.0,CrossFit Noosa,21.0,,58 kg,25.0,216.0,2021,semifinals
+1212706.0,Annika Roberts,Annika,Roberts,F,New Zealand,Oceania,15606.0,CrossFit Selwyn,33.0,165 cm,68 kg,26.0,170.0,2021,semifinals
+130934.0,Adrienne karniewicz,Adrienne,karniewicz,F,Australia,Oceania,14432.0,CrossFit RI,36.0,175 cm,154 lb,27.0,169.0,2021,semifinals
+872244.0,Christina Livaditakis,Christina,Livaditakis,F,Zimbabwe,Africa,4411.0,G Force CrossFit,24.0,153 cm,67 kg,28.0,130.0,2021,semifinals
+986140.0,Rachel Farinola,Rachel,Farinola,F,Australia,Oceania,18667.0,CrossFit Fallen,29.0,,,29.0,124.0,2021,semifinals
+133610.0,Sheree Willcox,Sheree,Willcox,F,Australia,Oceania,248.0,CrossFit 42 South,34.0,161 cm,67 kg,30.0,112.0,2021,semifinals
+901702.0,Stas Solodov,Stas,Solodov,M,,Asia,5808.0,CrossFit Geraklion,36.0,175 cm,85 kg,1.0,544.0,2021,semifinals
+1325298.0,Aleksandar Ilin,Aleksandar,Ilin,M,,Asia,27104.0,CrossFit FormA,31.0,175 cm,87 kg,2.0,538.0,2021,semifinals
+975774.0,Roman Khrennikov,Roman,Khrennikov,M,,Asia,,,26.0,182 cm,95 kg,3.0,528.0,2021,semifinals
+517691.0,Denis Samsonov,Denis,Samsonov,M,Kyrgyzstan,Asia,15586.0,CrossFit High Bar,30.0,,190 lb,4.0,508.0,2021,semifinals
+1762608.0,Morteza Sedaghat,Morteza,Sedaghat,M,Iran,Asia,,,26.0,172 cm,89 kg,5.0,453.0,2021,semifinals
+748680.0,Timofey Prolubnikov,Timofey,Prolubnikov,M,,Asia,17189.0,Backstage CrossFit,30.0,182 cm,88 kg,6.0,420.0,2021,semifinals
+1076087.0,Hamzeh Tarefi,Hamzeh,Tarefi,M,Palestinian Territory,Asia,11276.0,CrossFit Rome,26.0,173 cm,88 kg,7.0,400.0,2021,semifinals
+672747.0,ZhenHua Zhou,ZhenHua,Zhou,M,China,Asia,12935.0,CrossFit Long,27.0,,73 kg,8.0,339.0,2021,semifinals
+23655.0,Ant Haynes,Ant,Haynes,M,China,Asia,6874.0,CrossFit CSTL,31.0,179 cm,88 kg,9.0,326.0,2021,semifinals
+433886.0,Seokbeom Kim,Seokbeom,Kim,M,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,28.0,174 cm,175 lb,10.0,322.0,2021,semifinals
+1962386.0,Vladimir Sechin,Vladimir,Sechin,M,,Asia,15641.0,CrossFit 19.05,21.0,,,11.0,321.0,2021,semifinals
+461950.0,Eren Kim,Eren,Kim,M,"Korea, Republic of",Asia,21545.0,CrossFit Shooting Star,28.0,168 cm,165 lb,12.0,294.0,2021,semifinals
+1213219.0,Anton Yakovlev,Anton,Yakovlev,M,,Asia,13032.0,Sever CrossFit,28.0,,,13.0,287.0,2021,semifinals
+1513206.0,Hamza Mahir,Hamza,Mahir,M,Morocco,Africa,13853.0,CrossFit 4TP,25.0,178 cm,83 kg,14.0,275.0,2021,semifinals
+110291.0,Basel Qatamesh,Basel,Qatamesh,M,Palestinian Territory,Asia,13443.0,CrossFit Ramallah,32.0,177 cm,81 kg,15.0,259.0,2021,semifinals
+1379783.0,Seungjong Kim,Seungjong,Kim,M,"Korea, Republic of",Asia,27102.0,CrossFit Beomgye,25.0,175 cm,81 kg,16.0,252.0,2021,semifinals
+1656973.0,Guiquan Yang,Guiquan,Yang,M,China,Asia,17777.0,Stud CrossFit,21.0,,,17.0,239.0,2021,semifinals
+163322.0,Kang Kyungsun,Kang,Kyungsun,M,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,29.0,178 cm,198 lb,18.0,236.0,2021,semifinals
+486075.0,Yogev Meller,Yogev,Meller,M,Israel,Asia,,,21.0,173 cm,170 lb,19.0,235.0,2021,semifinals
+4354.0,Ram Dover,Ram,Dover,M,Israel,Asia,6045.0,CrossFit Modiin,34.0,178 cm,86 kg,20.0,226.0,2021,semifinals
+137056.0,Myung Sik Kwak,Myung Sik,Kwak,M,"Korea, Republic of",Asia,15790.0,CrossFit KTG,29.0,176 cm,180 lb,21.0,225.0,2021,semifinals
+661648.0,Ignaty Chomchoev,Ignaty,Chomchoev,M,,Asia,,,29.0,174 cm,88 kg,22.0,210.0,2021,semifinals
+458446.0,Nasser Alruwayeh,Nasser,Alruwayeh,M,Kuwait,Asia,4369.0,CrossFit Q8,28.0,183 cm,105 kg,23.0,191.0,2021,semifinals
+910847.0,Evgeniy Glushkov,Evgeniy,Glushkov,M,Israel,Asia,13812.0,YV CrossFit Afula,25.0,170 cm,81 kg,24.0,162.0,2021,semifinals
+914153.0,Artyom Matsak,Artyom,Matsak,M,Kazakhstan,Asia,2711.0,CrossFit Berloga,27.0,178 cm,87 kg,25.0,153.0,2021,semifinals
+297397.0,Majid Al Sharaf,Majid,Al Sharaf,M,Bahrain,Asia,6353.0,CrossFit Delmon,30.0,178 cm,85 kg,26.0,132.0,2021,semifinals
+2109159.0,Sunjae Han,Sunjae,Han,M,"Korea, Republic of",Asia,10399.0,CrossFit SCH,33.0,,,27.0,123.0,2021,semifinals
+729675.0,Eitan Lieberman,Eitan,Lieberman,M,Israel,Asia,19504.0,CrossFit Green Beach,25.0,176 cm,90 kg,28.0,112.0,2021,semifinals
+531258.0,Petr Kirioglo,Petr,Kirioglo,M,,Asia,5808.0,CrossFit Geraklion,29.0,,200 lb,29.0,88.0,2021,semifinals
+229189.0,Tomohiro Itaya,Tomohiro,Itaya,M,Japan,Asia,26004.0,CrossFit Uninterrupted,36.0,178 cm,85 kg,30.0,81.0,2021,semifinals
+1019212.0,Svetlana Kubyshkina,Svetlana,Kubyshkina,F,,Asia,17189.0,Backstage CrossFit,30.0,155 cm,60 kg,1.0,544.0,2021,semifinals
+1346810.0,Seungyeon Choi,Seungyeon,Choi,F,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,22.0,168 cm,149 lb,2.0,512.0,2021,semifinals
+1979280.0,Svetlana Veselova,Svetlana,Veselova,F,,Asia,,,33.0,161 cm,63 kg,3.0,504.0,2021,semifinals
+144083.0,Yuko Sakuyama,Yuko,Sakuyama,F,Japan,Asia,3839.0,CrossFit Roppongi,34.0,152 cm,120 lb,4.0,492.0,2021,semifinals
+1020076.0,Aizhan Zharasova,Aizhan,Zharasova,F,,Asia,,,27.0,156 cm,56 kg,5.0,480.0,2021,semifinals
+929342.0,Alexsandra Buzunova,Alexsandra,Buzunova,F,,Asia,20704.0,CrossFit Sprut,27.0,163 cm,64 kg,6.0,472.0,2021,semifinals
+1544576.0,Seher Kaya,Seher,Kaya,F,Turkey,Asia,18749.0,CrossFit Elverum,23.0,,,7.0,405.0,2021,semifinals
+716089.0,Or Cohen,Or,Cohen,F,Israel,Asia,7738.0,CrossFit Kfar Saba,31.0,157 cm,60 kg,8.0,394.0,2021,semifinals
+1057202.0,Kamila Takeyeva,Kamila,Takeyeva,F,Kazakhstan,Asia,,,26.0,167 cm,63 kg,9.0,392.0,2021,semifinals
+280125.0,Dawon Jung,Dawon,Jung,F,"Korea, Republic of",Asia,17606.0,CrossFit Limelight,26.0,170 cm,65 kg,10.0,382.0,2021,semifinals
+267049.0,Uracha Teerawanitsan,Uracha,Teerawanitsan,F,Thailand,Asia,,,28.0,156 cm,134 lb,11.0,337.0,2021,semifinals
+912927.0,Maria Astashova,Maria,Astashova,F,,Asia,,,26.0,170 cm,68 kg,12.0,321.0,2021,semifinals
+821884.0,Nataly Egorova,Nataly,Egorova,F,,Asia,17189.0,Backstage CrossFit,32.0,161 cm,67 kg,13.0,303.0,2021,semifinals
+1231017.0,Aichan Chen,Aichan,Chen,F,China,Asia,27097.0,CrossFit ttw,32.0,165 cm,64 kg,14.0,297.0,2021,semifinals
+1055578.0,Akiko Kamitani,Akiko,Kamitani,F,Japan,Asia,17573.0,CrossFit Kamuy,32.0,154 cm,52 kg,15.0,287.0,2021,semifinals
+855131.0,Nicole Pettel,Nicole,Pettel,F,Israel,Asia,4795.0,CrossFit White City,29.0,63 in,150 lb,16.0,275.0,2021,semifinals
+1638688.0,Anastasia Smirnova,Anastasia,Smirnova,F,,Asia,14416.0,Red Tower CrossFit,28.0,167 cm,70 kg,17.0,253.0,2021,semifinals
+1322978.0,Angelina Lapshina,Angelina,Lapshina,F,,Asia,27104.0,CrossFit FormA,22.0,,,18.0,252.0,2021,semifinals
+1491850.0,Jiaxi Wang,Jiaxi,Wang,F,China,Asia,17777.0,Stud CrossFit,28.0,,,19.0,221.0,2021,semifinals
+822417.0,Milana Yakovleva,Milana,Yakovleva,F,,Asia,,,27.0,159 cm,54 kg,20.0,201.0,2021,semifinals
+474091.0,Jingyi Zhang,Jingyi,Zhang,F,China,Asia,12935.0,CrossFit Long,28.0,,,21.0,199.0,2021,semifinals
+586509.0,Nina Juna,Nina,Juna,F,Brunei Darussalam,Asia,,,29.0,157 cm,60 kg,22.0,171.0,2021,semifinals
+1765439.0,Elena Rudakova,Elena,Rudakova,F,,Asia,15641.0,CrossFit 19.05,23.0,,,23.0,149.0,2021,semifinals
+419506.0,Dema Al Zebdieh,Dema,Al Zebdieh,F,Jordan,Asia,12078.0,CrossFit 962,35.0,175 cm,74 kg,24.0,141.0,2021,semifinals
+1311736.0,Anastasiya Khrennikova,Anastasiya,Khrennikova,F,,Asia,,,27.0,173 cm,70 kg,25.0,129.0,2021,semifinals
+1127236.0,Kim MinJeong,Kim,MinJeong,F,"Korea, Republic of",Asia,27680.0,We CrossFit,26.0,165 cm,135 lb,26.0,123.0,2021,semifinals
+737111.0,Galchenko Liliia,Galchenko,Liliia,F,,Asia,,,27.0,163 cm,64 kg,27.0,116.0,2021,semifinals
+524284.0,Zeina Kassas,Zeina,Kassas,F,Syrian Arab Republic,Asia,,,33.0,,,28.0,110.0,2021,semifinals
+1237491.0,Wang Xuanlin,Wang,Xuanlin,F,China,Asia,16979.0,CrossFit Better Me,26.0,,,29.0,62.0,2021,semifinals
+491747.0,Hyeonhye Yang,Hyeonhye,Yang,F,"Korea, Republic of",Asia,25860.0,CrossFit Lagom,27.0,156 cm,118 lb,30.0,8.0,2021,semifinals
+478414.0,Agustin Richelme,Agustin,Richelme,M,Argentina,South America,,,24.0,173 cm,83 kg,1.0,560.0,2021,semifinals
+686308.0,Guilherme Malheiros,Guilherme,Malheiros,M,Brazil,South America,10585.0,Cavaleiros CrossFit,21.0,177 cm,90 kg,2.0,548.0,2021,semifinals
+270266.0,Omar Martinez,Omar,Martinez,M,Venezuela,South America,,,29.0,2 cm,76 kg,3.0,508.0,2021,semifinals
+901503.0,Kaique Cerveny,Kaique,Cerveny,M,Brazil,South America,22245.0,Moovbox CrossFit,23.0,,96 kg,4.0,498.0,2021,semifinals
+169360.0,Anderon Primo,Anderon,Primo,M,Brazil,South America,20268.0,CrossFit Bauru Villaggios,26.0,180 cm,205 lb,5.0,416.0,2021,semifinals
+504209.0,Nicolas Bidarte,Nicolas,Bidarte,M,Argentina,South America,7589.0,CrossFit Culmination,27.0,171 cm,88 kg,6.0,403.0,2021,semifinals
+529821.0,Maximiliano Arigossi,Maximiliano,Arigossi,M,Argentina,South America,,,28.0,171 cm,85 kg,7.0,380.0,2021,semifinals
+1335018.0,Bruno Marins,Bruno,Marins,M,Brazil,South America,10585.0,Cavaleiros CrossFit,24.0,187 cm,206 lb,8.0,378.0,2021,semifinals
+8551.0,Julian Serna,Julian,Serna,M,Colombia,South America,1563.0,CrossFit Soul Miami,37.0,71 in,193 lb,9.0,358.0,2021,semifinals
+1178252.0,Piero Gorichon,Piero,Gorichon,M,Chile,South America,,,29.0,183 cm,90 kg,10.0,346.0,2021,semifinals
+508647.0,Ivan Verdun,Ivan,Verdun,M,Argentina,South America,23196.0,AB CrossFit,33.0,,160 lb,11.0,331.0,2021,semifinals
+326958.0,Santiago Comba,Santiago,Comba,M,Uruguay,South America,,,27.0,173 cm,82 kg,12.0,321.0,2021,semifinals
+678713.0,Benjamin Gutierrez,Benjamin,Gutierrez,M,Chile,South America,12515.0,Pura Sangre CrossFit,20.0,175 cm,89 kg,13.0,305.0,2021,semifinals
+1231733.0,Joao Pedro Barcelos,Joao Pedro,Barcelos,M,Brazil,South America,,,20.0,177 cm,88 kg,14.0,304.0,2021,semifinals
+164978.0,Guilherme Domingues,Guilherme,Domingues,M,Brazil,South America,21459.0,CrossFit Sinos,31.0,185 cm,210 lb,15.0,274.0,2021,semifinals
+912297.0,Nicolás Canil,Nicolás,Canil,M,Uruguay,South America,27033.0,CrossFit 4C,24.0,,,16.0,255.0,2021,semifinals
+744550.0,Gustavo Errico,Gustavo,Errico,M,Venezuela,South America,22534.0,RPC CrossFit,23.0,172 cm,77 kg,17.0,251.0,2021,semifinals
+877922.0,Tomas Sarmiento,Tomas,Sarmiento,M,Argentina,South America,,,19.0,170 cm,85 kg,18.0,246.0,2021,semifinals
+675826.0,Vinicius Stoelben,Vinicius,Stoelben,M,Brazil,South America,,,29.0,186 cm,94 kg,19.0,242.0,2021,semifinals
+418387.0,Juan Manuel Seitun,Juan Manuel,Seitun,M,Uruguay,South America,,,27.0,179 cm,92 kg,20.0,225.0,2021,semifinals
+169650.0,Lucas Da Rosa,Lucas,Da Rosa,M,Brazil,South America,17913.0,CrossFit Al Ain,25.0,184 cm,90 kg,21.0,204.0,2021,semifinals
+1552764.0,Geronimo Beaudean,Geronimo,Beaudean,M,Argentina,South America,,,20.0,,,22.0,191.0,2021,semifinals
+1039797.0,Filemon Souza,Filemon,Souza,M,Brazil,South America,10922.0,Vittoria CrossFit,29.0,,,23.0,189.0,2021,semifinals
+776650.0,Lucas Almeida,Lucas,Almeida,M,Brazil,South America,,,29.0,170 cm,77 kg,24.0,171.0,2021,semifinals
+495237.0,Leonardo Perdomo,Leonardo,Perdomo,M,Venezuela,South America,,,22.0,180 cm,78 kg,25.0,159.0,2021,semifinals
+733404.0,Mario Santaella,Mario,Santaella,M,Venezuela,South America,23196.0,AB CrossFit,27.0,71 in,195 lb,26.0,147.0,2021,semifinals
+773925.0,Giovanni Ocampo,Giovanni,Ocampo,M,Colombia,South America,5548.0,CrossFit Cobalt,28.0,70 in,184 lb,27.0,143.0,2021,semifinals
+1409783.0,Flaudizio Brandao,Flaudizio,Brandao,M,Brazil,South America,16903.0,CrossFit Carranca,28.0,168 cm,83 kg,28.0,139.0,2021,semifinals
+467345.0,Vitor Caetano,Vitor,Caetano,M,Brazil,South America,13173.0,CrossFit CPK,22.0,171 cm,86 kg,29.0,14.0,2021,semifinals
+1332272.0,Martin Gonzalez,Martin,Gonzalez,M,Argentina,South America,,,23.0,176 in,167 lb,30.0,0.0,2021,semifinals
+455677.0,Larissa Cunha,Larissa,Cunha,F,Brazil,South America,10585.0,Cavaleiros CrossFit,30.0,153 cm,62 kg,1.0,560.0,2021,semifinals
+1187609.0,Sasha Nievas,Sasha,Nievas,F,Argentina,South America,,,23.0,156 cm,59 kg,2.0,528.0,2021,semifinals
+221169.0,Victoria Campos,Victoria,Campos,F,Brazil,South America,18157.0,CrossFit Asphodel,28.0,161 cm,134 lb,3.0,498.0,2021,semifinals
+1558034.0,Julia Kato,Julia,Kato,F,Brazil,South America,15372.0,CrossFit Marilia,21.0,159 cm,,4.0,476.0,2021,semifinals
+1021143.0,Valentina Rangel,Valentina,Rangel,F,Colombia,South America,22360.0,Iruka CrossFit,24.0,163 cm,63 kg,5.0,415.0,2021,semifinals
+1239683.0,Amanda Fusuma,Amanda,Fusuma,F,Brazil,South America,4572.0,CrossFit Floripa,24.0,153 cm,55 kg,6.0,412.0,2021,semifinals
+535855.0,Luiza Dias,Luiza,Dias,F,Brazil,South America,14494.0,CrossFit Pará de Minas,29.0,151 cm,53 kg,7.0,409.0,2021,semifinals
+300613.0,Luiza Marques,Luiza,Marques,F,Brazil,South America,17913.0,CrossFit Al Ain,19.0,154 cm,58 kg,8.0,396.0,2021,semifinals
+695819.0,Gabriella Moratti,Gabriella,Moratti,F,Brazil,South America,16537.0,CrossFit Berrini,21.0,163 cm,68 kg,9.0,363.0,2021,semifinals
+2012971.0,Alexia Williams,Alexia,Williams,F,Argentina,South America,,,22.0,,,10.0,358.0,2021,semifinals
+708499.0,Thais Nunes,Thais,Nunes,F,Brazil,South America,19977.0,CrossFit CFP9 CasaShopping,30.0,155 cm,145 lb,11.0,344.0,2021,semifinals
+330548.0,Jimena Delamer,Jimena,Delamer,F,Argentina,South America,27843.0,Q21 CrossFit,39.0,164 cm,63 kg,12.0,324.0,2021,semifinals
+1299203.0,Maria Camila Quintero,Maria Camila,Quintero,F,Colombia,South America,,,25.0,155 cm,58 kg,13.0,317.0,2021,semifinals
+993710.0,Claudia Amaral,Claudia,Amaral,F,Brazil,South America,,,29.0,2 cm,67 kg,14.0,299.0,2021,semifinals
+1212088.0,Emily Andrade,Emily,Andrade,F,Brazil,South America,,,25.0,161 cm,137 lb,15.0,292.0,2021,semifinals
+534577.0,Melina Rodriguez,Melina,Rodriguez,F,Argentina,South America,,,25.0,156 cm,138 lb,16.0,284.0,2021,semifinals
+632197.0,Tassia Dadda,Tassia,Dadda,F,Brazil,South America,6883.0,CrossFit High Pulse,31.0,,65 kg,17.0,260.0,2021,semifinals
+499595.0,Thatianne Freitas,Thatianne,Freitas,F,Brazil,South America,10922.0,Vittoria CrossFit,27.0,158 cm,129 lb,18.0,258.0,2021,semifinals
+277184.0,Laura Gonzalez-Marin,Laura,Gonzalez-Marin,F,Venezuela,South America,2960.0,Caution CrossFit Miami Lakes,27.0,67 in,148 lb,19.0,234.0,2021,semifinals
+2079146.0,Jane Silva,Jane,Silva,F,Brazil,South America,16903.0,CrossFit Carranca,22.0,157 cm,56 kg,20.0,224.0,2021,semifinals
+1083236.0,Isabel D'Avis,Isabel,D'Avis,F,Argentina,South America,,,26.0,170 cm,63 kg,21.0,221.0,2021,semifinals
+725674.0,Guadalupe Machado,Guadalupe,Machado,F,Argentina,South America,,,22.0,159 cm,63 kg,22.0,183.0,2021,semifinals
+1205849.0,Adriana Gonzalez,Adriana,Gonzalez,F,Brazil,South America,,,26.0,,,23.0,157.0,2021,semifinals
+1967700.0,Valeria Valdez,Valeria,Valdez,F,Argentina,South America,,,29.0,,,24.0,144.0,2021,semifinals
+261255.0,Claudia Espinosa,Claudia,Espinosa,F,Ecuador,South America,,,30.0,175 cm,68 kg,25.0,138.0,2021,semifinals
+1054084.0,Bia Clemente,Bia,Clemente,F,Brazil,South America,22245.0,Moovbox CrossFit,18.0,162 cm,63 kg,26.0,135.0,2021,semifinals
+780095.0,Carolina Long,Carolina,Long,F,Brazil,South America,12048.0,CrossFit BH Mangabeiras,27.0,,,27.0,119.0,2021,semifinals
+2094617.0,Lillian Nagao Leitão,Lillian,Nagao Leitão,F,Brazil,South America,18967.0,Conceito CrossFit,22.0,,,28.0,89.0,2021,semifinals
+239210.0,Andrea Rodriguez,Andrea,Rodriguez,F,Ecuador,South America,,,35.0,165 cm,165 lb,29.0,87.0,2021,semifinals
+1345516.0,Aline Queiroz,Aline,Queiroz,F,Brazil,South America,20680.0,CrossFit Saúde 3,33.0,,,30.0,30.0,2021,semifinals
+120333.0,Jason Smith,Jason,Smith,M,South Africa,Africa,22771.0,CrossFit Sunninghill,37.0,185 cm,195 lb,1.0,668.0,2021,semifinals
+214252.0,Ruan Duvenage,Ruan,Duvenage,M,South Africa,Africa,15253.0,NorSub CrossFit,32.0,178 cm,90 kg,2.0,632.0,2021,semifinals
+263172.0,AJ Visser,AJ,Visser,M,South Africa,Africa,,,35.0,180 cm,86 kg,3.0,522.0,2021,semifinals
+487949.0,Mohamed Elomda,Mohamed,Elomda,M,Egypt,Africa,,,33.0,180 cm,92 kg,4.0,512.0,2021,semifinals
+901467.0,Kealan Henry,Kealan,Henry,M,South Africa,Africa,27614.0,CrossFit Pamiers,28.0,,,5.0,504.0,2021,semifinals
+740370.0,Ruan Potgieter,Ruan,Potgieter,M,South Africa,Africa,3515.0,CrossFit 360Vida,24.0,182 cm,82 kg,6.0,495.0,2021,semifinals
+226472.0,Billy Pullen,Billy,Pullen,M,South Africa,Africa,16334.0,CrossFit Wanderlust,29.0,178 cm,87 kg,7.0,435.0,2021,semifinals
+480349.0,Schalk Burger,Schalk,Burger,M,South Africa,Africa,,,26.0,184 cm,95 kg,8.0,401.0,2021,semifinals
+563087.0,Ruan Conradie,Ruan,Conradie,M,South Africa,Africa,25508.0,CrossFit Two Rivers,26.0,176 cm,83 kg,9.0,398.0,2021,semifinals
+139794.0,Matthew Peter Garth Smith,Matthew Peter Garth,Smith,M,South Africa,Africa,13150.0,CrossFit FireBolt,28.0,175 cm,88 kg,10.0,390.0,2021,semifinals
+398197.0,Brandon Jacobs,Brandon,Jacobs,M,South Africa,Africa,8111.0,Northcliff CrossFit,27.0,179 cm,198 lb,11.0,389.0,2021,semifinals
+889486.0,Michael van Tonder,Michael,van Tonder,M,South Africa,Africa,,,27.0,184 cm,96 kg,12.0,386.0,2021,semifinals
+1515387.0,Darren Zurnamer,Darren,Zurnamer,M,South Africa,Africa,,,20.0,173 cm,79 kg,13.0,369.0,2021,semifinals
+1058382.0,Trent Williams,Trent,Williams,M,South Africa,Africa,23621.0,CrossFit Body Intelligence Optimization,27.0,180 cm,91 kg,14.0,329.0,2021,semifinals
+492227.0,Barend Smit,Barend,Smit,M,South Africa,Africa,22845.0,CrossFit Bounty,29.0,,,15.0,314.0,2021,semifinals
+8743.0,David Levey,David,Levey,M,South Africa,Africa,6737.0,CrossFit Algoa,43.0,178 cm,91 kg,16.0,306.0,2021,semifinals
+226694.0,Robert Heuer,Robert,Heuer,M,South Africa,Africa,14623.0,CrossFit Resuelto,31.0,185 cm,185 lb,17.0,306.0,2021,semifinals
+421234.0,Cj Ward,Cj,Ward,M,South Africa,Africa,21609.0,Motley Crew CrossFit,29.0,188 cm,97 kg,18.0,282.0,2021,semifinals
+1782375.0,Sofien Zaier,Sofien,Zaier,M,Algeria,Africa,15406.0,Human Blossom CrossFit Belfort,34.0,184 cm,90 kg,19.0,278.0,2021,semifinals
+1738530.0,Karim LLorens,Karim,LLorens,M,Morocco,Africa,27354.0,La Maison CrossFit,31.0,,,20.0,264.0,2021,semifinals
+498793.0,Rene Lamont,Rene,Lamont,M,South Africa,Africa,,,26.0,176 cm,88 kg,21.0,264.0,2021,semifinals
+261838.0,Barry Conradie,Barry,Conradie,M,South Africa,Africa,15253.0,NorSub CrossFit,34.0,178 cm,90 kg,22.0,226.0,2021,semifinals
+95963.0,Alexandre Bradley,Alexandre,Bradley,M,Tunisia,Africa,19246.0,CrossFit Serval,33.0,180 cm,200 lb,23.0,223.0,2021,semifinals
+70814.0,Assem Effat,Assem,Effat,M,Egypt,Africa,,,30.0,185 cm,105 kg,24.0,216.0,2021,semifinals
+606000.0,Schalk Smit,Schalk,Smit,M,South Africa,Africa,18024.0,CrossFit Charisma,30.0,,80 kg,25.0,200.0,2021,semifinals
+491215.0,Eduan Troskie,Eduan,Troskie,M,South Africa,Africa,17265.0,Lions Bay CrossFit,27.0,190 cm,202 lb,26.0,199.0,2021,semifinals
+917565.0,Hilmar von Mansberg,Hilmar,von Mansberg,M,South Africa,Africa,6033.0,CrossFit Leo,24.0,173 cm,81 kg,27.0,194.0,2021,semifinals
+430583.0,Abdelrahman Abdullah,Abdelrahman,Abdullah,M,Egypt,Africa,,,30.0,185 cm,198 lb,28.0,154.0,2021,semifinals
+700870.0,Abdelrahman Farrag,Abdelrahman,Farrag,M,Egypt,Africa,7265.0,CrossFit Engine 38,24.0,,,29.0,0.0,2021,semifinals
+893554.0,Michelle Basnett,Michelle,Basnett,F,South Africa,Africa,8492.0,CrossFit Cornelius,24.0,65 in,148 lb,1.0,636.0,2021,semifinals
+101929.0,Dina Swift,Dina,Swift,F,South Africa,Africa,23621.0,CrossFit Body Intelligence Optimization,32.0,178 cm,80 kg,2.0,604.0,2021,semifinals
+505225.0,Michelle Merand,Michelle,Merand,F,South Africa,Africa,,,32.0,158 cm,58 kg,3.0,588.0,2021,semifinals
+1163483.0,Gilmari Reyneke,Gilmari,Reyneke,F,South Africa,Africa,19088.0,CrossFit Artaxes,24.0,167 cm,59 kg,4.0,531.0,2021,semifinals
+918656.0,Tanha Bouffe,Tanha,Bouffe,F,South Africa,Africa,5259.0,CrossFit 4E,22.0,161 cm,70 kg,5.0,526.0,2021,semifinals
+110783.0,Mary Jamieson,Mary,Jamieson,F,South Africa,Africa,8111.0,Northcliff CrossFit,38.0,,75 kg,6.0,522.0,2021,semifinals
+1586911.0,Brady Finkel,Brady,Finkel,F,South Africa,Africa,2132.0,Cape CrossFit,20.0,,,7.0,500.0,2021,semifinals
+1464383.0,Leeverne Engelbrecht,Leeverne,Engelbrecht,F,South Africa,Africa,2132.0,Cape CrossFit,32.0,,,8.0,443.0,2021,semifinals
+246932.0,Anneke Spies,Anneke,Spies,F,South Africa,Africa,18024.0,CrossFit Charisma,28.0,160 cm,61 kg,9.0,406.0,2021,semifinals
+1586910.0,Reegan Finkel,Reegan,Finkel,F,South Africa,Africa,2132.0,Cape CrossFit,18.0,,,10.0,377.0,2021,semifinals
+1406426.0,Ingy Hossam Eldin,Ingy Hossam,Eldin,F,Egypt,Africa,,,26.0,,61 kg,11.0,374.0,2021,semifinals
+722764.0,Chantelle Burger,Chantelle,Burger,F,South Africa,Africa,2764.0,BST CrossFit,38.0,162 cm,61 kg,12.0,372.0,2021,semifinals
+934466.0,Alicia Stoop,Alicia,Stoop,F,South Africa,Africa,5435.0,CrossFit Radium,33.0,168 cm,68 kg,13.0,350.0,2021,semifinals
+484990.0,Emma Rogers,Emma,Rogers,F,South Africa,Africa,23414.0,CrossFit Ballito,29.0,163 cm,61 kg,14.0,347.0,2021,semifinals
+964721.0,Ziamay Malan,Ziamay,Malan,F,South Africa,Africa,,,19.0,167 cm,68 kg,15.0,334.0,2021,semifinals
+470687.0,Francie Gerber,Francie,Gerber,F,Namibia,Africa,19501.0,CrossFit WHK,38.0,167 cm,76 kg,16.0,299.0,2021,semifinals
+464464.0,Nicola Temperman,Nicola,Temperman,F,South Africa,Africa,,,23.0,164 cm,65 kg,17.0,296.0,2021,semifinals
+1531503.0,Zandre Coetzee,Zandre,Coetzee,F,South Africa,Africa,20071.0,Willow Way CrossFit,24.0,,,18.0,281.0,2021,semifinals
+497248.0,Elzaan Goosen,Elzaan,Goosen,F,South Africa,Africa,17265.0,Lions Bay CrossFit,27.0,,,19.0,279.0,2021,semifinals
+1535346.0,Megan Faul,Megan,Faul,F,South Africa,Africa,11164.0,CrossFit Kempton,29.0,170 cm,80 kg,20.0,276.0,2021,semifinals
+726451.0,Giselle Barbosa,Giselle,Barbosa,F,South Africa,Africa,19831.0,Plot Box CrossFit,25.0,167 cm,60 kg,21.0,250.0,2021,semifinals
+106380.0,Lara Erlank,Lara,Erlank,F,Namibia,Africa,793.0,Diablo CrossFit,33.0,168 cm,142 lb,22.0,239.0,2021,semifinals
+951583.0,Angelique de Klerk Connoway,Angelique,de Klerk Connoway,F,Namibia,Africa,,,28.0,172 cm,72 kg,23.0,221.0,2021,semifinals
+1192351.0,Aya Fouad,Aya,Fouad,F,Egypt,Africa,16595.0,CrossFit Tycoons,27.0,155 cm,60 kg,24.0,181.0,2021,semifinals
+227798.0,Rachelle Du Plessis,Rachelle,Du Plessis,F,South Africa,Africa,,,30.0,,,25.0,169.0,2021,semifinals
+690713.0,Assma Lalaoui,Assma,Lalaoui,F,Morocco,Africa,22038.0,CrossFit Fly High,33.0,,,26.0,142.0,2021,semifinals
+236402.0,nada sameh,nada,sameh,F,Egypt,Africa,,,26.0,156 cm,138 lb,27.0,130.0,2021,semifinals
+258084.0,Sherilee Strauss,Sherilee,Strauss,F,South Africa,Africa,2764.0,BST CrossFit,26.0,165 cm,169 lb,28.0,118.0,2021,semifinals
+1243255.0,Inge von Mansberg,Inge,von Mansberg,F,South Africa,Africa,6033.0,CrossFit Leo,20.0,164 cm,68 kg,29.0,97.0,2021,semifinals
+975774.0,Roman Khrennikov,Roman,Khrennikov,M,,Asia,,,26.0,182 cm,95 kg,1.0,332.0,2021,semifinals
+251546.0,Alexandre Caron,Alexandre,Caron,M,Canada,North America,15562.0,CrossFit Levis,25.0,71 in,205 lb,2.0,312.0,2021,semifinals
+663689.0,Tyler Christophel,Tyler,Christophel,M,United States,North America,,,31.0,70 in,190 lb,3.0,304.0,2021,semifinals
+932990.0,Taylor Self,Taylor,Self,M,United States,North America,931.0,CrossFit Charlotte,25.0,70 in,195 lb,4.0,275.0,2021,semifinals
+105874.0,Khan Porter,Khan,Porter,M,Australia,Oceania,6761.0,CrossFit Play,31.0,183 cm,205 lb,5.0,272.0,2021,semifinals
+879211.0,Phil Toon,Phil,Toon,M,United States,North America,24896.0,CrossFit Mesa,23.0,70 in,195 lb,6.0,257.0,2021,semifinals
+227615.0,Ioannis Papadopoulos,Ioannis,Papadopoulos,M,Greece,Europe,12728.0,The Core Force CrossFit,34.0,188 cm,105 kg,7.0,256.0,2021,semifinals
+901503.0,Kaique Cerveny,Kaique,Cerveny,M,Brazil,South America,22245.0,Moovbox CrossFit,23.0,,96 kg,8.0,249.0,2021,semifinals
+822789.0,Alex Kotoulas,Alex,Kotoulas,M,Greece,Europe,,,28.0,170 cm,78 kg,9.0,247.0,2021,semifinals
+1954535.0,James Newbury,James,Newbury,M,Australia,Oceania,,,30.0,,,10.0,240.0,2021,semifinals
+671093.0,Dallin Pepper,Dallin,Pepper,M,United States,North America,14837.0,Spanish Fork CrossFit,19.0,72 in,212 lb,11.0,237.0,2021,semifinals
+843041.0,Nick Mathew,Nick,Mathew,M,United States,North America,14452.0,CrossFit Minnetonka,27.0,69 in,195 lb,12.0,229.0,2021,semifinals
+1718365.0,Cole Greashaber,Cole,Greashaber,M,United States,North America,1232.0,CrossFit Lee's Summit (LS),21.0,72 in,206 lb,13.0,222.0,2021,semifinals
+162712.0,Spencer Panchik,Spencer,Panchik,M,United States,North America,22505.0,CrossFit Cliffside,25.0,68 in,180 lb,14.0,217.0,2021,semifinals
+487535.0,Jakub Cieślik,Jakub,Cieślik,M,Poland,Europe,,,26.0,,185 lb,15.0,204.0,2021,semifinals
+1657300.0,Fabian Beneito,Fabian,Beneito,M,Spain,Europe,15254.0,CrossFit Alzira,25.0,178 cm,90 kg,16.0,203.0,2021,semifinals
+221436.0,Luke Fiso,Luke,Fiso,M,New Zealand,Oceania,16362.0,Thorndon CrossFit,31.0,176 cm,90 kg,17.0,179.0,2021,semifinals
+1762608.0,Morteza Sedaghat,Morteza,Sedaghat,M,Iran,Asia,,,26.0,172 cm,89 kg,18.0,172.0,2021,semifinals
+624949.0,Angelo Dicicco,Angelo,Dicicco,M,United States,North America,3220.0,CrossFit Mayhem,21.0,70 in,195 lb,19.0,167.0,2021,semifinals
+270266.0,Omar Martinez,Omar,Martinez,M,Venezuela,South America,,,29.0,2 cm,76 kg,20.0,160.0,2021,semifinals
+1647549.0,Lukas Grouleff,Lukas,Grouleff,M,Denmark,Europe,26828.0,CrossFit Randers,23.0,,,21.0,152.0,2021,semifinals
+672663.0,Joshua Al-chamaa,Joshua,Al-chamaa,M,United Kingdom,Europe,15349.0,CrossFit Alioth,29.0,182 cm,206 lb,21.0,152.0,2021,semifinals
+251447.0,Austin Spencer,Austin,Spencer,M,United States,North America,1926.0,CrossFit MF,28.0,70 in,200 lb,23.0,130.0,2021,semifinals
+214252.0,Ruan Duvenage,Ruan,Duvenage,M,South Africa,Africa,15253.0,NorSub CrossFit,32.0,178 cm,90 kg,24.0,129.0,2021,semifinals
+169360.0,Anderon Primo,Anderon,Primo,M,Brazil,South America,20268.0,CrossFit Bauru Villaggios,26.0,180 cm,205 lb,25.0,128.0,2021,semifinals
+487949.0,Mohamed Elomda,Mohamed,Elomda,M,Egypt,Africa,,,33.0,180 cm,92 kg,26.0,88.0,2021,semifinals
+493511.0,Cédric Lapointe,Cédric,Lapointe,M,Canada,North America,10570.0,CrossFit 819,24.0,69 in,187 lb,27.0,85.0,2021,semifinals
+1053957.0,Hunter Holifield,Hunter,Holifield,M,United States,North America,7573.0,Yune CrossFit,23.0,70 in,195 lb,28.0,58.0,2021,semifinals
+517691.0,Denis Samsonov,Denis,Samsonov,M,Kyrgyzstan,Asia,15586.0,CrossFit High Bar,30.0,,190 lb,29.0,0.0,2021,semifinals
+887297.0,Emma Tall,Emma,Tall,F,Sweden,Europe,12.0,CrossFit Karlstad,29.0,168 cm,68 kg,1.0,344.0,2021,semifinals
+310687.0,Kristi Eramo O'Connell,Kristi Eramo,O'Connell,F,United States,North America,16832.0,CrossFit Polaris,32.0,62 in,132 lb,2.0,328.0,2021,semifinals
+21556.0,Madeline Sturt,Madeline,Sturt,F,Australia,Oceania,1348.0,Reebok CrossFit Frankston,24.0,158 cm,62 kg,3.0,262.0,2021,semifinals
+698210.0,Karin Freyová,Karin,Freyová,F,Slovakia,Europe,22093.0,CrossFit Alpha Prime,26.0,170 cm,72 kg,4.0,261.0,2021,semifinals
+831149.0,Matilde Garnes,Matilde,Garnes,F,Norway,Europe,22538.0,CrossFit Trondheim,25.0,174 cm,68 kg,5.0,260.0,2021,semifinals
+686626.0,Manon Angonese,Manon,Angonese,F,Belgium,Europe,,,28.0,163 cm,66 kg,6.0,257.0,2021,semifinals
+252691.0,Feeroozeh Saghafi,Feeroozeh,Saghafi,F,United States,North America,7991.0,CrossFit Mentality,26.0,62 in,130 lb,7.0,252.0,2021,semifinals
+1021143.0,Valentina Rangel,Valentina,Rangel,F,Colombia,South America,22360.0,Iruka CrossFit,24.0,163 cm,63 kg,8.0,244.0,2021,semifinals
+656004.0,Christine Kolenbrander,Christine,Kolenbrander,F,United States,North America,,,29.0,66 in,151 lb,9.0,237.0,2021,semifinals
+1518913.0,Oihana Moya,Oihana,Moya,F,Spain,Europe,11828.0,CrossFit Zurriola,25.0,165 cm,62 kg,10.0,235.0,2021,semifinals
+503582.0,Alexis Raptis,Alexis,Raptis,F,United States,North America,8429.0,C2X CrossFit,22.0,65 in,138 lb,11.0,231.0,2021,semifinals
+531598.0,Paige Semenza,Paige,Semenza,F,United States,North America,4938.0,CrossFit Vertex,29.0,63 in,143 lb,12.0,224.0,2021,semifinals
+221169.0,Victoria Campos,Victoria,Campos,F,Brazil,South America,18157.0,CrossFit Asphodel,28.0,161 cm,134 lb,12.0,224.0,2021,semifinals
+762495.0,Elena Carratala Sanahuja,Elena,Carratala Sanahuja,F,Spain,Europe,19523.0,CrossFit 4 Friends,27.0,,,14.0,213.0,2021,semifinals
+664900.0,Nicole Gibson-Burke,Nicole,Gibson-Burke,F,United States,North America,,,28.0,63 in,125 lb,15.0,205.0,2021,semifinals
+274725.0,Nicole Mghenyi,Nicole,Mghenyi,F,United States,North America,11016.0,CrossFit Progression,31.0,65 in,142 lb,16.0,191.0,2021,semifinals
+208293.0,Alexis Johnson,Alexis,Johnson,F,United States,North America,2852.0,CrossFit Lower Town,30.0,62 in,140 lb,17.0,190.0,2021,semifinals
+1458106.0,Lucy Campbell,Lucy,Campbell,F,United Kingdom,Europe,1954.0,CrossFit Nottingham,25.0,168 cm,74 kg,18.0,179.0,2021,semifinals
+554143.0,Bailey Rogers,Bailey,Rogers,F,New Zealand,Oceania,24685.0,NTRS CrossFit,30.0,170 cm,77 kg,19.0,177.0,2021,semifinals
+101929.0,Dina Swift,Dina,Swift,F,South Africa,Africa,23621.0,CrossFit Body Intelligence Optimization,32.0,178 cm,80 kg,20.0,167.0,2021,semifinals
+1028410.0,Kelly Stone,Kelly,Stone,F,United States,North America,7094.0,CrossFit Omnia,30.0,65 in,150 lb,21.0,160.0,2021,semifinals
+1239579.0,Anikha Greer,Anikha,Greer,F,Canada,North America,11396.0,CrossFit 782,18.0,154 cm,,22.0,155.0,2021,semifinals
+235218.0,Alethea Boon,Alethea,Boon,F,New Zealand,Oceania,26563.0,CrossFit Botany,37.0,160 cm,130 lb,23.0,154.0,2021,semifinals
+270175.0,Evie Hollis,Evie,Hollis,F,United Kingdom,Europe,10868.0,CrossFit Yas,24.0,158 cm,145 lb,24.0,150.0,2021,semifinals
+263982.0,Danielle Dunlap,Danielle,Dunlap,F,United States,North America,,,31.0,64 in,133 lb,25.0,130.0,2021,semifinals
+1558034.0,Julia Kato,Julia,Kato,F,Brazil,South America,15372.0,CrossFit Marilia,21.0,159 cm,,26.0,88.0,2021,semifinals
+387995.0,Stephanie Chung,Stephanie,Chung,F,United States,North America,6085.0,CrossFit Invictus Back Bay,29.0,65 in,150 lb,27.0,79.0,2021,semifinals
+1163483.0,Gilmari Reyneke,Gilmari,Reyneke,F,South Africa,Africa,19088.0,CrossFit Artaxes,24.0,167 cm,59 kg,28.0,70.0,2021,semifinals
