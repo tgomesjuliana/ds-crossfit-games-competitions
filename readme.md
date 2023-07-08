@@ -1,9 +1,7 @@
 # **Data Science CrossFit Project**
-
-[TOC]
+This project aims to analyze CrossFit athletes' performance in major competitions over the last three years and develop a model to predict the results of the 2023 CrossFit Games.
 
 ## **Table of Contents**
-- [Description](#description)
 - [Resources](#resources)
 - [Steps](#steps)
   - [Summary](#summary)
@@ -15,9 +13,6 @@
   - [Model Productionization](#model-productionization)
 - [Results](#results)
 - [Lessons Learned](#lessons-learned)
-
-## **Description**
-This project aims to analyze CrossFit athletes' performance in major competitions over the last three years and develop a model to predict the results of the 2023 CrossFit Games.
 
 ## **Resources**
 Code Editor: Visual Studio Code and Kaggle.  
