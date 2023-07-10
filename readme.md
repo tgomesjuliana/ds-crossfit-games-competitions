@@ -54,6 +54,8 @@ Work in progress.
 1. **Project Ideation**:
 * Have it clear what's the variable you want to predict since the start
 * Check if you have enough data available to create a trustable prediction
+* You'll probably find more data to clean during data analysis
+* You'll probably do some feature engineering during data analysis
 2. **Use of ChatGPT**:
 * Check and correct queries
 * Add comments on what's being done
