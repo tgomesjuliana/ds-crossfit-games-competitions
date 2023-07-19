@@ -39,7 +39,7 @@ The data cleaning process involved several steps to prepare the data for analysi
 The exploratory data analysis (EDA) was conducted in two steps. In the first step, athletes' information datasets were analyzed by combining them and employing various techniques for comprehensive data analysis. Descriptive statistics, including mean, median, and standard deviation, were computed. A heatmap was generated to understand the correlation between numeric variables. Histograms were created to visualize the distributions of key numeric variables, such as age, height, and weight. Additionally, bar charts were used to extract insights from categorical variables, including gender and region. The second step involves analyzing the athletes' scores datasets, examining the performance workout by workout. This analysis will provide a closer look at the progression and patterns in the athletes' scores over time.
 
 ### **Feature Engineering**
-Work in progress.
+Some feature engineering was performed on the dataset prior to model building. Unnecessary columns were dropped, and a new column representing the Body Mass Index (BMI) was created from weight and height measurements. Athletes who participated in the competition games were filtered, and scores and ranks from other competitions were pivoted into new columns for integration. Categorical variables were transformed into numeric variables, and null values were handled individually. Finally, a thorough analysis of the correlation between overall scores and the other variables was conducted.
 
 ### **Model Building**
 Work in progress.
