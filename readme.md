@@ -10,7 +10,6 @@ This project aims to analyze CrossFit athletes' performance in major competition
   - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Feature Engineering](#feature-engineering)
   - [Model Building](#model-building)
-  - [Model Productionization](#model-productionization)
 - [Results](#results)
 - [Lessons Learned](#lessons-learned)
 
@@ -27,7 +26,6 @@ Python Packages: requests, pandas, os, numpy, math, plotly.
 3. **Exploratory Data Analysis**: Analyze variables statistically to gain insights.
 4. **Feature Engineering**: Create new columns with relevant data to enhance the model.
 5. **Model Building**: Develop, compare, and fine-tune machine learning models.
-6. **Model Productionization**: Deploy the model for production use.
 
 ### **Data Collection**
 Data was scraped from the official CrossFit Games website (https://games.crossfit.com/) to gather information about athletes and their performance in official competitions, including the Open, Quarterfinals, Semifinals, and Games, spanning the years 2021 to 2023. The data was acquired through API requests to the CrossFit Games API, utilizing specific endpoints and parameters for each year, competition, and gender. The received JSON responses were processed to extract relevant fields, which were then consolidated into two dataframes per year and competition. One dataframe contains athletes' information, overall score, and rank, while the other dataframe contains athletes' scores and rank per workout.
@@ -42,13 +40,10 @@ The exploratory data analysis (EDA) was conducted in two steps. In the first ste
 Some feature engineering was performed on the dataset prior to model building. Unnecessary columns were dropped, and a new column representing the Body Mass Index (BMI) was created from weight and height measurements. Athletes who participated in the competition games were filtered, and scores and ranks from other competitions were pivoted into new columns for integration. Categorical variables were transformed into numeric variables, and null values were handled individually. Finally, a thorough analysis of the correlation between overall scores and the other variables was conducted.
 
 ### **Model Building**
-Work in progress.
-
-### **Model Productionization**
-Work in progress.
+The model was built using data from 2021 and 2022, with the dataset divided into 80% for training and 20% for testing. The data from 2023 was excluded to serve as the target for predictions, allowing for comparison with the actual scores and rankings in the upcoming month. The column 'overallRank' was also excluded as it is directly related to the predicted column 'overallScore', and I won't have one without the other. With a dataset of only 160 rows and 16 columns available for predictions, simple models such as Decision Tree Regressor, Random Forest Regressor, and XGB Regressor were tested. The Decision Tree model performed the worst, while XGB showed better results but still fell short compared to Random Forest. It is important to note that all models presented high mean absolute errors, which can be attributed to the limited amount of information available.
 
 ## **Results**
-Work in progress.
+The models' errors were unsatisfactory, with mean absolute percentage errors ranging from 50-70% (equivalent to mean absolute errors of 180-280). As mentioned earlier, these high errors were anticipated due to the limited amount of data available. Despite the challenges, the project provided valuable learning opportunities, particularly in the areas of data scraping, data cleaning, and data analysis. Although I was aware that creating a robust model would be difficult with the limited data, I persevered to explore the possibilities. The experience has provided insights into areas for improvement, including the need to gather more data through data scraping and repeating all steps. In future versions of this project, I will apply these learnings to develop better models.
 
 ## **Lessons Learned**
 1. **Project Ideation**:
