@@ -1,5 +1,5 @@
 # **Data Science CrossFit Project**
-This project aims to analyze CrossFit athletes' performance bateween first and last competition over the last thirteen years and develop a model to predict the results of the 2023 CrossFit Games.
+This project aims to analyze CrossFit athletes' performance between the first and last competitions over the last thirteen years and develop a model to predict the results of the 2023 CrossFit Games.
 
 ## **Table of Contents**
 - [Resources](#resources)
@@ -14,8 +14,8 @@ This project aims to analyze CrossFit athletes' performance bateween first and l
 - [Lessons Learned](#lessons-learned)
 
 ## **Resources**
-Code Editor: Visual Studio Code and Kaggle.  
-Python Version: Python 3.11 inside Visual Studio Code and 3.7 inside Kaggle.  
+Code Editor: Visual Studio Code and Kaggle.
+Python Version: Python 3.11 inside Visual Studio Code and 3.7 inside Kaggle.
 Python Packages: requests, pandas, os, numpy, math, plotly, seaborn, matplotlib, sklearn, xgboost.
 
 ## **Steps**
@@ -28,33 +28,33 @@ Python Packages: requests, pandas, os, numpy, math, plotly, seaborn, matplotlib,
 5. **Model Building**: Develop, compare, and fine-tune machine learning models.
 
 ### **Data Collection**
-Work in progress.
+Data was scraped from the official CrossFit Games website (https://games.crossfit.com/) to gather information about athletes and their performance in the Crossfit Games, covering the years 2007 to 2023, and in the Crossfit Open, convering the years 2011 to 2023. Data was obtained by making API requests to the CrossFit Games API, utilizing specific endpoints and parameters for each year, competition, and gender. The JSON responses received were processed to extract relevant fields (athlete's information, scores, and ranks).
 
 ### **Data Cleaning**
-Work in progress.
+Data was subjected to a comprehensive process to prepare it for further analysis. To address inconsistencies, country and region were carefully handled, and, together with the status column, a numeric representation was created for each. Height and weight were standardized each to a common unit, leading also to the creation of a Body Mass Index (BMI) column. Then, Games overall score and rank were processed to remove strings and handle missing data. Also, missing information for age, height, weight, BMI, and affiliate columns was individually addressed. Furthermore, a new column indicating the number of games competitions an athlete had participated in was introduced. Finally, information from the Open, including overall score, rank, and number of open competitions, was also incorporated into the dataset. To enhance data organization, columns were re-ordered before exporting the dataset to a single file. This data cleaning and feature engineering process resulted in an enriched dataset, ready for deeper insights into CrossFit athletes' performance in the competitions.
 
-### **Exploratory Data Analysis**
-Work in progress.
+### **Data Analysis**
+Data was analyzed in several steps to extract valuable insights. Initially, a heatmap was generated to explore correlations between numeric variables, with a particular focus on the Games' overall score. While some correlations, such as rank, number of competitions, and Open information, were expected, not so clear correlations came to light, especially with region and country. To further investigate attributes, histograms were plotted for most numeric variables, and, specifically for height, weight, and BMI, a split by gender was created for a more comprehensive analysis. Additionally, histograms were also used to compare these variables with the average Games' overall score and rank, allowing a deeper understanding of their relations, revealing potential patterns and trends. For categorical variables, bar charts were plotted to also examine their distribution and comparison with the average Games' overall score and rank. Particularly interesting insights were extracted from the analysis of regions: it became evident that North America dominates the number of athletes, followed by Europe with roughly a third of that number, and Oceania with around seven times fewer athletes. Despite the disparity in athlete numbers, these three regions exhibited similar Games' overall scores and ranks, while regions such as South and Central America, Africa, and Asia lagged behind the dominant regions in terms of performance. Overall, this data analysis provided meaningful findings, shedding light on the relationships between various factors across CrossFit athletes' performance in the competitions.
 
 ### **Feature Engineering**
-Work in progress.
+All new features were already created, missing data was handled, and categorical variables were transformed into numeric during the data cleaning phase, so this phase didn't add, remove, or transform any columns. Instead, the mutual information function from scikit-learn (sklearn) was used to quantify the amount of information one variable provides about another variable, with the variable under study being the Games' overall score. As mentioned earlier, the most dependent variables here were Games' overall rank, followed by region, country, number of Games competitions, and Open's overall rank. After that, scatter plots were plotted for most numeric variables to visualize their relations, and regplots were used to show the best-fitting line representing the linear relationship between the two variables.
 
 ### **Model Building**
-Work in progress.
+Model was built excluding the year 2023 and the column Games' overall rank as it depends on the score, also, the dataset was divided into 80% training and 20% testing. The first models built were linear regression and lasso regression, both with a mean absolute error (MAE) around 150. After that, nonlinear regressions were used, including decision trees, which achieved MAEs ranging from 120 to 140 depending on the parameters chosen, and random forests which consistently yielded better results, with MAEs around 100 for various parameter combinations. A XGBoost (XGB) model was also created, resulting in MAEs ranging from 100 to 120 based on the selected parameters. Overall, the results demonstrate significant improvement compared to the initial attempt of the project, where MAEs ranged from 180 to 280.
 
 ## **Results**
-Work in progress.
+In this second attempt, the models' performance showed significant improvement, with mean absolute errors (MAEs) ranging from 100 to 150, compared to 180 to 280 in the initial try of the project. These lower errors can be attributed to several factors, including the increased amount of data scraped (1600 rows compared to 160 rows before), more meticulous data cleaning, and the introduction of new engineered features. Despite encountering various challenges, curiosity and determination drove the project forward, resulting in valuable insights not only about CrossFit competitions but also about data science and machine learning models.
 
 ## **Lessons Learned**
-1. **Project Ideation**:
-* Have it clear what's the variable you want to predict since the start
-* Check if you have enough data available to create a trustable prediction
-* You'll probably find more data to clean during data analysis
-* You'll probably do some feature engineering during data analysis
-2. **Use of ChatGPT**:
+* Start with a clear goal of prediction and check the availability of enough data for reliable predictions.
+* Data cleaning, analysis, and feature engineering are interconnected and may iterate with each other.
+* It's likely not worth it to invest in factorizing queries into functions, as approaches can quickly change.
+* ChatGPT can significantly improve performance, mainly when feeling stuck or dealing with operational work.
 * Check and correct queries
 * Add comments on what's being done
 * Improve queries performance
 * Factorize queries into functions
 * Create checks for errors
 * Create or improve charts
+
+Overall, this project showcases the potential of data science in exploring athletic performance and offers valuable insights for future analysis and modeling.
