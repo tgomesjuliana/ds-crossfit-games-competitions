@@ -1,5 +1,5 @@
 # **Data Science CrossFit Project**
-This project aims to analyze CrossFit athletes' performance between the first and last competitions over the last thirteen years and develop a model to predict the results of the 2023 CrossFit Games.
+This project aims to analyze CrossFit athletes' performance between the first and last competitions over the last seventeen years and develop a model to predict the results of the 2023 CrossFit Games.
 
 ## **Table of Contents**
 - [Resources](#resources)
